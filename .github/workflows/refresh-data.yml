@@ -1,0 +1,35 @@
+name: Refresh meeting data
+
+on:
+  schedule:
+    - cron: '0 4 * * 1' # Mondays 04:00 UTC (06:00 SAST)
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm ci
+
+      - name: Collect meeting data
+        run: node scripts/collect.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "meeting-finder-bot"
+          git config user.email "actions@github.com"
+          git add public/data/meetings.json scripts/geocache.json scripts/state.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "data: refresh meeting list"
+            git push
+          fi
