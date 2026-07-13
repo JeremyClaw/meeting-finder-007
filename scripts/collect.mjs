@@ -152,7 +152,7 @@ const CA_PAGES = [
   { url: 'https://ca.org.za/casa/meetings-greater-sa/', region: 'Greater SA' },
 ];
 
-function parseCaPage(html, region) {
+function parseCaPage(html, region, pageUrl) {
   const $ = load(html);
   const meetings = [];
 
@@ -203,7 +203,7 @@ function parseCaPage(html, region) {
         notes: null,
         online: false,
         conferenceUrl: null,
-        sourceUrl: null,
+        sourceUrl: pageUrl,
       });
     });
   });
@@ -274,7 +274,7 @@ async function collectCA() {
   for (const { url, region } of CA_PAGES) {
     console.log(`CA/${region}: fetching…`);
     const html = await (await get(url)).text();
-    const meetings = parseCaPage(html, region);
+    const meetings = parseCaPage(html, region, url);
     console.log(`CA/${region}: ${meetings.length} meetings parsed`);
     all.push(...meetings);
   }
