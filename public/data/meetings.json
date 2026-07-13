@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T16:31:12.659Z",
+ "updated": "2026-07-13T18:52:41.055Z",
  "counts": {
   "AA": 386,
   "NA": 275,
@@ -24,7 +24,7 @@
    "notes": "Open meeting every 1st Thursday of the month.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/howick-big-book/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/howick-big-book"
   },
   {
    "id": "aa-2415",
@@ -41,7 +41,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/dawn-park/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/dawn-park"
   },
   {
    "id": "aa-2401",
@@ -60,7 +60,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/the-soshanguve-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/the-soshanguve-group"
   },
   {
    "id": "aa-2391",
@@ -77,7 +77,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/lamplight/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/lamplight"
   },
   {
    "id": "aa-2374",
@@ -94,7 +94,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/umbilo/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/umbilo"
   },
   {
    "id": "aa-2368",
@@ -111,7 +111,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/struisbaai-beacon-of-hope/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/struisbaai-beacon-of-hope"
   },
   {
    "id": "aa-2331",
@@ -130,7 +130,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/windsor-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/windsor-2"
   },
   {
    "id": "aa-2329",
@@ -149,7 +149,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/windsor/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/windsor"
   },
   {
    "id": "aa-2324",
@@ -168,7 +168,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/aa-vriend-van-bill-bloemfontein/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/aa-vriend-van-bill-bloemfontein"
   },
   {
    "id": "aa-2321",
@@ -187,7 +187,7 @@
    "notes": "Meetings only on every 2nd Saturday of the month. Dates for 2026 below.\n7 &amp; 21 Feb, 7 &amp; 21 March, 4 &amp; 18 April, 2,16 &amp; 30 May, 13 &amp; 27 June, 11 &amp; 25 July, 8 &amp; 22 August\n5 &amp; 19 September, 3, 17 &amp; 31 October, 14 7 28 November, 12 December",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/caledon-aa-meeting/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/caledon-aa-meeting"
   },
   {
    "id": "aa-2314",
@@ -206,7 +206,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/amanzimtoti/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/amanzimtoti"
   },
   {
    "id": "aa-2303",
@@ -225,7 +225,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/queenstown/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/queenstown"
   },
   {
    "id": "aa-2300",
@@ -244,7 +244,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bonteheuwel/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bonteheuwel"
   },
   {
    "id": "aa-2298",
@@ -261,7 +261,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/blue-downs-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/blue-downs-2"
   },
   {
    "id": "aa-2290",
@@ -280,7 +280,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/howick-west-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/howick-west-2"
   },
   {
    "id": "aa-2262",
@@ -299,7 +299,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/protea/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/protea"
   },
   {
    "id": "aa-2230",
@@ -318,7 +318,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/langebaan-friends-of-bill-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/langebaan-friends-of-bill-group"
   },
   {
    "id": "aa-2063",
@@ -335,7 +335,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/aa-rustenburg/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/aa-rustenburg"
   },
   {
    "id": "aa-2065",
@@ -354,7 +354,7 @@
    "notes": "Online &amp; In Person Meeting\n\nPasscode: 000002",
    "online": false,
    "conferenceUrl": "https://us02web.zoom.us/j/692864254?pwd=aEFDaENzR0FqZmpwVzk1anJWSUNLQT09",
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/pied-piper-8/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pied-piper-8"
   },
   {
    "id": "aa-2067",
@@ -371,7 +371,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/rietvalleirand/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/rietvalleirand"
   },
   {
    "id": "aa-2069",
@@ -388,7 +388,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/serendipity-discussion/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/serendipity-discussion"
   },
   {
    "id": "aa-2071",
@@ -405,7 +405,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/steenberg/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/steenberg"
   },
   {
    "id": "aa-2075",
@@ -424,7 +424,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bluff/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bluff"
   },
   {
    "id": "aa-2076",
@@ -441,7 +441,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/durbanville/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/durbanville"
   },
   {
    "id": "aa-2077",
@@ -458,7 +458,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/robertsham-discussion/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/robertsham-discussion"
   },
   {
    "id": "aa-2079",
@@ -477,7 +477,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/claremont-sunday-serenity/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/claremont-sunday-serenity"
   },
   {
    "id": "aa-2052",
@@ -494,7 +494,7 @@
    "notes": "The Sunday 5.30 Group will be closed for the rest of December and will reopen its doors on the 3rd January 2026.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/sunday-530-aa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sunday-530-aa"
   },
   {
    "id": "aa-2059",
@@ -513,7 +513,7 @@
    "notes": "Open last Sunday of month",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kensington/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kensington"
   },
   {
    "id": "aa-2061",
@@ -532,7 +532,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/pied-piper-cape-town/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pied-piper-cape-town"
   },
   {
    "id": "aa-2050",
@@ -549,7 +549,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/triangle-brackenfell-sunday-step/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/triangle-brackenfell-sunday-step"
   },
   {
    "id": "aa-2028",
@@ -566,7 +566,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/greendale-zimbabwe/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/greendale-zimbabwe"
   },
   {
    "id": "aa-2031",
@@ -583,7 +583,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/athlone-klipfontein/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/athlone-klipfontein"
   },
   {
    "id": "aa-2033",
@@ -602,7 +602,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/firgrove/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/firgrove"
   },
   {
    "id": "aa-2035",
@@ -619,7 +619,7 @@
    "notes": "Big Book / 12 Steps / Living Sober Workshops",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/haven-workshop-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/haven-workshop-2"
   },
   {
    "id": "aa-2037",
@@ -636,7 +636,7 @@
    "notes": "The theme for 2022 is LIVING SOBER, covering a wide range of topics that enhance the quality of sobriety.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/haven-workshop/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/haven-workshop"
   },
   {
    "id": "aa-2038",
@@ -655,7 +655,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/marlborough-group-zimbabwe-6/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/marlborough-group-zimbabwe-6"
   },
   {
    "id": "aa-2040",
@@ -674,7 +674,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/live-and-let-live/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/live-and-let-live"
   },
   {
    "id": "aa-2041",
@@ -691,7 +691,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/sunday-discussions/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sunday-discussions"
   },
   {
    "id": "aa-2043",
@@ -711,7 +711,7 @@
    "notes": "Hybrid Meeting\n\nMeeting ID : 89577165599\nPassword : 834628",
    "online": false,
    "conferenceUrl": "https://us02web.zoom.us/j/89577165599?pwd=SWZ0ZytEeHE2eXloLzFZKzI1ZHpkQT09",
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/ladies-big-book-sunday-meeting-pretoria/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ladies-big-book-sunday-meeting-pretoria"
   },
   {
    "id": "aa-2044",
@@ -730,7 +730,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/sunday-south-big-book/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sunday-south-big-book"
   },
   {
    "id": "aa-2046",
@@ -747,7 +747,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/woodlands/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/woodlands"
   },
   {
    "id": "aa-2023",
@@ -767,7 +767,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/umlazi/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/umlazi"
   },
   {
    "id": "aa-2025",
@@ -784,7 +784,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/umlazi-kwad/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/umlazi-kwad"
   },
   {
    "id": "aa-1993",
@@ -801,7 +801,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bombay-heights-kzn/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bombay-heights-kzn"
   },
   {
    "id": "aa-1995",
@@ -818,7 +818,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/keep-it-simple-goodwood/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/keep-it-simple-goodwood"
   },
   {
    "id": "aa-1997",
@@ -835,7 +835,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/saturday-south/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/saturday-south"
   },
   {
    "id": "aa-2004",
@@ -852,7 +852,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bromhof-12-12-study/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bromhof-12-12-study"
   },
   {
    "id": "aa-2006",
@@ -871,7 +871,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/sunday-scottburgh/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sunday-scottburgh"
   },
   {
    "id": "aa-2009",
@@ -888,7 +888,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bills-room-sunday-spiritual/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bills-room-sunday-spiritual"
   },
   {
    "id": "aa-2011",
@@ -905,7 +905,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/group-21/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/group-21"
   },
   {
    "id": "aa-2013",
@@ -924,7 +924,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/benmore/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/benmore"
   },
   {
    "id": "aa-2015",
@@ -941,7 +941,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/eldorado-park/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/eldorado-park"
   },
   {
    "id": "aa-2017",
@@ -958,7 +958,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/soweto/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/soweto"
   },
   {
    "id": "aa-2019",
@@ -977,7 +977,7 @@
    "notes": "Opposite Taxi Rank",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/nyanga/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/nyanga"
   },
   {
    "id": "aa-2021",
@@ -994,7 +994,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/oudshoorn/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/oudshoorn"
   },
   {
    "id": "aa-1991",
@@ -1011,7 +1011,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/sane-and-sober-saturday-table-view/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sane-and-sober-saturday-table-view"
   },
   {
    "id": "aa-1962",
@@ -1030,7 +1030,7 @@
    "notes": "WhatsApp meeting - Kagiso 063 058 0631",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/katlehong/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/katlehong"
   },
   {
    "id": "aa-1964",
@@ -1049,7 +1049,7 @@
    "notes": "Meeting in Recess",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/ladies/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ladies"
   },
   {
    "id": "aa-1966",
@@ -1066,7 +1066,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/rivonia/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/rivonia"
   },
   {
    "id": "aa-1968",
@@ -1085,7 +1085,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/sobriety-lane/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sobriety-lane"
   },
   {
    "id": "aa-1970",
@@ -1102,7 +1102,7 @@
    "notes": "Meeting to resume from 6 July 2024",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/starwood/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/starwood"
   },
   {
    "id": "aa-1972",
@@ -1119,7 +1119,7 @@
    "notes": "Group will go into recess from this Saturday the 13th December 2026 and will reopen on Saturday the 10th January 2026",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/orient-park/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/orient-park"
   },
   {
    "id": "aa-1977",
@@ -1138,7 +1138,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/plumstead-happy-hour-cpt/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/plumstead-happy-hour-cpt"
   },
   {
    "id": "aa-1978",
@@ -1158,7 +1158,7 @@
    "notes": "1st Meeting of each month is an \"Open\" meeting.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/plettenberg-bay-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/plettenberg-bay-3"
   },
   {
    "id": "aa-1981",
@@ -1175,7 +1175,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/reservoir-hills/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/reservoir-hills"
   },
   {
    "id": "aa-1982",
@@ -1194,7 +1194,7 @@
    "notes": "Temporarily Closed\nAs Bill See’s It",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/marlborough-group-zimbabwe-5/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/marlborough-group-zimbabwe-5"
   },
   {
    "id": "aa-1985",
@@ -1213,7 +1213,7 @@
    "notes": "Hybrid Meeting\n\nZoom meeting\nzoom password: 005731\nzoom ID: 87353110089",
    "online": false,
    "conferenceUrl": "https://us02web.zoom.us/j/87353110089?pwd=Sm1RQjhMWW9lNFNNbmFzUkVGMG1zQT09",
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/a-new-freedom-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/a-new-freedom-2"
   },
   {
    "id": "aa-1987",
@@ -1232,7 +1232,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/silverglen-westcliff/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/silverglen-westcliff"
   },
   {
    "id": "aa-1947",
@@ -1249,7 +1249,7 @@
    "notes": "Big Book Study Group",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/greendale-group-zimbabwe-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/greendale-group-zimbabwe-2"
   },
   {
    "id": "aa-1950",
@@ -1266,7 +1266,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/st-francis-on-assisi-anglican-church-cnr-fraser-rd-and-first-ave-parktown-waterfalls-saturday-1030-am/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/st-francis-on-assisi-anglican-church-cnr-fraser-rd-and-first-ave-parktown-waterfalls-saturday-1030-am"
   },
   {
    "id": "aa-1952",
@@ -1283,7 +1283,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/gratitude-in-action/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/gratitude-in-action"
   },
   {
    "id": "aa-1953",
@@ -1302,7 +1302,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/somerset-west-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/somerset-west-3"
   },
   {
    "id": "aa-1956",
@@ -1319,7 +1319,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/better-than-gold/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/better-than-gold"
   },
   {
    "id": "aa-1958",
@@ -1336,7 +1336,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/beach-point/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/beach-point"
   },
   {
    "id": "aa-1960",
@@ -1353,7 +1353,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/17090/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/17090"
   },
   {
    "id": "aa-1927",
@@ -1370,7 +1370,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bills-room-saturday-sunrise/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bills-room-saturday-sunrise"
   },
   {
    "id": "aa-1930",
@@ -1387,7 +1387,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/chatsworth-sunrise/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/chatsworth-sunrise"
   },
   {
    "id": "aa-1931",
@@ -1404,7 +1404,7 @@
    "notes": "NB: Literature meeting - reading and discussion from the 12 Steps and 12 Traditions\n\nNB: Kindly note that this venue is not \"Wheelchair Friendly\"",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/green-door-steps-and-traditions/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/green-door-steps-and-traditions"
   },
   {
    "id": "aa-1933",
@@ -1423,7 +1423,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/umhlanga-lighthouse-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/umhlanga-lighthouse-2"
   },
   {
    "id": "aa-1936",
@@ -1442,7 +1442,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/supertube/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/supertube"
   },
   {
    "id": "aa-1938",
@@ -1459,7 +1459,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/surfers-corner-aa-muizenberg/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/surfers-corner-aa-muizenberg"
   },
   {
    "id": "aa-1939",
@@ -1479,7 +1479,7 @@
    "notes": "Closed 25th December and 1st January. Reopens 8th January. Zoom will still be available on these dates.\nZoom and Physical meeting\nPassword: Free@1501\nzoom ID: 98575457115",
    "online": false,
    "conferenceUrl": "https://us02web.zoom.us/j/98575457115",
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/rosebank-big-book/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/rosebank-big-book"
   },
   {
    "id": "aa-1941",
@@ -1498,7 +1498,7 @@
    "notes": "Elim Clinic\nVisitors to sign-in at security",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kempton-park-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kempton-park-group"
   },
   {
    "id": "aa-1943",
@@ -1517,7 +1517,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/pioneer-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pioneer-group"
   },
   {
    "id": "aa-1944",
@@ -1536,7 +1536,7 @@
    "notes": "PhysicalMeeting, Closed (Big Book Meeting)",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/the-solution-group-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/the-solution-group-2"
   },
   {
    "id": "aa-1945",
@@ -1553,7 +1553,7 @@
    "notes": "Big Book Meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/house-of-mercy-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/house-of-mercy-3"
   },
   {
    "id": "aa-1946",
@@ -1573,7 +1573,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/sober-saturday/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sober-saturday"
   },
   {
    "id": "aa-1913",
@@ -1592,7 +1592,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/nirvana/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/nirvana"
   },
   {
    "id": "aa-1915",
@@ -1609,7 +1609,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/ottawa-kzn/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ottawa-kzn"
   },
   {
    "id": "aa-1916",
@@ -1626,7 +1626,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hottentots-holland-back-to-basics/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hottentots-holland-back-to-basics"
   },
   {
    "id": "aa-1921",
@@ -1645,7 +1645,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/greenfields/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/greenfields"
   },
   {
    "id": "aa-1922",
@@ -1662,7 +1662,7 @@
    "notes": "God Box",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/avondale-group-zimbabwe-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/avondale-group-zimbabwe-3"
   },
   {
    "id": "aa-1925",
@@ -1681,7 +1681,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/ballito-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ballito-2"
   },
   {
    "id": "aa-1886",
@@ -1698,7 +1698,7 @@
    "notes": "Big Book Discussion",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bronkhorstspruit/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bronkhorstspruit"
   },
   {
    "id": "aa-1888",
@@ -1715,7 +1715,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/coronationville/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/coronationville"
   },
   {
    "id": "aa-1890",
@@ -1732,7 +1732,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/empangeni/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/empangeni"
   },
   {
    "id": "aa-1893",
@@ -1751,7 +1751,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hanover-park/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hanover-park"
   },
   {
    "id": "aa-1894",
@@ -1770,7 +1770,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hermanus/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hermanus"
   },
   {
    "id": "aa-1895",
@@ -1789,7 +1789,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/tongaat-highway/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/tongaat-highway"
   },
   {
    "id": "aa-1896",
@@ -1806,7 +1806,7 @@
    "notes": "Closed (Open last Tuesday of the month)",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/wierda-park-group-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/wierda-park-group-2"
   },
   {
    "id": "aa-1897",
@@ -1823,7 +1823,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/witbank-aa-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/witbank-aa-2"
   },
   {
    "id": "aa-1900",
@@ -1842,7 +1842,7 @@
    "notes": "Open meeting every last Friday of the month.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bergvliet/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bergvliet"
   },
   {
    "id": "aa-1901",
@@ -1861,7 +1861,7 @@
    "notes": "Done Road, Clairwood, Durban, 4052",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/clairwood/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/clairwood"
   },
   {
    "id": "aa-1903",
@@ -1880,7 +1880,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/duurban-south-unit-6/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/duurban-south-unit-6"
   },
   {
    "id": "aa-1905",
@@ -1899,7 +1899,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/glenhills-discussion/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/glenhills-discussion"
   },
   {
    "id": "aa-1907",
@@ -1918,7 +1918,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kalk-bay/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kalk-bay"
   },
   {
    "id": "aa-1909",
@@ -1935,7 +1935,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/new-hope/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/new-hope"
   },
   {
    "id": "aa-1911",
@@ -1952,7 +1952,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/newlight/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/newlight"
   },
   {
    "id": "aa-1874",
@@ -1971,7 +1971,7 @@
    "notes": "Only the last Friday of the month is an Open Face to Face Meeting.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/tgif-sea-point-thank-god-its-friday/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/tgif-sea-point-thank-god-its-friday"
   },
   {
    "id": "aa-1877",
@@ -1988,7 +1988,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/friday-night-live/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/friday-night-live"
   },
   {
    "id": "aa-1878",
@@ -2007,7 +2007,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/tgi-kzn-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/tgi-kzn-2"
   },
   {
    "id": "aa-1883",
@@ -2024,7 +2024,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/benoni-south/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/benoni-south"
   },
   {
    "id": "aa-1884",
@@ -2043,7 +2043,7 @@
    "notes": "Topic Meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bracken-newcomers/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bracken-newcomers"
   },
   {
    "id": "aa-1843",
@@ -2062,7 +2062,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/a-new-dawn/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/a-new-dawn"
   },
   {
    "id": "aa-1844",
@@ -2081,7 +2081,7 @@
    "notes": "Closed (Open 4th Monday)",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/express-1-hour-5/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/express-1-hour-5"
   },
   {
    "id": "aa-1845",
@@ -2098,7 +2098,7 @@
    "notes": "Meeting in \"RECESS\" till further notice.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/lower-south-coast/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/lower-south-coast"
   },
   {
    "id": "aa-1846",
@@ -2115,7 +2115,7 @@
    "notes": "Topic - Living Sober",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/east-rand-lunchtime-meeting-6/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/east-rand-lunchtime-meeting-6"
   },
   {
    "id": "aa-1847",
@@ -2132,7 +2132,7 @@
    "notes": "House of Steps",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/plettenberg-bay-4/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/plettenberg-bay-4"
   },
   {
    "id": "aa-1852",
@@ -2151,7 +2151,7 @@
    "notes": "2.8 kms from the Life Wilgeheuwel Hospital in Radiokop",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/harveston/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/harveston"
   },
   {
    "id": "aa-1853",
@@ -2168,7 +2168,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/lonehill-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/lonehill-2"
   },
   {
    "id": "aa-1855",
@@ -2187,7 +2187,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/thembisa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/thembisa"
   },
   {
    "id": "aa-1856",
@@ -2204,7 +2204,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/green-market-express-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/green-market-express-2"
   },
   {
    "id": "aa-1858",
@@ -2221,7 +2221,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/515-express/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/515-express"
   },
   {
    "id": "aa-1859",
@@ -2238,7 +2238,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/avondale-zimbabwe-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/avondale-zimbabwe-2"
   },
   {
    "id": "aa-1860",
@@ -2255,7 +2255,7 @@
    "notes": "Experience, Strength, Hope",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kingsmead-group-zimbabwe/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kingsmead-group-zimbabwe"
   },
   {
    "id": "aa-1863",
@@ -2272,7 +2272,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/cbd/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/cbd"
   },
   {
    "id": "aa-1864",
@@ -2291,7 +2291,7 @@
    "notes": "Hybrid Meeting\nPasscode AA1234",
    "online": false,
    "conferenceUrl": "https://us02web.zoom.us/j/81873560337?pwd=RXhlTjF3SjQ3Y0ozQ0xrOHFtcW9Qdz09",
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/st-francis-5-30-express/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/st-francis-5-30-express"
   },
   {
    "id": "aa-1869",
@@ -2308,7 +2308,7 @@
    "notes": "Meeting in recess until further notice",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bethesda/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bethesda"
   },
   {
    "id": "aa-1871",
@@ -2325,7 +2325,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/freethinkers/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/freethinkers"
   },
   {
    "id": "aa-1873",
@@ -2342,7 +2342,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hope-exchange-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hope-exchange-group"
   },
   {
    "id": "aa-1815",
@@ -2359,7 +2359,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/newton-park/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/newton-park"
   },
   {
    "id": "aa-1817",
@@ -2378,7 +2378,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/northcliff/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/northcliff"
   },
   {
    "id": "aa-1819",
@@ -2397,7 +2397,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/primary-purpose-big-book-study-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/primary-purpose-big-book-study-group"
   },
   {
    "id": "aa-1821",
@@ -2414,7 +2414,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/robertsham/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/robertsham"
   },
   {
    "id": "aa-1822",
@@ -2431,7 +2431,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/sandton/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sandton"
   },
   {
    "id": "aa-1824",
@@ -2450,7 +2450,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/stellenbosch/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/stellenbosch"
   },
   {
    "id": "aa-1826",
@@ -2469,7 +2469,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/tongaat/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/tongaat"
   },
   {
    "id": "aa-1828",
@@ -2486,7 +2486,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/unit-7/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/unit-7"
   },
   {
    "id": "aa-1830",
@@ -2503,7 +2503,7 @@
    "notes": "The Woodview Group will be closed on 25th of December 2025 &amp; 1st January 2026. We will reopen for meetings on 08th January 2026",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/woodview/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/woodview"
   },
   {
    "id": "aa-1836",
@@ -2522,7 +2522,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/alberton/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/alberton"
   },
   {
    "id": "aa-1838",
@@ -2539,7 +2539,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/ennerdale/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ennerdale"
   },
   {
    "id": "aa-1801",
@@ -2558,7 +2558,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/frankly-speaking-big-book-study/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/frankly-speaking-big-book-study"
   },
   {
    "id": "aa-1803",
@@ -2575,7 +2575,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/glenridge-kzn/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/glenridge-kzn"
   },
   {
    "id": "aa-1805",
@@ -2594,7 +2594,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/gonubie/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/gonubie"
   },
   {
    "id": "aa-1806",
@@ -2613,7 +2613,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/greenwood-park-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/greenwood-park-2"
   },
   {
    "id": "aa-1807",
@@ -2632,7 +2632,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/house-of-mercy-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/house-of-mercy-2"
   },
   {
    "id": "aa-1809",
@@ -2651,7 +2651,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kwa-dukuza/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kwa-dukuza"
   },
   {
    "id": "aa-1811",
@@ -2668,7 +2668,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/laudium/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/laudium"
   },
   {
    "id": "aa-1813",
@@ -2685,7 +2685,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/montclair/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/montclair"
   },
   {
    "id": "aa-1793",
@@ -2704,7 +2704,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/newcastle/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/newcastle"
   },
   {
    "id": "aa-1795",
@@ -2723,7 +2723,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/elsies-river-there-is-a-solution/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/elsies-river-there-is-a-solution"
   },
   {
    "id": "aa-1798",
@@ -2742,7 +2742,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/cape-town-1-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/cape-town-1-group"
   },
   {
    "id": "aa-1800",
@@ -2759,7 +2759,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/edenvale/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/edenvale"
   },
   {
    "id": "aa-1775",
@@ -2776,7 +2776,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/krugersdorp/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/krugersdorp"
   },
   {
    "id": "aa-1777",
@@ -2793,7 +2793,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/loerie/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/loerie"
   },
   {
    "id": "aa-1778",
@@ -2810,7 +2810,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/middelburg-aa-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/middelburg-aa-2"
   },
   {
    "id": "aa-1780",
@@ -2830,7 +2830,7 @@
    "notes": "Hybrid Meeting\nZoom id: 986 7975 6137\nPassword: 438537",
    "online": false,
    "conferenceUrl": "https://zoom.us/j/98679756137?pwd=VEZlN3A2aEE4RTdoZG9PMFh4MjdMQT09",
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/mossel-bay/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/mossel-bay"
   },
   {
    "id": "aa-1782",
@@ -2847,7 +2847,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/ocean-view/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ocean-view"
   },
   {
    "id": "aa-1783",
@@ -2866,7 +2866,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/pioneers-group-windhoek-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pioneers-group-windhoek-2"
   },
   {
    "id": "aa-1785",
@@ -2885,7 +2885,7 @@
    "notes": "1st Thursday of each month is an open meeting.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/port-alfred/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/port-alfred"
   },
   {
    "id": "aa-1787",
@@ -2905,7 +2905,7 @@
    "notes": "* Meeting In Recess Till Further Notice!!",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/richards-bay-meer-en-see/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/richards-bay-meer-en-see"
   },
   {
    "id": "aa-1789",
@@ -2924,7 +2924,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/springs-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/springs-2"
   },
   {
    "id": "aa-1791",
@@ -2943,7 +2943,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/triangle-brackenfell/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/triangle-brackenfell"
   },
   {
    "id": "aa-1762",
@@ -2962,7 +2962,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/airfield-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/airfield-2"
   },
   {
    "id": "aa-1764",
@@ -2979,7 +2979,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/austerville/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/austerville"
   },
   {
    "id": "aa-1766",
@@ -2996,7 +2996,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/comfort-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/comfort-group"
   },
   {
    "id": "aa-1767",
@@ -3013,7 +3013,7 @@
    "notes": "Meeting opens at 18h45 for meet and greet",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/garsfontein-new-beginnings/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/garsfontein-new-beginnings"
   },
   {
    "id": "aa-1769",
@@ -3030,7 +3030,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/irene-group-rsa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/irene-group-rsa"
   },
   {
    "id": "aa-1771",
@@ -3047,7 +3047,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/killarney-milnerton/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/killarney-milnerton"
   },
   {
    "id": "aa-1773",
@@ -3066,7 +3066,7 @@
    "notes": "Meeting is an hour and a half.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/knysna/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/knysna"
   },
   {
    "id": "aa-1729",
@@ -3085,7 +3085,7 @@
    "notes": "Kagyu Samye Dzong Randburg",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/fellowship-of-the-spirit/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/fellowship-of-the-spirit"
   },
   {
    "id": "aa-1731",
@@ -3104,7 +3104,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/glencoe-aa-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/glencoe-aa-2"
   },
   {
    "id": "aa-1733",
@@ -3123,7 +3123,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/highveld/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/highveld"
   },
   {
    "id": "aa-1735",
@@ -3142,7 +3142,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/klerksdorp-aa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/klerksdorp-aa"
   },
   {
    "id": "aa-1739",
@@ -3161,7 +3161,7 @@
    "notes": "Big Book study meeting.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/somerset-east-aa-group-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/somerset-east-aa-group-2"
   },
   {
    "id": "aa-1740",
@@ -3180,7 +3180,7 @@
    "notes": "Temporarily Closed",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/marlborough-group-zimbabwe-4/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/marlborough-group-zimbabwe-4"
   },
   {
    "id": "aa-1743",
@@ -3197,7 +3197,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/koster/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/koster"
   },
   {
    "id": "aa-1744",
@@ -3216,7 +3216,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hillcrest-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hillcrest-2"
   },
   {
    "id": "aa-1746",
@@ -3233,7 +3233,7 @@
    "notes": "Big Book Meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/howick-west/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/howick-west"
   },
   {
    "id": "aa-1748",
@@ -3252,7 +3252,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/scottburgh/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/scottburgh"
   },
   {
    "id": "aa-1750",
@@ -3269,7 +3269,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/valley-jwra/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/valley-jwra"
   },
   {
    "id": "aa-1752",
@@ -3286,7 +3286,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/vryheid/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/vryheid"
   },
   {
    "id": "aa-1754",
@@ -3305,7 +3305,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/waves-of-change/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/waves-of-change"
   },
   {
    "id": "aa-1756",
@@ -3322,7 +3322,7 @@
    "notes": "Topic Meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/montana-aa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/montana-aa"
   },
   {
    "id": "aa-1758",
@@ -3342,7 +3342,7 @@
    "notes": "Hybrid Zoom Meeting\nMeeting ID: 813 2481 4822\nPasscode: 849447",
    "online": false,
    "conferenceUrl": "https://us04web.zoom.us/j/81324814822",
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/randburg-central/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/randburg-central"
   },
   {
    "id": "aa-1720",
@@ -3361,7 +3361,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/zimbabwe-eastlea-4/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/zimbabwe-eastlea-4"
   },
   {
    "id": "aa-1722",
@@ -3380,7 +3380,7 @@
    "notes": "Temporary Inactive",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/aa-orania/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/aa-orania"
   },
   {
    "id": "aa-1723",
@@ -3400,7 +3400,7 @@
    "notes": "Bulawayo Helpline number - 0719 123 711\nwww.aa.org.zw",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bulawayo-group-zimbabwe-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bulawayo-group-zimbabwe-3"
   },
   {
    "id": "aa-1724",
@@ -3417,7 +3417,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/prins-albert-copy/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/prins-albert-copy"
   },
   {
    "id": "aa-1716",
@@ -3434,7 +3434,7 @@
    "notes": "Various as per Preambles",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/edenvale-lunch-4/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/edenvale-lunch-4"
   },
   {
    "id": "aa-1718",
@@ -3451,7 +3451,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/whistle-stop/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/whistle-stop"
   },
   {
    "id": "aa-1685",
@@ -3470,7 +3470,7 @@
    "notes": "Please be informed that the Stepping Stones will not be hosting meetings on the following dates:\n24 DECEMBER 2025\n31 DECEMBER 2025\nThis is due to the non availability of the venue. We apologise for the inconvenience and encourage you to attend meetings elsewhere on those dates.\nOur meeting will resume on 7 JANUARY 2026.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/stepping-stones-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/stepping-stones-2"
   },
   {
    "id": "aa-1688",
@@ -3489,7 +3489,7 @@
    "notes": "Open meeting every last Wednesday of the month.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/wilro-park/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/wilro-park"
   },
   {
    "id": "aa-1693",
@@ -3506,7 +3506,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/grove-end/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/grove-end"
   },
   {
    "id": "aa-1694",
@@ -3525,7 +3525,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/lansdowne/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/lansdowne"
   },
   {
    "id": "aa-1696",
@@ -3544,7 +3544,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/stanger/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/stanger"
   },
   {
    "id": "aa-1700",
@@ -3563,7 +3563,7 @@
    "notes": "Closed (Open 4th Monday)",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/express-1-hour-4/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/express-1-hour-4"
   },
   {
    "id": "aa-1702",
@@ -3580,7 +3580,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/valley-morning-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/valley-morning-group"
   },
   {
    "id": "aa-1704",
@@ -3597,7 +3597,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/wynberg/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/wynberg"
   },
   {
    "id": "aa-1706",
@@ -3614,7 +3614,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hoedspruit-high-noon/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hoedspruit-high-noon"
   },
   {
    "id": "aa-1707",
@@ -3631,7 +3631,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/somerset-west-exspresso/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/somerset-west-exspresso"
   },
   {
    "id": "aa-1708",
@@ -3648,7 +3648,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hermanus-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hermanus-3"
   },
   {
    "id": "aa-1710",
@@ -3667,7 +3667,7 @@
    "notes": "Lonehill Village Church, off Concourse Crescent, Lonehill",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/lonehill-4/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/lonehill-4"
   },
   {
    "id": "aa-1712",
@@ -3686,7 +3686,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/green-market-express/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/green-market-express"
   },
   {
    "id": "aa-1674",
@@ -3703,7 +3703,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/landsdowne/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/landsdowne"
   },
   {
    "id": "aa-1676",
@@ -3722,7 +3722,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/midrand/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/midrand"
   },
   {
    "id": "aa-1677",
@@ -3741,7 +3741,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/northdene-queensborough/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/northdene-queensborough"
   },
   {
    "id": "aa-1679",
@@ -3760,7 +3760,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/pietermaritzburg-central-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pietermaritzburg-central-2"
   },
   {
    "id": "aa-1681",
@@ -3779,7 +3779,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/promises/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/promises"
   },
   {
    "id": "aa-1683",
@@ -3796,7 +3796,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/rondebosch-cpt/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/rondebosch-cpt"
   },
   {
    "id": "aa-1644",
@@ -3813,7 +3813,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/the-solution-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/the-solution-group"
   },
   {
    "id": "aa-1646",
@@ -3832,7 +3832,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/three-rivers/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/three-rivers"
   },
   {
    "id": "aa-1648",
@@ -3851,7 +3851,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/westering-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/westering-group"
   },
   {
    "id": "aa-1650",
@@ -3868,7 +3868,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/witbank-aa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/witbank-aa"
   },
   {
    "id": "aa-1652",
@@ -3887,7 +3887,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/eastern-suburbs/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/eastern-suburbs"
   },
   {
    "id": "aa-1654",
@@ -3904,7 +3904,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/living-sober/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/living-sober"
   },
   {
    "id": "aa-1656",
@@ -3923,7 +3923,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/aaa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/aaa"
   },
   {
    "id": "aa-1658",
@@ -3940,7 +3940,7 @@
    "notes": "Closed meeting + open meeting on last Wednesday of month.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bellville-cpt/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bellville-cpt"
   },
   {
    "id": "aa-1660",
@@ -3957,7 +3957,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/croftdene/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/croftdene"
   },
   {
    "id": "aa-1662",
@@ -3976,7 +3976,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/extension-10-group-of-alcoholics-anonynous/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/extension-10-group-of-alcoholics-anonynous"
   },
   {
    "id": "aa-1664",
@@ -3995,7 +3995,7 @@
    "notes": "Book Sessions",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/extension-ten-group-of-alcoholics-anonymous/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/extension-ten-group-of-alcoholics-anonymous"
   },
   {
    "id": "aa-1666",
@@ -4014,7 +4014,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/gordons-bay/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/gordons-bay"
   },
   {
    "id": "aa-1668",
@@ -4033,7 +4033,7 @@
    "notes": "Elfindale Civic ,Apollo Road ,Elfindale",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/heathfield-western-cape/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/heathfield-western-cape"
   },
   {
    "id": "aa-1670",
@@ -4050,7 +4050,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kibler-park/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kibler-park"
   },
   {
    "id": "aa-1672",
@@ -4067,7 +4067,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kuilsriver/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kuilsriver"
   },
   {
    "id": "aa-1640",
@@ -4086,7 +4086,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/pretoria-north/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pretoria-north"
   },
   {
    "id": "aa-1642",
@@ -4103,7 +4103,7 @@
    "notes": "Big Book",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/sunnyridge/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sunnyridge"
   },
   {
    "id": "aa-1597",
@@ -4122,7 +4122,7 @@
    "notes": "1st Wednesday of the month is an open meeting.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/pebbles-kimberley/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pebbles-kimberley"
   },
   {
    "id": "aa-1599",
@@ -4141,7 +4141,7 @@
    "notes": "Meeting group will be closed on the Wednesday the 24th of December (Christmas Eve)",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/164-mens-meeting/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/164-mens-meeting"
   },
   {
    "id": "aa-1601",
@@ -4160,7 +4160,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/freeman-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/freeman-group"
   },
   {
    "id": "aa-1602",
@@ -4179,7 +4179,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/scottburgh-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/scottburgh-3"
   },
   {
    "id": "aa-1604",
@@ -4198,7 +4198,7 @@
    "notes": "Big Book Study",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/muizenburg-big-book-study/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/muizenburg-big-book-study"
   },
   {
    "id": "aa-1613",
@@ -4217,7 +4217,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/amajuba-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/amajuba-2"
   },
   {
    "id": "aa-1614",
@@ -4236,7 +4236,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/ballito/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ballito"
   },
   {
    "id": "aa-1616",
@@ -4253,7 +4253,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/benmore-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/benmore-2"
   },
   {
    "id": "aa-1617",
@@ -4270,7 +4270,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/benoni-recovery/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/benoni-recovery"
   },
   {
    "id": "aa-1619",
@@ -4289,7 +4289,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/brackenham-richardsbay/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/brackenham-richardsbay"
   },
   {
    "id": "aa-1621",
@@ -4306,7 +4306,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bromhof-speaker/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bromhof-speaker"
   },
   {
    "id": "aa-1622",
@@ -4325,7 +4325,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/durban-north-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/durban-north-2"
   },
   {
    "id": "aa-1624",
@@ -4342,7 +4342,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/gansbaai/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/gansbaai"
   },
   {
    "id": "aa-1628",
@@ -4361,7 +4361,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hambanati/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hambanati"
   },
   {
    "id": "aa-1630",
@@ -4380,7 +4380,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kempton-park/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kempton-park"
   },
   {
    "id": "aa-1632",
@@ -4397,7 +4397,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kensington-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kensington-2"
   },
   {
    "id": "aa-1634",
@@ -4414,7 +4414,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/ladies-group-eastern-cape/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ladies-group-eastern-cape"
   },
   {
    "id": "aa-1636",
@@ -4431,7 +4431,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/merewent/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/merewent"
   },
   {
    "id": "aa-1585",
@@ -4450,7 +4450,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bloemfontein/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bloemfontein"
   },
   {
    "id": "aa-1587",
@@ -4467,7 +4467,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/cape-town-3-carpenters/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/cape-town-3-carpenters"
   },
   {
    "id": "aa-1592",
@@ -4484,7 +4484,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/sobriety-manor/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sobriety-manor"
   },
   {
    "id": "aa-1594",
@@ -4503,7 +4503,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/marlborough-group-zimbabwe-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/marlborough-group-zimbabwe-3"
   },
   {
    "id": "aa-1558",
@@ -4522,7 +4522,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/moreesburg/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/moreesburg"
   },
   {
    "id": "aa-1560",
@@ -4539,7 +4539,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/ryledale/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ryledale"
   },
   {
    "id": "aa-1563",
@@ -4558,7 +4558,7 @@
    "notes": "Closed (Open 4th Monday)",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/express-1-hour-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/express-1-hour-3"
   },
   {
    "id": "aa-1565",
@@ -4575,7 +4575,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/athol-evans-zimbabwe/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/athol-evans-zimbabwe"
   },
   {
    "id": "aa-1567",
@@ -4594,7 +4594,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/lower-south-coast-lunchtime/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/lower-south-coast-lunchtime"
   },
   {
    "id": "aa-1568",
@@ -4611,7 +4611,7 @@
    "notes": "2nd Wednesday of the Month - Daily Reflection Meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/east-rand-lunchtime-meeting-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/east-rand-lunchtime-meeting-3"
   },
   {
    "id": "aa-1572",
@@ -4628,7 +4628,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/rosebank/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/rosebank"
   },
   {
    "id": "aa-1574",
@@ -4645,7 +4645,7 @@
    "notes": "Meetings held in English &amp; Afrikaans.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/oudtshoorn/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/oudtshoorn"
   },
   {
    "id": "aa-1576",
@@ -4662,7 +4662,7 @@
    "notes": "Beginners Meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/avondale-group-zimbabwe-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/avondale-group-zimbabwe-2"
   },
   {
    "id": "aa-1579",
@@ -4682,7 +4682,7 @@
    "notes": "1st meeting of each month is a \"Open\" meeting.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/plettenberg-bay-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/plettenberg-bay-2"
   },
   {
    "id": "aa-1536",
@@ -4699,7 +4699,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/daxina-group-of-alcoholics-anonymous/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/daxina-group-of-alcoholics-anonymous"
   },
   {
    "id": "aa-1538",
@@ -4718,7 +4718,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/house-of-mercy/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/house-of-mercy"
   },
   {
    "id": "aa-1540",
@@ -4737,7 +4737,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/klein-constantia/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/klein-constantia"
   },
   {
    "id": "aa-1542",
@@ -4756,7 +4756,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/stanger-heights/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/stanger-heights"
   },
   {
    "id": "aa-1543",
@@ -4775,7 +4775,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/tongaat-belveder/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/tongaat-belveder"
   },
   {
    "id": "aa-1545",
@@ -4794,7 +4794,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/victoria-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/victoria-group"
   },
   {
    "id": "aa-1547",
@@ -4813,7 +4813,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/weltevreden-park/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/weltevreden-park"
   },
   {
    "id": "aa-1549",
@@ -4832,7 +4832,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/word-of-mouth/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/word-of-mouth"
   },
   {
    "id": "aa-1551",
@@ -4851,7 +4851,7 @@
    "notes": "open once more face-to-face",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/norwood/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/norwood"
   },
   {
    "id": "aa-1532",
@@ -4868,7 +4868,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/copesville/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/copesville"
   },
   {
    "id": "aa-1534",
@@ -4885,7 +4885,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/crawford-spearheads-cpt/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/crawford-spearheads-cpt"
   },
   {
    "id": "aa-1512",
@@ -4904,7 +4904,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/worcester/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/worcester"
   },
   {
    "id": "aa-1520",
@@ -4923,7 +4923,7 @@
    "notes": "Closed on 21st December and 28th December. Reopens on 4th January.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/rosebank-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/rosebank-2"
   },
   {
    "id": "aa-1522",
@@ -4940,7 +4940,7 @@
    "notes": "Kindly note that the Bayview Group will be closed on Tuesday, 16 December 2025 due to the unavailability of the Havenside Community Hall, which is a municipal facility.\n\nThe meeting will resume on Tuesday, 23 December and will also be open on Tuesday, 30 December.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bayview-kzn/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bayview-kzn"
   },
   {
    "id": "aa-1524",
@@ -4959,7 +4959,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bracken-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bracken-2"
   },
   {
    "id": "aa-1526",
@@ -4978,7 +4978,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/brakpan/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/brakpan"
   },
   {
    "id": "aa-1530",
@@ -4997,7 +4997,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/clayton-kzn/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/clayton-kzn"
   },
   {
    "id": "aa-1496",
@@ -5016,7 +5016,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/musgrave/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/musgrave"
   },
   {
    "id": "aa-1498",
@@ -5035,7 +5035,7 @@
    "notes": "St Anthony's Catholic Church\nMeeting in Recess",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/newcorwest-light/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/newcorwest-light"
   },
   {
    "id": "aa-1500",
@@ -5054,7 +5054,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/northdene-queensburgh-big-book-workshop/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/northdene-queensburgh-big-book-workshop"
   },
   {
    "id": "aa-1502",
@@ -5073,7 +5073,7 @@
    "notes": "First Tuesday of the Month meeting is \"Open\" to all interested in learning more about alcoholism and AA.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/plettenberg-bay/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/plettenberg-bay"
   },
   {
    "id": "aa-1504",
@@ -5092,7 +5092,7 @@
    "notes": "12 &amp; 12",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/southside-aa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/southside-aa"
   },
   {
    "id": "aa-1506",
@@ -5109,7 +5109,7 @@
    "notes": "Meeting in recess until 13 January 2026",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/umhlanga-lighthouse/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/umhlanga-lighthouse"
   },
   {
    "id": "aa-1508",
@@ -5128,7 +5128,7 @@
    "notes": "Closed meetings. Every last Tuesday of the month there will be an open meeting.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/wellington/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/wellington"
   },
   {
    "id": "aa-1510",
@@ -5145,7 +5145,7 @@
    "notes": "Closed (Open last Tuesday of the month)",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/wierda-park-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/wierda-park-group"
   },
   {
    "id": "aa-1462",
@@ -5164,7 +5164,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/aa-zeerust/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/aa-zeerust"
   },
   {
    "id": "aa-1464",
@@ -5183,7 +5183,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/airfield/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/airfield"
   },
   {
    "id": "aa-1466",
@@ -5200,7 +5200,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/belvedere/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/belvedere"
   },
   {
    "id": "aa-1468",
@@ -5217,7 +5217,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bishop-lavis/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bishop-lavis"
   },
   {
    "id": "aa-1470",
@@ -5236,7 +5236,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/chapter-three/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/chapter-three"
   },
   {
    "id": "aa-1472",
@@ -5255,7 +5255,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/creating-diamonds/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/creating-diamonds"
   },
   {
    "id": "aa-1474",
@@ -5274,7 +5274,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/dragonstone/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/dragonstone"
   },
   {
    "id": "aa-1476",
@@ -5291,7 +5291,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/estcourt/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/estcourt"
   },
   {
    "id": "aa-1478",
@@ -5310,7 +5310,7 @@
    "notes": "Meeting closed until 11 January 2022.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/glenferness/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/glenferness"
   },
   {
    "id": "aa-1480",
@@ -5327,7 +5327,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hermanus-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hermanus-2"
   },
   {
    "id": "aa-1482",
@@ -5344,7 +5344,7 @@
    "notes": "Yeshua Pinkster Bediening building, next to the George Night Shelter",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hope-haven/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hope-haven"
   },
   {
    "id": "aa-1484",
@@ -5361,7 +5361,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hope-street/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hope-street"
   },
   {
    "id": "aa-1486",
@@ -5380,7 +5380,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/into-action/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/into-action"
   },
   {
    "id": "aa-1488",
@@ -5397,7 +5397,7 @@
    "notes": "no password\nzoom ID: 195606470",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kraaifontein/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kraaifontein"
   },
   {
    "id": "aa-1490",
@@ -5414,7 +5414,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/meyerton/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/meyerton"
   },
   {
    "id": "aa-1492",
@@ -5433,7 +5433,7 @@
    "notes": "Hybrid\nMeeting ID: 847 9820 9344\nPasscode: NewLife",
    "online": false,
    "conferenceUrl": "https://us02web.zoom.us/j/84798209344?pwd=ZkdFYksrcGJveXFYZmt6dlJxdG5hZz09",
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bikers/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bikers"
   },
   {
    "id": "aa-1494",
@@ -5452,7 +5452,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/mitchells-plain-lentegeur/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/mitchells-plain-lentegeur"
   },
   {
    "id": "aa-1449",
@@ -5471,7 +5471,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/springdale/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/springdale"
   },
   {
    "id": "aa-1451",
@@ -5490,7 +5490,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/westville/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/westville"
   },
   {
    "id": "aa-1458",
@@ -5509,7 +5509,7 @@
    "notes": "Closed meeting,\nOpen Meeting every last Tuesday of month – Topic; Speaker",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/villeria/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/villeria"
   },
   {
    "id": "aa-1460",
@@ -5526,7 +5526,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/aa-pretoria-east-waterkloof/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/aa-pretoria-east-waterkloof"
   },
   {
    "id": "aa-1420",
@@ -5543,7 +5543,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/assisi-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/assisi-group"
   },
   {
    "id": "aa-1421",
@@ -5562,7 +5562,7 @@
    "notes": "Bulawayo Helpline number - 0719 123 711\nwww.aa.org.zw",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bulawayo-group-zimbabwe-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bulawayo-group-zimbabwe-2"
   },
   {
    "id": "aa-1425",
@@ -5581,7 +5581,7 @@
    "notes": "Open meeting on 1st Tuesday of the month.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/aa-polokwane-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/aa-polokwane-group"
   },
   {
    "id": "aa-1427",
@@ -5598,7 +5598,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/carletonville/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/carletonville"
   },
   {
    "id": "aa-1429",
@@ -5617,7 +5617,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hout-bay-finding-freedom/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hout-bay-finding-freedom"
   },
   {
    "id": "aa-1433",
@@ -5636,7 +5636,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/howick-friends-in-recovery/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/howick-friends-in-recovery"
   },
   {
    "id": "aa-1435",
@@ -5655,7 +5655,7 @@
    "notes": "Temporarily Closed",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/marlborough-group-zimbabwe-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/marlborough-group-zimbabwe-2"
   },
   {
    "id": "aa-1439",
@@ -5672,7 +5672,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/rustenberg/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/rustenberg"
   },
   {
    "id": "aa-1443",
@@ -5691,7 +5691,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/lower-south-coast-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/lower-south-coast-2"
   },
   {
    "id": "aa-1445",
@@ -5710,7 +5710,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/tgi-kzn/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/tgi-kzn"
   },
   {
    "id": "aa-1447",
@@ -5729,7 +5729,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/newcastle-big-book-study/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/newcastle-big-book-study"
   },
   {
    "id": "aa-1389",
@@ -5746,7 +5746,7 @@
    "notes": "face to face meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/eureka-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/eureka-2"
   },
   {
    "id": "aa-1390",
@@ -5763,7 +5763,7 @@
    "notes": "Speaker Share",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hottentots-holland-speaker-share/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hottentots-holland-speaker-share"
   },
   {
    "id": "aa-1397",
@@ -5782,7 +5782,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/shakaskraal/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/shakaskraal"
   },
   {
    "id": "aa-1399",
@@ -5801,7 +5801,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/stanmore-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/stanmore-2"
   },
   {
    "id": "aa-1401",
@@ -5821,7 +5821,7 @@
    "notes": "Room No. 9",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/stanmore/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/stanmore"
   },
   {
    "id": "aa-1403",
@@ -5840,7 +5840,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/sydebham/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sydebham"
   },
   {
    "id": "aa-1407",
@@ -5859,7 +5859,7 @@
    "notes": "Closed (Open 4th Monday)",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/express-1-hour-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/express-1-hour-2"
   },
   {
    "id": "aa-1408",
@@ -5876,7 +5876,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/helderberg-1212at12/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/helderberg-1212at12"
   },
   {
    "id": "aa-1410",
@@ -5893,7 +5893,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/lonehill/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/lonehill"
   },
   {
    "id": "aa-1413",
@@ -5910,7 +5910,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/greendale-group-zimbabwe/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/greendale-group-zimbabwe"
   },
   {
    "id": "aa-1416",
@@ -5927,7 +5927,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/pimville/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pimville"
   },
   {
    "id": "aa-1381",
@@ -5946,7 +5946,7 @@
    "notes": "Big Book",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/parow/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/parow"
   },
   {
    "id": "aa-1383",
@@ -5966,7 +5966,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/springs/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/springs"
   },
   {
    "id": "aa-1385",
@@ -5985,7 +5985,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/st-francis/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/st-francis"
   },
   {
    "id": "aa-1387",
@@ -6002,7 +6002,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/township-park/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/township-park"
   },
   {
    "id": "aa-1371",
@@ -6021,7 +6021,7 @@
    "notes": "Big Book Workshop",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/greenwood-park/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/greenwood-park"
   },
   {
    "id": "aa-1373",
@@ -6040,7 +6040,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/happy-hour/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/happy-hour"
   },
   {
    "id": "aa-1375",
@@ -6059,7 +6059,7 @@
    "notes": "Please note that due to the Isipingo Beach civic hall not being available on the 22nd of December 2025 the Isipingo group will have their meeting at the\nKamalinee Primary School, 2 Michelia road, Lotus Park from 19.30 to 21.00.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/isipingo/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/isipingo"
   },
   {
    "id": "aa-1377",
@@ -6078,7 +6078,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/paarl/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/paarl"
   },
   {
    "id": "aa-1379",
@@ -6097,7 +6097,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/parkwood/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/parkwood"
   },
   {
    "id": "aa-1334",
@@ -6114,7 +6114,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/malabar-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/malabar-group"
   },
   {
    "id": "aa-1336",
@@ -6131,7 +6131,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/middelburg-aa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/middelburg-aa"
   },
   {
    "id": "aa-1338",
@@ -6148,7 +6148,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/moreleta/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/moreleta"
   },
   {
    "id": "aa-1340",
@@ -6165,7 +6165,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/new-beginnings-kzn/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/new-beginnings-kzn"
   },
   {
    "id": "aa-1342",
@@ -6184,7 +6184,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/pmb-combined/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pmb-combined"
   },
   {
    "id": "aa-1344",
@@ -6204,7 +6204,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/pioneers-group-windhoek/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pioneers-group-windhoek"
   },
   {
    "id": "aa-1346",
@@ -6223,7 +6223,7 @@
    "notes": "Big Book Study meeting.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/somerset-east-aa-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/somerset-east-aa-group"
   },
   {
    "id": "aa-1348",
@@ -6240,7 +6240,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/tongaat-highway-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/tongaat-highway-2"
   },
   {
    "id": "aa-1350",
@@ -6259,7 +6259,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/vanderbijlpark/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/vanderbijlpark"
   },
   {
    "id": "aa-1352",
@@ -6278,7 +6278,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/vredenburg/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/vredenburg"
   },
   {
    "id": "aa-1354",
@@ -6295,7 +6295,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/acorn-sedgefield/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/acorn-sedgefield"
   },
   {
    "id": "aa-1359",
@@ -6314,7 +6314,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/fish-hoek/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/fish-hoek"
   },
   {
    "id": "aa-1361",
@@ -6333,7 +6333,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/chatsworth-workshop-kzn/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/chatsworth-workshop-kzn"
   },
   {
    "id": "aa-1365",
@@ -6352,7 +6352,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/durban-north/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/durban-north"
   },
   {
    "id": "aa-1367",
@@ -6371,7 +6371,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/east-london/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/east-london"
   },
   {
    "id": "aa-1369",
@@ -6390,7 +6390,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/frankly-speaking/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/frankly-speaking"
   },
   {
    "id": "aa-1298",
@@ -6409,7 +6409,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hilton-joyous-free/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hilton-joyous-free"
   },
   {
    "id": "aa-1300",
@@ -6428,7 +6428,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/margate/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/margate"
   },
   {
    "id": "aa-1302",
@@ -6447,7 +6447,7 @@
    "notes": "Big Book Meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/scottburgh-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/scottburgh-2"
   },
   {
    "id": "aa-1304",
@@ -6466,7 +6466,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/swakopmund-west-coast-fellowship/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/swakopmund-west-coast-fellowship"
   },
   {
    "id": "aa-1312",
@@ -6485,7 +6485,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/amajuba/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/amajuba"
   },
   {
    "id": "aa-1314",
@@ -6504,7 +6504,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/ballito-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ballito-3"
   },
   {
    "id": "aa-1316",
@@ -6523,7 +6523,7 @@
    "notes": "Big Book Study",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/benoni-city-big-book/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/benoni-city-big-book"
   },
   {
    "id": "aa-1318",
@@ -6543,7 +6543,7 @@
    "notes": "Hybrid Meeting\nID 810 7879 9533\npassword 975917",
    "online": false,
    "conferenceUrl": "https://us02web.zoom.us/j/81078799533?pwd=cnlSVExmSkhCMmNpYVBPcmQzUGUzdz09",
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/clubview-aa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/clubview-aa"
   },
   {
    "id": "aa-1322",
@@ -6560,7 +6560,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/delft/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/delft"
   },
   {
    "id": "aa-1324",
@@ -6577,7 +6577,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/florida/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/florida"
   },
   {
    "id": "aa-1326",
@@ -6596,7 +6596,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/garsfontein-drostdy-avenue/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/garsfontein-drostdy-avenue"
   },
   {
    "id": "aa-1328",
@@ -6615,7 +6615,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/george/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/george"
   },
   {
    "id": "aa-1330",
@@ -6634,7 +6634,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/heuweloord-aa-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/heuweloord-aa-group"
   },
   {
    "id": "aa-1282",
@@ -6653,7 +6653,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/glencoe-aa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/glencoe-aa"
   },
   {
    "id": "aa-1284",
@@ -6670,7 +6670,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/mooi-river/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/mooi-river"
   },
   {
    "id": "aa-1286",
@@ -6689,7 +6689,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/nelspruit/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/nelspruit"
   },
   {
    "id": "aa-1288",
@@ -6708,7 +6708,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/potchefstroom-aa/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/potchefstroom-aa"
   },
   {
    "id": "aa-1290",
@@ -6727,7 +6727,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/walmer/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/walmer"
   },
   {
    "id": "aa-1292",
@@ -6746,7 +6746,7 @@
    "notes": "Temporarily closed",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/marlborough-group-zimbabwe/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/marlborough-group-zimbabwe"
   },
   {
    "id": "aa-1296",
@@ -6765,7 +6765,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/hillcrest/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/hillcrest"
   },
   {
    "id": "aa-1280",
@@ -6784,7 +6784,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/blanco/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/blanco"
   },
   {
    "id": "aa-1238",
@@ -6803,7 +6803,7 @@
    "notes": "Closed (Open 4th Monday)",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/express-1-hour/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/express-1-hour"
   },
   {
    "id": "aa-1240",
@@ -6820,7 +6820,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/prins-albert/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/prins-albert"
   },
   {
    "id": "aa-1244",
@@ -6837,7 +6837,7 @@
    "notes": "Big Book Meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/east-rand-lunchtime-meeting/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/east-rand-lunchtime-meeting"
   },
   {
    "id": "aa-1250",
@@ -6854,7 +6854,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/lonehill-3/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/lonehill-3"
   },
   {
    "id": "aa-1254",
@@ -6871,7 +6871,7 @@
    "notes": "Beginners Meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/avondale-zimbabwe/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/avondale-zimbabwe"
   },
   {
    "id": "aa-1255",
@@ -6888,7 +6888,7 @@
    "notes": "Beginners Group",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/avondale-group-zimbabwe/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/avondale-group-zimbabwe"
   },
   {
    "id": "aa-1257",
@@ -6905,7 +6905,7 @@
    "notes": "Women's meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kingsmead-womens-group-zimbabwe/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kingsmead-womens-group-zimbabwe"
   },
   {
    "id": "aa-1259",
@@ -6922,7 +6922,7 @@
    "notes": "Beginners Meeting",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/greendale-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/greendale-group"
   },
   {
    "id": "aa-1263",
@@ -6941,7 +6941,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/cbd-group/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/cbd-group"
   },
   {
    "id": "aa-1265",
@@ -6960,7 +6960,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/kingsmead-womens-group-zimbabwe-2/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kingsmead-womens-group-zimbabwe-2"
   },
   {
    "id": "aa-1267",
@@ -6979,7 +6979,7 @@
    "notes": "face-to-face\n\nFirst Monday of the Month meeting is \"Open\" to all interested in learning more about alcoholism and AA.",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/yellowwood/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/yellowwood"
   },
   {
    "id": "aa-1269",
@@ -6998,7 +6998,7 @@
    "notes": "Bulawayo Helpline number - 0719 123 711\nwww.aa.org.zw",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/bulawayo-group-zimbabwe/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bulawayo-group-zimbabwe"
   },
   {
    "id": "aa-1277",
@@ -7017,7 +7017,7 @@
    "notes": "Meeting ID - 338 218 5090\nPasscode - FeP5jC",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings/marlborough-online-zoom-meeting/"
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/marlborough-online-zoom-meeting"
   },
   {
    "id": "na-wc-5552",

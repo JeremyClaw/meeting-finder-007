@@ -86,7 +86,15 @@ async function discoverTsmlCache(pageUrl, baseUrl, stateKey) {
   }
 }
 
-function normaliseTsml(raw, fellowship, idPrefix) {
+/**
+ * @param {string|null} spaListUrl - when set, sourceUrl is built as
+ *   `${spaListUrl}#/${slug}` instead of using the feed's own `url`. AA's
+ *   theme renders the per-meeting CPT page (`m.url`) as blank chrome with no
+ *   meeting content — the only working link is the meetings-list SPA's hash
+ *   route. NA's per-meeting pages render fine, so NA passes null here and
+ *   keeps `m.url` as-is.
+ */
+function normaliseTsml(raw, fellowship, idPrefix, spaListUrl = null) {
   return raw
     .filter((m) => m.latitude && m.longitude)
     .filter((m) => (m.attendance_option ?? 'in_person') !== 'online')
@@ -105,7 +113,7 @@ function normaliseTsml(raw, fellowship, idPrefix) {
       notes: m.notes || null,
       online: false,
       conferenceUrl: m.conference_url || null,
-      sourceUrl: m.url ?? null,
+      sourceUrl: spaListUrl && m.slug ? `${spaListUrl}#/${m.slug}` : (m.url ?? null),
     }))
     .filter((m) => Number.isInteger(m.day) && m.day >= 0 && m.day <= 6 && m.time);
 }
@@ -118,7 +126,7 @@ async function collectAA() {
     'aa'
   );
   const raw = await (await get(cacheUrl)).json();
-  const meetings = normaliseTsml(raw, 'AA', 'aa');
+  const meetings = normaliseTsml(raw, 'AA', 'aa', 'https://aasouthafrica.org.za/meetings-list/');
   console.log(`AA: ${raw.length} raw, ${meetings.length} in-person with coords`);
   return meetings;
 }
