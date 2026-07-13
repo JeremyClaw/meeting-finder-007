@@ -30,6 +30,20 @@ npm run collect   # refresh public/data/meetings.json
 npm run dev       # http://localhost:3000
 ```
 
+## Deployment
+
+- **GitHub:** `github.com/JeremyClaw/meeting-finder-007` (public)
+- **Live site:** https://meeting-finder-007.vercel.app
+- **Deploy method:** direct CLI (`npx vercel --prod`), NOT git-linked auto-deploy.
+  The Vercel↔GitHub app connection fails with a 400 on `git connect` for this
+  account (same issue hit on the hotel-dashboard project) — repo/org access
+  for Vercel's GitHub App likely needs re-granting from the Vercel dashboard.
+  Until that's fixed, deploy manually after pushing:
+  ```bash
+  git push
+  npx vercel --prod --yes
+  ```
+
 ## Disclaimer
 
 Independent community project. Not affiliated with, endorsed by, or a service
