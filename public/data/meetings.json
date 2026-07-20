@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T18:52:41.055Z",
+ "updated": "2026-07-20T06:51:28.838Z",
  "counts": {
   "AA": 386,
   "NA": 275,
@@ -6285,8 +6285,8 @@
    "fellowship": "AA",
    "name": "Acorn (Sedgefield)",
    "day": 1,
-   "time": "19:00",
-   "endTime": "20:00",
+   "time": "18:00",
+   "endTime": "19:00",
    "address": "Sysie Ave, Sedgefield, 6573, South Africa",
    "region": "Garden Route",
    "lat": -34.0159455,
@@ -10071,8 +10071,8 @@
   {
    "id": "na-jhb-5040",
    "fellowship": "NA",
-   "name": "Crosby - Monday - 19:00",
-   "day": 1,
+   "name": "Crosby - Wednesday - 19:00",
+   "day": 3,
    "time": "19:00",
    "endTime": "20:00",
    "address": "65 Foyle Ave, Crosby, Johannesburg, 2092, South Africa",
@@ -10083,7 +10083,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/jhb/meetings/crosby-monday-1900/"
+   "sourceUrl": "https://na.org.za/jhb/meetings/crosby-wednesday-1900/"
   },
   {
    "id": "na-jhb-5036",
