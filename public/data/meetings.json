@@ -1,12 +1,65 @@
 {
- "updated": "2026-07-20T06:51:28.838Z",
+ "updated": "2026-07-27T07:37:06.720Z",
  "counts": {
-  "AA": 386,
-  "NA": 275,
+  "AA": 388,
+  "NA": 274,
   "CA": 39,
-  "total": 700
+  "total": 701
  },
  "meetings": [
+  {
+   "id": "aa-2472",
+   "fellowship": "AA",
+   "name": "Lock &amp; Key",
+   "day": 3,
+   "time": "13:00",
+   "endTime": "14:00",
+   "address": "96 Lachlan Rd, Glenferness AH, Midrand, 2191, South Africa",
+   "region": "Johannesburg ＆ West Rand Area",
+   "lat": -25.9980506,
+   "lng": 28.0422086,
+   "types": [],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/lock-key-2"
+  },
+  {
+   "id": "aa-2470",
+   "fellowship": "AA",
+   "name": "Lock &amp; Key",
+   "day": 1,
+   "time": "13:00",
+   "endTime": "14:00",
+   "address": "96 Lachlan Rd, Glenferness AH, Midrand, 2191, South Africa",
+   "region": "Johannesburg ＆ West Rand Area",
+   "lat": -25.9980506,
+   "lng": 28.0422086,
+   "types": [],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/lock-key"
+  },
+  {
+   "id": "aa-2467",
+   "fellowship": "AA",
+   "name": "Sakhuluntu",
+   "day": 1,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "7644 Eben Cuyler Dr, Diepkloof Zone 3, Soweto, 1864, South Africa",
+   "region": "Johannesburg ＆ West Rand Area",
+   "lat": -26.2415013,
+   "lng": 27.9480776,
+   "types": [
+    "English"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sakhuluntu"
+  },
   {
    "id": "aa-2423",
    "fellowship": "AA",
@@ -131,25 +184,6 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/windsor-2"
-  },
-  {
-   "id": "aa-2329",
-   "fellowship": "AA",
-   "name": "Windsor",
-   "day": 2,
-   "time": "19:15",
-   "endTime": "20:45",
-   "address": "127 Cnr Grove And, Bram Fischer Dr, Ferndale, Randburg, 2194, South Africa",
-   "region": "Johannesburg ＆ West Rand Area",
-   "lat": -26.1039277,
-   "lng": 28.0018863,
-   "types": [
-    "Open"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/windsor"
   },
   {
    "id": "aa-2324",
@@ -2836,7 +2870,7 @@
    "id": "aa-1782",
    "fellowship": "AA",
    "name": "Kommetjie Group",
-   "day": 4,
+   "day": 3,
    "time": "19:00",
    "endTime": "20:00",
    "address": "4 Lighthouse Rd, Kommetjie, Cape Town, 7976, South Africa",
@@ -7677,25 +7711,6 @@
    "sourceUrl": "https://na.org.za/wc/meetings/mitchells-plain-grow-and-change-group/"
   },
   {
-   "id": "na-wc-5177",
-   "fellowship": "NA",
-   "name": "Bellville South",
-   "day": 3,
-   "time": "19:30",
-   "endTime": "20:30",
-   "address": "1A Fabriek St, Bellville, Cape Town, 7530, South Africa",
-   "region": "Western Cape",
-   "lat": -33.922512,
-   "lng": 18.6487803,
-   "types": [
-    "TC"
-   ],
-   "notes": "ACCURATE LOCATION OF MEETING:\nhttps://goo.gl/maps/mgsKazFGaCZ7XuaPA",
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/wc/meetings/bellville_south/"
-  },
-  {
    "id": "na-wc-5175",
    "fellowship": "NA",
    "name": "Wednesday Woodstock",
@@ -11477,7 +11492,8 @@
    "lat": -25.8298077,
    "lng": 28.2058227,
    "types": [
-    "TOP"
+    "TOP",
+    "TC"
    ],
    "notes": null,
    "online": false,
