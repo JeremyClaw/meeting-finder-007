@@ -1,12 +1,29 @@
 {
- "updated": "2026-07-27T07:37:06.720Z",
+ "updated": "2026-08-03T07:32:03.045Z",
  "counts": {
-  "AA": 388,
+  "AA": 389,
   "NA": 274,
   "CA": 39,
-  "total": 701
+  "total": 702
  },
  "meetings": [
+  {
+   "id": "aa-2489",
+   "fellowship": "AA",
+   "name": "Friday Night Serenity",
+   "day": 5,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "4 Umtata Rd, Norton's Home Estates, Benoni, 1509, South Africa",
+   "region": "East Rand",
+   "lat": -26.1303096,
+   "lng": 28.2905629,
+   "types": [],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/friday-night-serenity"
+  },
   {
    "id": "aa-2472",
    "fellowship": "AA",
@@ -11177,10 +11194,10 @@
    "day": 2,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "Old Main Rd, Umhlali, oThongathi, 4390, South Africa",
+   "address": "G6C8+MR oThongathi",
    "region": "Kwazulu-Natal",
-   "lat": -29.478277,
-   "lng": 31.2170702,
+   "lat": -29.4783125,
+   "lng": 31.2170625,
    "types": [
     "JFT",
     "Open"
@@ -11373,29 +11390,9 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/umbilo-monday/"
   },
   {
-   "id": "na-pta-5050",
+   "id": "na-pta-5845",
    "fellowship": "NA",
-   "name": "Friday Mamelodi West *OPEN*",
-   "day": 5,
-   "time": "18:00",
-   "endTime": "19:00",
-   "address": "19 Sweba St, Mamelodi - CA3, Pretoria, 0122, South Africa",
-   "region": "Pretoria",
-   "lat": -25.7086463,
-   "lng": 28.3369821,
-   "types": [
-    "Open",
-    "English"
-   ],
-   "notes": "Open Meeting",
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/mamelodi-west-open2/"
-  },
-  {
-   "id": "na-pta-4998",
-   "fellowship": "NA",
-   "name": "Sunday Afrikaans Meeting *OPEN*",
+   "name": "Sunday Afrikaans Meeting",
    "day": 0,
    "time": "16:00",
    "endTime": "17:00",
@@ -11415,9 +11412,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/afrikaans/"
   },
   {
-   "id": "na-pta-4996",
+   "id": "na-pta-5843",
    "fellowship": "NA",
-   "name": "Soshanguve Meeting - Sunday *OPEN*",
+   "name": "Soshanguve Meeting - Sunday",
    "day": 0,
    "time": "10:00",
    "endTime": "11:00",
@@ -11435,9 +11432,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/soshanguve-meeting-sunday-open/"
   },
   {
-   "id": "na-pta-4995",
+   "id": "na-pta-5842",
    "fellowship": "NA",
-   "name": "Saturday Hillcrest Meeting (Afternoon) *Open*",
+   "name": "Saturday Hillcrest Meeting (Afternoon)",
    "day": 6,
    "time": "17:00",
    "endTime": "18:00",
@@ -11456,9 +11453,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/speaker-meeting/"
   },
   {
-   "id": "na-pta-4994",
+   "id": "na-pta-5841",
    "fellowship": "NA",
-   "name": "Saturday Hillcrest *Open*",
+   "name": "Saturday Hillcrest",
    "day": 6,
    "time": "08:00",
    "endTime": "09:00",
@@ -11481,9 +11478,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/welcome-to-the-newcomer/"
   },
   {
-   "id": "na-pta-4993",
+   "id": "na-pta-5840",
    "fellowship": "NA",
-   "name": "Friday Lyttleton *Open*",
+   "name": "Friday Lyttleton",
    "day": 5,
    "time": "19:00",
    "endTime": "20:00",
@@ -11492,8 +11489,9 @@
    "lat": -25.8298077,
    "lng": 28.2058227,
    "types": [
+    "TC",
     "TOP",
-    "TC"
+    "Open"
    ],
    "notes": null,
    "online": false,
@@ -11501,9 +11499,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/speaker/"
   },
   {
-   "id": "na-pta-4991",
+   "id": "na-pta-5838",
    "fellowship": "NA",
-   "name": "Friday Eersterus *Temporarily Closed*",
+   "name": "Friday Eersterus",
    "day": 5,
    "time": "19:00",
    "endTime": "20:00",
@@ -11521,9 +11519,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/eersterus-2/"
   },
   {
-   "id": "na-pta-4989",
+   "id": "na-pta-5836",
    "fellowship": "NA",
-   "name": "Friday Constantia Meeting *Open*",
+   "name": "Friday Constantia Meeting",
    "day": 5,
    "time": "19:00",
    "endTime": "20:00",
@@ -11542,9 +11540,29 @@
    "sourceUrl": "https://na.org.za/pta/meetings/group-living-clean-format-literature-study/"
   },
   {
-   "id": "na-pta-4987",
+   "id": "na-pta-5834",
    "fellowship": "NA",
-   "name": "Friday Second Chance Meeting *Temporarily Closed*",
+   "name": "Friday Mamelodi West",
+   "day": 5,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "19 Sweba St, Mamelodi - CA3, Pretoria, 0122, South Africa",
+   "region": "Pretoria",
+   "lat": -25.7086463,
+   "lng": 28.3369821,
+   "types": [
+    "English",
+    "Open"
+   ],
+   "notes": "Open Meeting",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/pta/meetings/mamelodi-west-open2/"
+  },
+  {
+   "id": "na-pta-5832",
+   "fellowship": "NA",
+   "name": "Friday Second Chance Meeting",
    "day": 5,
    "time": "17:00",
    "endTime": "18:00",
@@ -11561,9 +11579,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/friday-second-chance-meeting/"
   },
   {
-   "id": "na-pta-4986",
+   "id": "na-pta-5831",
    "fellowship": "NA",
-   "name": "Thursday Rooihuiskraal *Closed*",
+   "name": "Thursday Rooihuiskraal",
    "day": 4,
    "time": "19:00",
    "endTime": "20:00",
@@ -11575,7 +11593,8 @@
     "JFT",
     "Literature",
     "SPK",
-    "TOP"
+    "TOP",
+    "Closed"
    ],
    "notes": "Week 1: Topic\nWeek 2: Literature\nWeek 3: Speaker (Open Meeting)\nWeek 4: Just For Today",
    "online": false,
@@ -11583,9 +11602,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/topic-4/"
   },
   {
-   "id": "na-pta-4984",
+   "id": "na-pta-5829",
    "fellowship": "NA",
-   "name": "Thursday Queenswood Meeting *Open*",
+   "name": "Thursday Queenswood Meeting",
    "day": 4,
    "time": "19:00",
    "endTime": "20:00",
@@ -11595,7 +11614,8 @@
    "lng": 28.2456123,
    "types": [
     "VAR",
-    "Young People"
+    "Young People",
+    "Open"
    ],
    "notes": null,
    "online": false,
@@ -11603,9 +11623,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/topic/"
   },
   {
-   "id": "na-pta-4982",
+   "id": "na-pta-5827",
    "fellowship": "NA",
-   "name": "Men's Meeting *Open*",
+   "name": "Men's Meeting",
    "day": 4,
    "time": "19:00",
    "endTime": "20:00",
@@ -11615,7 +11635,8 @@
    "lng": 28.3394547,
    "types": [
     "BT",
-    "TC"
+    "TC",
+    "Open"
    ],
    "notes": null,
    "online": false,
@@ -11623,9 +11644,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/mens-meeting/"
   },
   {
-   "id": "na-pta-4980",
+   "id": "na-pta-5825",
    "fellowship": "NA",
-   "name": "Booysens Meeting - Thursday *OPEN*",
+   "name": "Booysens Meeting - Thursday",
    "day": 4,
    "time": "19:00",
    "endTime": "20:00",
@@ -11643,9 +11664,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/booysens-meeting-thursday-open/"
   },
   {
-   "id": "na-pta-4977",
+   "id": "na-pta-5823",
    "fellowship": "NA",
-   "name": "Thursday Bonfire *Open*",
+   "name": "Thursday Bonfire",
    "day": 4,
    "time": "19:00",
    "endTime": "20:00",
@@ -11654,7 +11675,8 @@
    "lat": -25.790382,
    "lng": 28.2971342,
    "types": [
-    "BEG"
+    "BEG",
+    "Open"
    ],
    "notes": null,
    "online": false,
@@ -11662,9 +11684,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/new-meeting-thursday-700-pm/"
   },
   {
-   "id": "na-pta-4975",
+   "id": "na-pta-5821",
    "fellowship": "NA",
-   "name": "Thursday Women's Meeting *Open*",
+   "name": "Thursday Women's Meeting",
    "day": 4,
    "time": "19:00",
    "endTime": "20:00",
@@ -11673,7 +11695,9 @@
    "lat": -25.8136525,
    "lng": 28.2779715,
    "types": [
-    "BT"
+    "BT",
+    "TC",
+    "Open"
    ],
    "notes": null,
    "online": false,
@@ -11681,9 +11705,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/womens-meeting/"
   },
   {
-   "id": "na-pta-4973",
+   "id": "na-pta-5819",
    "fellowship": "NA",
-   "name": "Thursday Thabazimbi Meeting *Temporarily Closed*",
+   "name": "Thursday Thabazimbi Meeting",
    "day": 4,
    "time": "18:30",
    "endTime": "19:30",
@@ -11700,9 +11724,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/thursday-thabazimbi-meeting-open/"
   },
   {
-   "id": "na-pta-4971",
+   "id": "na-pta-5817",
    "fellowship": "NA",
-   "name": "Thursday Rustenburg Meeting *Open*",
+   "name": "Thursday Rustenburg Meeting",
    "day": 4,
    "time": "18:30",
    "endTime": "19:30",
@@ -11710,16 +11734,18 @@
    "region": "Rustenburg",
    "lat": -25.6992531,
    "lng": 27.2467375,
-   "types": [],
+   "types": [
+    "Open"
+   ],
    "notes": "Every last meeting is an open meeting where non-addicts are welcome to join.",
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/pta/meetings/thursday-rustenburg-meeting-open/"
   },
   {
-   "id": "na-pta-4968",
+   "id": "na-pta-5815",
    "fellowship": "NA",
-   "name": "Thursday Second Chance Meeting *Temporarily Closed*",
+   "name": "Thursday Second Chance Meeting",
    "day": 4,
    "time": "17:00",
    "endTime": "18:00",
@@ -11736,9 +11762,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/thursday-second-chance-meeting/"
   },
   {
-   "id": "na-pta-4967",
+   "id": "na-pta-5814",
    "fellowship": "NA",
-   "name": "Laudium Serenity Group Meeting *Open*",
+   "name": "Laudium Serenity Group Meeting",
    "day": 3,
    "time": "19:30",
    "endTime": "20:30",
@@ -11757,9 +11783,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/open-meeting/"
   },
   {
-   "id": "na-pta-4965",
+   "id": "na-pta-5812",
    "fellowship": "NA",
-   "name": "Proteapark Wednesday Meeting *Open*",
+   "name": "Proteapark Wednesday Meeting",
    "day": 3,
    "time": "19:00",
    "endTime": "20:00",
@@ -11770,6 +11796,7 @@
    "types": [
     "BEG",
     "JFT",
+    "Open",
     "ONL"
    ],
    "notes": null,
@@ -11778,9 +11805,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/proteapark-wednesday-meeting-open/"
   },
   {
-   "id": "na-pta-4963",
+   "id": "na-pta-5810",
    "fellowship": "NA",
-   "name": "Wednesday Pride Meeting *Open*",
+   "name": "Wednesday Pride Meeting",
    "day": 3,
    "time": "19:00",
    "endTime": "19:45",
@@ -11798,9 +11825,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/lgbt/"
   },
   {
-   "id": "na-pta-4962",
+   "id": "na-pta-5809",
    "fellowship": "NA",
-   "name": "I can't, we can - Wednesday *CLOSED*",
+   "name": "I can't, we can - Wednesday",
    "day": 3,
    "time": "19:00",
    "endTime": "20:00",
@@ -11809,7 +11836,8 @@
    "lat": -25.7633375,
    "lng": 28.2978082,
    "types": [
-    "BEG"
+    "BEG",
+    "Closed"
    ],
    "notes": null,
    "online": false,
@@ -11817,9 +11845,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/i-cant-we-can-wednesday/"
   },
   {
-   "id": "na-pta-4960",
+   "id": "na-pta-5807",
    "fellowship": "NA",
-   "name": "Wednesday Hillcrest Meeting *Temporarily Closed*",
+   "name": "Wednesday Hillcrest Meeting",
    "day": 3,
    "time": "19:00",
    "endTime": "20:00",
@@ -11836,9 +11864,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/topic-2/"
   },
   {
-   "id": "na-pta-4959",
+   "id": "na-pta-5806",
    "fellowship": "NA",
-   "name": "Wednesday New Life Meeting *Open*",
+   "name": "Wednesday New Life Meeting",
    "day": 3,
    "time": "18:45",
    "endTime": "20:45",
@@ -11849,7 +11877,8 @@
    "types": [
     "BEG",
     "SPK",
-    "TOP"
+    "TOP",
+    "Open"
    ],
    "notes": null,
    "online": false,
@@ -11857,9 +11886,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/wednesday-new-life-meeting-open/"
   },
   {
-   "id": "na-pta-4957",
+   "id": "na-pta-5804",
    "fellowship": "NA",
-   "name": "Wednesday Second Chance Meeting *Temporarily Closed*",
+   "name": "Wednesday Second Chance Meeting",
    "day": 3,
    "time": "17:00",
    "endTime": "18:00",
@@ -11876,9 +11905,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/wednesday-second-chance-meeting/"
   },
   {
-   "id": "na-pta-4956",
+   "id": "na-pta-5803",
    "fellowship": "NA",
-   "name": "Soshanguve Meeting - Wednesday *OPEN*",
+   "name": "Soshanguve Meeting - Wednesday",
    "day": 3,
    "time": "13:00",
    "endTime": "14:00",
@@ -11895,9 +11924,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/soshanguve-meeting-wednesday-open/"
   },
   {
-   "id": "na-pta-4952",
+   "id": "na-pta-5801",
    "fellowship": "NA",
-   "name": "Besileia Tuesday Meeting *Open*",
+   "name": "Besileia Tuesday Meeting",
    "day": 2,
    "time": "19:00",
    "endTime": "20:00",
@@ -11908,6 +11937,7 @@
    "types": [
     "BEG",
     "JFT",
+    "Open",
     "ONL"
    ],
    "notes": null,
@@ -11916,9 +11946,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/besileia-tuesday-meeting-open/"
   },
   {
-   "id": "na-pta-4950",
+   "id": "na-pta-5799",
    "fellowship": "NA",
-   "name": "Tuesday Lyttleton *Open*",
+   "name": "Tuesday Lyttleton",
    "day": 2,
    "time": "19:00",
    "endTime": "20:00",
@@ -11926,16 +11956,18 @@
    "region": "Pretoria",
    "lat": -25.8326962,
    "lng": 28.204478,
-   "types": [],
+   "types": [
+    "Open"
+   ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/pta/meetings/topic-tag-meeting/"
   },
   {
-   "id": "na-pta-4949",
+   "id": "na-pta-5798",
    "fellowship": "NA",
-   "name": "Tuesday Hillcrest Meeting *Open*",
+   "name": "Tuesday Hillcrest Meeting",
    "day": 2,
    "time": "19:00",
    "endTime": "20:00",
@@ -11960,9 +11992,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/step-up-newcomer-group/"
   },
   {
-   "id": "na-pta-4947",
+   "id": "na-pta-5796",
    "fellowship": "NA",
-   "name": "Mamelodi Meeting *Temporarily Closed*",
+   "name": "Mamelodi Meeting",
    "day": 2,
    "time": "19:00",
    "endTime": "20:00",
@@ -11980,7 +12012,7 @@
    "sourceUrl": "https://na.org.za/pta/meetings/mamelodi/"
   },
   {
-   "id": "na-pta-4945",
+   "id": "na-pta-5794",
    "fellowship": "NA",
    "name": "Tuesday Mamelodi",
    "day": 2,
@@ -11999,9 +12031,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/thandanani-walk-in-centre-tuesday-600-pm/"
   },
   {
-   "id": "na-pta-4943",
+   "id": "na-pta-5792",
    "fellowship": "NA",
-   "name": "Tuesday Second Chance Meeting *Temporarily Closed*",
+   "name": "Tuesday Second Chance Meeting",
    "day": 2,
    "time": "17:00",
    "endTime": "18:00",
@@ -12018,7 +12050,7 @@
    "sourceUrl": "https://na.org.za/pta/meetings/tuesday-second-chance-meeting/"
   },
   {
-   "id": "na-pta-4942",
+   "id": "na-pta-5791",
    "fellowship": "NA",
    "name": "Tuesday Mabupane Recovery Meeting",
    "day": 2,
@@ -12037,9 +12069,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/tuesday-mabupane-recovery-meeting/"
   },
   {
-   "id": "na-pta-4938",
+   "id": "na-pta-5789",
    "fellowship": "NA",
-   "name": "Hammanskraal Meeting - Tuesday *OPEN*",
+   "name": "Hammanskraal Meeting - Tuesday",
    "day": 2,
    "time": "10:00",
    "endTime": "11:30",
@@ -12048,7 +12080,8 @@
    "lat": -25.3917816,
    "lng": 28.2616105,
    "types": [
-    "SWG"
+    "SWG",
+    "Open"
    ],
    "notes": null,
    "online": false,
@@ -12056,9 +12089,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/hammanskraal-tuesday-meeting-open/"
   },
   {
-   "id": "na-pta-4936",
+   "id": "na-pta-5787",
    "fellowship": "NA",
-   "name": "Monday Rustenburg Meeting *Open*",
+   "name": "Monday Rustenburg Meeting",
    "day": 1,
    "time": "19:00",
    "endTime": "20:00",
@@ -12066,16 +12099,18 @@
    "region": "Malebitsa",
    "lat": -24.8987379,
    "lng": 28.9329028,
-   "types": [],
+   "types": [
+    "Open"
+   ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/pta/meetings/monday-rustenburg-meeting-open/"
   },
   {
-   "id": "na-pta-4932",
+   "id": "na-pta-5783",
    "fellowship": "NA",
-   "name": "Monday Montana Meeting *Open*",
+   "name": "Monday Montana Meeting",
    "day": 1,
    "time": "19:00",
    "endTime": "20:00",
@@ -12084,7 +12119,8 @@
    "lat": -25.6677021,
    "lng": 28.2347045,
    "types": [
-    "SPK"
+    "SPK",
+    "Open"
    ],
    "notes": null,
    "online": false,
@@ -12092,9 +12128,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/back-to-basics/"
   },
   {
-   "id": "na-pta-4930",
+   "id": "na-pta-5781",
    "fellowship": "NA",
-   "name": "Monday Lyttleton *Open*",
+   "name": "Monday Lyttleton",
    "day": 1,
    "time": "19:00",
    "endTime": "20:00",
@@ -12102,16 +12138,18 @@
    "region": "Pretoria",
    "lat": -25.8326962,
    "lng": 28.204478,
-   "types": [],
+   "types": [
+    "Open"
+   ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/pta/meetings/topic-3/"
   },
   {
-   "id": "na-pta-4928",
+   "id": "na-pta-5779",
    "fellowship": "NA",
-   "name": "Monday Garsfontein Meeting *Open*",
+   "name": "Monday Garsfontein Meeting",
    "day": 1,
    "time": "19:00",
    "endTime": "20:00",
@@ -12123,7 +12161,8 @@
     "BEG",
     "VAR",
     "SPK",
-    "TOP"
+    "TOP",
+    "Open"
    ],
    "notes": null,
    "online": false,
@@ -12131,9 +12170,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/spiritual-principles/"
   },
   {
-   "id": "na-pta-4926",
+   "id": "na-pta-5777",
    "fellowship": "NA",
-   "name": "Monday Second Chance Meeting *Temporarily Closed*",
+   "name": "Monday Second Chance Meeting",
    "day": 1,
    "time": "17:00",
    "endTime": "18:00",
@@ -12150,9 +12189,9 @@
    "sourceUrl": "https://na.org.za/pta/meetings/monday-second-chance-meeting/"
   },
   {
-   "id": "na-pta-4924",
+   "id": "na-pta-5775",
    "fellowship": "NA",
-   "name": "Hammanskraal Meeting - Monday *OPEN*",
+   "name": "Hammanskraal Meeting - Monday",
    "day": 1,
    "time": "10:00",
    "endTime": "11:30",
@@ -12161,7 +12200,8 @@
    "lat": -25.3698049,
    "lng": 28.2520853,
    "types": [
-    "TOP"
+    "TOP",
+    "Open"
    ],
    "notes": null,
    "online": false,
