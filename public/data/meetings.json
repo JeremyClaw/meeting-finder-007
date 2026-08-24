@@ -1,12 +1,31 @@
 {
- "updated": "2026-08-17T04:47:06.002Z",
+ "updated": "2026-08-24T04:50:20.005Z",
  "counts": {
-  "AA": 393,
+  "AA": 394,
   "NA": 274,
-  "CA": 39,
-  "total": 706
+  "CA": 40,
+  "total": 708
  },
  "meetings": [
+  {
+   "id": "aa-2509",
+   "fellowship": "AA",
+   "name": "PMB Civic",
+   "day": 4,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "50 Bombay Rd, Northdale, Pietermaritzburg, 3201, South Africa",
+   "region": "KZN",
+   "lat": -29.5677956,
+   "lng": 30.4013223,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pmb-civic"
+  },
   {
    "id": "aa-2503",
    "fellowship": "AA",
@@ -12520,6 +12539,23 @@
   },
   {
    "fellowship": "CA",
+   "name": "Line by Line (Big Book Study)",
+   "day": 2,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "288 Castlehill Drive, Northcliff, RANDBURG, South Africa",
+   "region": "Johannesburg",
+   "types": [],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
+   "id": "ca-14",
+   "lat": -26.1314412,
+   "lng": 27.9656869
+  },
+  {
+   "fellowship": "CA",
    "name": "The Last Straw",
    "day": 2,
    "time": "19:30",
@@ -12531,7 +12567,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-14",
+   "id": "ca-15",
    "lat": -26.1544951,
    "lng": 28.3193565
   },
@@ -12548,7 +12584,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-15",
+   "id": "ca-16",
    "lat": -26.047626,
    "lng": 28.0309387
   },
@@ -12565,7 +12601,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-16",
+   "id": "ca-17",
    "lat": -26.1162843,
    "lng": 28.0038122
   },
@@ -12582,26 +12618,9 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-17",
+   "id": "ca-18",
    "lat": -26.1893623,
    "lng": 28.2517368
-  },
-  {
-   "fellowship": "CA",
-   "name": "Line by Line (Big Book Study)",
-   "day": 4,
-   "time": "19:30",
-   "endTime": "20:30",
-   "address": "127 Bram Fischer Dr, Ferndale, RANDBURG, South Africa",
-   "region": "Johannesburg",
-   "types": [],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-18",
-   "lat": -26.103926,
-   "lng": 28.0018515
   },
   {
    "fellowship": "CA",
@@ -12677,7 +12696,7 @@
    "day": 5,
    "time": "19:30",
    "endTime": "20:30",
-   "address": "117 Bowling Ave, Gallo Manor, SANDTON, South Africa",
+   "address": "253 Bryanston Drive, Bryanston, SANDTON, South Africa",
    "region": "Johannesburg",
    "types": [],
    "notes": null,
@@ -12685,8 +12704,8 @@
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
    "id": "ca-23",
-   "lat": -26.0669584,
-   "lng": 28.0755129
+   "lat": -26.0473815,
+   "lng": 28.0318823
   },
   {
    "fellowship": "CA",
@@ -12877,6 +12896,23 @@
   },
   {
    "fellowship": "CA",
+   "name": "Spiritual Lines",
+   "day": 4,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "143 Leonie Str, Doringkloof, Centurion, South Africa",
+   "region": "Pretoria",
+   "types": [],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
+   "id": "ca-35",
+   "lat": -25.8523303,
+   "lng": 28.2053361
+  },
+  {
+   "fellowship": "CA",
    "name": "From Blow to Glow",
    "day": 5,
    "time": "19:00",
@@ -12888,7 +12924,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-35",
+   "id": "ca-36",
    "lat": -25.7961862,
    "lng": 28.2956857
   },
@@ -12905,7 +12941,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-36",
+   "id": "ca-37",
    "lat": -25.9916944,
    "lng": 28.0301389
   },
@@ -12922,7 +12958,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-greater-sa/",
-   "id": "ca-37",
+   "id": "ca-38",
    "lat": -32.947125,
    "lng": 27.962554
   },
@@ -12939,7 +12975,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-greater-sa/",
-   "id": "ca-38",
+   "id": "ca-39",
    "lat": -30.2889192,
    "lng": 30.7549371
   }
