@@ -1,12 +1,50 @@
 {
- "updated": "2026-08-24T04:50:20.005Z",
+ "updated": "2026-08-31T10:41:22.654Z",
  "counts": {
-  "AA": 394,
-  "NA": 274,
+  "AA": 395,
+  "NA": 273,
   "CA": 40,
   "total": 708
  },
  "meetings": [
+  {
+   "id": "aa-2524",
+   "fellowship": "AA",
+   "name": "Maak Reg Maandag",
+   "day": 1,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "9 Petrusa St, Belgravia, Cape Town, 7530, South Africa",
+   "region": "Western Cape",
+   "lat": -33.9009784,
+   "lng": 18.6432322,
+   "types": [
+    "Closed"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/maak-reg-maakdag"
+  },
+  {
+   "id": "aa-2522",
+   "fellowship": "AA",
+   "name": "Feelgood Friday",
+   "day": 5,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "9 Petrusa St, Belgravia, Cape Town, 7530, South Africa",
+   "region": "Western Cape",
+   "lat": -33.9009784,
+   "lng": 18.6432322,
+   "types": [
+    "Closed"
+   ],
+   "notes": "Open meetings every last Friday of the month.",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/feelgood-friday"
+  },
   {
    "id": "aa-2509",
    "fellowship": "AA",
@@ -387,23 +425,6 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bonteheuwel"
-  },
-  {
-   "id": "aa-2298",
-   "fellowship": "AA",
-   "name": "Blue Downs",
-   "day": 6,
-   "time": "15:00",
-   "endTime": "16:00",
-   "address": "The Hague St & London Way, Malibu Village, Cape Town, 7100, South Africa",
-   "region": "Western Cape",
-   "lat": -33.9913049,
-   "lng": 18.6923469,
-   "types": [],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/blue-downs-2"
   },
   {
    "id": "aa-2290",
@@ -7206,10 +7227,10 @@
    "day": 0,
    "time": "16:00",
    "endTime": "17:00",
-   "address": "Campground Rd, Rosebank, Cape Town, 7700, South Africa",
+   "address": "56 Campground Rd, Rondebosch, Cape Town, 7700, South Africa",
    "region": "",
-   "lat": -33.9591185,
-   "lng": 18.4785654,
+   "lat": -33.9590996,
+   "lng": 18.4785253,
    "types": [],
    "notes": "The focus of this meeting is the nuanced and different experiences of women in active addiction and recovery, providing a forum to share those experiences.\n\nFellowshipping on the last Sunday of every month.\n\nIn line with NA’s 7th Tradition, cash-only donations are requested until a SnapScan account is set up.\n\nParking available on site",
    "online": false,
@@ -7319,23 +7340,6 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/goodwood/"
-  },
-  {
-   "id": "na-wc-5243",
-   "fellowship": "NA",
-   "name": "Crawford Living Clean",
-   "day": 6,
-   "time": "17:00",
-   "endTime": "18:30",
-   "address": "86 Lawrence Rd, Athlone, Cape Town, 7760, South Africa",
-   "region": "Western Cape",
-   "lat": -33.965281,
-   "lng": 18.502987,
-   "types": [],
-   "notes": "There is an open meeting every first Saturday of the month. This means that friends and family of the addict may join the first Saturday each month.",
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/wc/meetings/crawford/"
   },
   {
    "id": "na-wc-5241",
@@ -7864,7 +7868,7 @@
    "lat": -33.9815106,
    "lng": 18.4796306,
    "types": [],
-   "notes": null,
+   "notes": "No meeting on the 26th August, meetings will continue as normal next week 2 September.",
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/miracles-milestones/"
@@ -11580,9 +11584,8 @@
    "lat": -25.8298077,
    "lng": 28.2058227,
    "types": [
-    "TC",
-    "TOP",
-    "Open"
+    "Open",
+    "TOP"
    ],
    "notes": null,
    "online": false,
