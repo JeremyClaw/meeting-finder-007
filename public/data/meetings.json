@@ -1,12 +1,50 @@
 {
- "updated": "2026-08-31T10:41:22.654Z",
+ "updated": "2026-09-07T09:07:54.571Z",
  "counts": {
-  "AA": 395,
-  "NA": 273,
+  "AA": 397,
+  "NA": 274,
   "CA": 40,
-  "total": 708
+  "total": 711
  },
  "meetings": [
+  {
+   "id": "aa-2531",
+   "fellowship": "AA",
+   "name": "Thursday Thoughts",
+   "day": 4,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "8, 9 Petrusa St, Belgravia, Cape Town, 7530, South Africa",
+   "region": "Western Cape",
+   "lat": -33.9009784,
+   "lng": 18.6432322,
+   "types": [
+    "Closed"
+   ],
+   "notes": "Open meetings every last Thursday of the month.",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/thursday-thoughts"
+  },
+  {
+   "id": "aa-2529",
+   "fellowship": "AA",
+   "name": "Step Eleven",
+   "day": 0,
+   "time": "17:30",
+   "endTime": "18:30",
+   "address": "8 Petrusa St, Belgravia, Cape Town, 7530, South Africa",
+   "region": "Western Cape",
+   "lat": -33.9012444,
+   "lng": 18.6431524,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/step-eleven"
+  },
   {
    "id": "aa-2524",
    "fellowship": "AA",
@@ -431,8 +469,8 @@
    "fellowship": "AA",
    "name": "Howick West",
    "day": 3,
-   "time": "19:00",
-   "endTime": "20:00",
+   "time": "19:30",
+   "endTime": "20:30",
    "address": "6 Carnation Rd, Howick West, Howick, 3290, South Africa",
    "region": "KZN",
    "lat": -29.5142555,
@@ -2675,10 +2713,10 @@
    "day": 4,
    "time": "20:00",
    "endTime": null,
-   "address": "17 Heidelberg Ave, Newmarket AH, Alberton, 1449, South Africa",
+   "address": "23 Glen Dr, Verwoerdpark, Alberton, 1449, South Africa",
    "region": "Johannesburg ＆ West Rand Area",
-   "lat": -26.2811478,
-   "lng": 28.1271525,
+   "lat": -26.2689124,
+   "lng": 28.1475602,
    "types": [
     "Open"
    ],
@@ -4076,10 +4114,10 @@
    "day": 3,
    "time": "19:30",
    "endTime": null,
-   "address": "17 Heidelberg Ave, Newmarket AH, Alberton, 1449, South Africa",
+   "address": "23 Glen Dr, Verwoerdpark, Alberton, 1449, South Africa",
    "region": "Johannesburg ＆ West Rand Area",
-   "lat": -26.2811478,
-   "lng": 28.1271525,
+   "lat": -26.2689124,
+   "lng": 28.1475602,
    "types": [
     "Open"
    ],
@@ -7340,6 +7378,23 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/goodwood/"
+  },
+  {
+   "id": "na-wc-5243",
+   "fellowship": "NA",
+   "name": "Crawford Living Clean",
+   "day": 6,
+   "time": "17:00",
+   "endTime": "18:00",
+   "address": "86 Lawrence Rd, Athlone, Cape Town, 7760, South Africa",
+   "region": "Western Cape",
+   "lat": -33.965281,
+   "lng": 18.502987,
+   "types": [],
+   "notes": "There is an open meeting every first Saturday of the month. This means that friends and family of the addict may join the first Saturday each month.",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/wc/meetings/crawford/"
   },
   {
    "id": "na-wc-5241",
