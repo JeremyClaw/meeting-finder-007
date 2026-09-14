@@ -1,12 +1,31 @@
 {
- "updated": "2026-09-07T09:07:54.571Z",
+ "updated": "2026-09-14T09:42:17.062Z",
  "counts": {
-  "AA": 397,
+  "AA": 399,
   "NA": 274,
   "CA": 40,
-  "total": 711
+  "total": 713
  },
  "meetings": [
+  {
+   "id": "aa-2541",
+   "fellowship": "AA",
+   "name": "PMB Copesville",
+   "day": 2,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "12 Cadillac St, Copesville, Pietermaritzburg, 3201, South Africa",
+   "region": "KZN",
+   "lat": -29.5541984,
+   "lng": 30.4353051,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/pmb-copesville"
+  },
   {
    "id": "aa-2531",
    "fellowship": "AA",
@@ -1451,6 +1470,23 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/greendale-group-zimbabwe-2"
+  },
+  {
+   "id": "aa-1948",
+   "fellowship": "AA",
+   "name": "Women's Potluck Meeting",
+   "day": 6,
+   "time": "10:30",
+   "endTime": "11:30",
+   "address": "Western Cape, South Africa",
+   "region": "Western Cape",
+   "lat": -33.2277918,
+   "lng": 21.8568586,
+   "types": [],
+   "notes": "(1st saturday of the month)\n\nRotating Venue in Cape Town\n\nEmail: CapeTownWomensPotluck@gmail.com",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/womens-potluck-meeting"
   },
   {
    "id": "aa-1950",
@@ -7419,7 +7455,7 @@
    "name": "I Can't We Can - Mitchells Plain",
    "day": 6,
    "time": "15:00",
-   "endTime": "16:30",
+   "endTime": "16:00",
    "address": "Weltevreden Dr & Spine Rd, Rocklands, Cape Town, 7798, South Africa",
    "region": "Western Cape",
    "lat": -34.0659804,
@@ -10390,7 +10426,8 @@
    "lat": -29.5039982,
    "lng": 31.2330596,
    "types": [
-    "Closed"
+    "Closed",
+    "TC"
    ],
    "notes": null,
    "online": false,
@@ -10452,7 +10489,8 @@
    "lng": 31.0940125,
    "types": [
     "Open",
-    "TOP"
+    "TOP",
+    "TC"
    ],
    "notes": null,
    "online": false,
@@ -10982,7 +11020,8 @@
    "lng": 32.0392194,
    "types": [
     "Open",
-    "TOP"
+    "TOP",
+    "TC"
    ],
    "notes": null,
    "online": false,
@@ -11056,7 +11095,7 @@
   {
    "id": "na-kzn-8917",
    "fellowship": "NA",
-   "name": "Tongaat Thursday",
+   "name": "Belvedere, Tongaat Thursday",
    "day": 4,
    "time": "19:00",
    "endTime": "20:00",
@@ -11195,7 +11234,7 @@
   {
    "id": "na-kzn-8902",
    "fellowship": "NA",
-   "name": "City Group Wednesday",
+   "name": "City Group, Musgrave Wednesday",
    "day": 3,
    "time": "19:00",
    "endTime": "20:00",
@@ -11281,8 +11320,8 @@
    "fellowship": "NA",
    "name": "Howick Wednesday",
    "day": 3,
-   "time": "18:30",
-   "endTime": "19:30",
+   "time": "18:00",
+   "endTime": "19:00",
    "address": "21 Buchanan St, Howick, 3290, South Africa",
    "region": "Kwazulu-Natal",
    "lat": -29.4772844,
@@ -11300,14 +11339,14 @@
   {
    "id": "na-kzn-8892",
    "fellowship": "NA",
-   "name": "Tongaat Tuesday",
+   "name": "Flamingo Heights Tongaat Tuesday",
    "day": 2,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "2 Canary Cres, Buffelsdale, oThongathi, 4401, South Africa",
+   "address": "Flamingo Heights, Buffelsdale, oThongathi, 4399, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.5816766,
-   "lng": 31.0940125,
+   "lat": -29.5836788,
+   "lng": 31.0934812,
    "types": [
     "Open",
     "TOP"
@@ -11471,7 +11510,8 @@
    "lng": 30.8765551,
    "types": [
     "JFT",
-    "Open"
+    "Open",
+    "TC"
    ],
    "notes": null,
    "online": false,
