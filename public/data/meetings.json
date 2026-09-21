@@ -1,12 +1,69 @@
 {
- "updated": "2026-09-14T09:42:17.062Z",
+ "updated": "2026-09-21T09:46:42.633Z",
  "counts": {
-  "AA": 399,
+  "AA": 403,
   "NA": 274,
   "CA": 40,
-  "total": 713
+  "total": 717
  },
  "meetings": [
+  {
+   "id": "aa-2556",
+   "fellowship": "AA",
+   "name": "Maun - Botswana",
+   "day": 2,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "4VH9+HX9 Ramotswa Library, Ramotswa, Botswana",
+   "region": "KZN",
+   "lat": -24.8710896,
+   "lng": 25.8700133,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/maun-botswana"
+  },
+  {
+   "id": "aa-2553",
+   "fellowship": "AA",
+   "name": "Women's Wednesday Meeting",
+   "day": 3,
+   "time": "18:30",
+   "endTime": "19:30",
+   "address": "5 Nqutu Rd, Hillcrest, 3650, South Africa",
+   "region": "KZN",
+   "lat": -29.776534,
+   "lng": 30.7637655,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/womens-wednesday-meeting"
+  },
+  {
+   "id": "aa-2546",
+   "fellowship": "AA",
+   "name": "Saldanha A.A. Group",
+   "day": 5,
+   "time": "18:30",
+   "endTime": "19:30",
+   "address": "Shop 2, 38 Main Rd, Saldanha, 7395, South Africa",
+   "region": "Western Cape",
+   "lat": -33.0075497,
+   "lng": 17.9457307,
+   "types": [
+    "Open"
+   ],
+   "notes": "Maps Link : https://www.google.com/maps/place/Hoedjiesbaai+Hotel/@-33.0075452,17.9431558,17z/data=!3m1!4b1!4m9!3m8!1s0x1c34a5f95fd7c281:0xad155afa5d2dd22a!5m2!4m1!1i2!8m2!3d-33.0075497!4d17.9457307!16sg1tkmvpw4?entry=ttu&amp;g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/saldanha-a-a-group"
+  },
   {
    "id": "aa-2541",
    "fellowship": "AA",
@@ -1478,12 +1535,12 @@
    "day": 6,
    "time": "10:30",
    "endTime": "11:30",
-   "address": "Western Cape, South Africa",
+   "address": "Darling St, Cape Town City Centre, Cape Town, South Africa",
    "region": "Western Cape",
-   "lat": -33.2277918,
-   "lng": 21.8568586,
+   "lat": -33.9248509,
+   "lng": 18.423627,
    "types": [],
-   "notes": "(1st saturday of the month)\n\nRotating Venue in Cape Town\n\nEmail: CapeTownWomensPotluck@gmail.com",
+   "notes": "(1st saturday of the month)\n\nRotating Venue in Cape Town\n\nPlease note that our\nphysical meeting address\nchanges monthly.\nReach out to us via email\nto find out where we are\nhosting this month's meeting\n\nEmail: CapeTownWomensPotluck@gmail.com",
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/womens-potluck-meeting"
@@ -2088,10 +2145,10 @@
    "day": 5,
    "time": "19:30",
    "endTime": "20:30",
-   "address": "Clairwood, Durban, 4052, South Africa",
+   "address": "43 Hindson Grove, Clairwood, Durban, 4052, South Africa",
    "region": "KZN",
-   "lat": -29.9136717,
-   "lng": 30.985489,
+   "lat": -29.9180567,
+   "lng": 30.978461,
    "types": [
     "Open"
    ],
@@ -5895,6 +5952,25 @@
    "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/marlborough-group-zimbabwe-2"
   },
   {
+   "id": "aa-1437",
+   "fellowship": "AA",
+   "name": "Clairwood Workshop Meeting",
+   "day": 2,
+   "time": "18:15",
+   "endTime": "19:15",
+   "address": "Clairwood, Durban, 4052, South Africa",
+   "region": "KZN",
+   "lat": -29.9136717,
+   "lng": 30.985489,
+   "types": [
+    "Closed"
+   ],
+   "notes": "Workshop Meeting\nMeeting ID: 879 7090 8038\nPasscode: 210932",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/clairwood-online-meeting"
+  },
+  {
    "id": "aa-1439",
    "fellowship": "AA",
    "name": "AA Rustenburg",
@@ -7257,6 +7333,23 @@
    "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/marlborough-online-zoom-meeting"
   },
   {
+   "id": "na-wc-5821",
+   "fellowship": "NA",
+   "name": "Riebeek Valley Monday",
+   "day": 1,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "30 Kerk St, Riebeeck West, Riebeek West, 7306, South Africa",
+   "region": "Western Cape",
+   "lat": -33.3523597,
+   "lng": 18.8690383,
+   "types": [],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/wc/meetings/riebeek-valley-monday/"
+  },
+  {
    "id": "na-wc-5552",
    "fellowship": "NA",
    "name": "Durbanville Wednesday Lunch",
@@ -7597,10 +7690,10 @@
    "day": 5,
    "time": "18:00",
    "endTime": "19:00",
-   "address": "2 Somerset Rd, Green Point, Cape Town, 8001, South Africa",
+   "address": "14 Chiappini St, De Waterkant, Cape Town, 8001, South Africa",
    "region": "Western Cape",
-   "lat": -33.9161263,
-   "lng": 18.418842,
+   "lat": -33.9163857,
+   "lng": 18.419354,
    "types": [],
    "notes": "This is a closed meeting except for the first Monday of each month.\nPlease note that the in-person meeting venue is closed on public holidays.",
    "online": false,
@@ -7812,7 +7905,7 @@
   {
    "id": "na-wc-5193",
    "fellowship": "NA",
-   "name": "Young People's Meeting",
+   "name": "No Matter How Old Lakeside",
    "day": 4,
    "time": "19:00",
    "endTime": "20:00",
@@ -8024,10 +8117,10 @@
    "day": 3,
    "time": "18:00",
    "endTime": "19:00",
-   "address": "2 Somerset Rd, Green Point, Cape Town, 8001, South Africa",
+   "address": "14 Chiappini St, De Waterkant, Cape Town, 8001, South Africa",
    "region": "Western Cape",
-   "lat": -33.9161263,
-   "lng": 18.418842,
+   "lat": -33.9163857,
+   "lng": 18.419354,
    "types": [],
    "notes": "This is a closed meeting except for the first Monday of each month.\nPlease note that the in-person meeting venue is closed on public holidays.",
    "online": false,
@@ -8264,23 +8357,6 @@
    "sourceUrl": "https://na.org.za/wc/meetings/durbanville/"
   },
   {
-   "id": "na-wc-5120",
-   "fellowship": "NA",
-   "name": "Bonteheuwel Meeting",
-   "day": 1,
-   "time": "19:30",
-   "endTime": "20:30",
-   "address": "Elder St & Jakkalsvlei Ave, Bonteheuwel, Cape Town, 7764, South Africa",
-   "region": "Western Cape",
-   "lat": -33.9462468,
-   "lng": 18.5512115,
-   "types": [],
-   "notes": "Meeting is open to non-addicts on the last Monday of each month.",
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/wc/meetings/bonteheuwel/"
-  },
-  {
    "id": "na-wc-5118",
    "fellowship": "NA",
    "name": "Gordon's Bay Monday Night",
@@ -8443,10 +8519,10 @@
    "day": 1,
    "time": "18:00",
    "endTime": "19:00",
-   "address": "2 Somerset Rd, Green Point, Cape Town, 8001, South Africa",
+   "address": "14 Chiappini St, De Waterkant, Cape Town, 8001, South Africa",
    "region": "Western Cape",
-   "lat": -33.9161263,
-   "lng": 18.418842,
+   "lat": -33.9163857,
+   "lng": 18.419354,
    "types": [],
    "notes": "This is a closed meeting except for the first Monday of each month.\nPlease note that the in-person meeting venue is closed on public holidays.",
    "online": false,
@@ -11885,7 +11961,6 @@
    "lng": 28.2779715,
    "types": [
     "BT",
-    "TC",
     "Open"
    ],
    "notes": null,
