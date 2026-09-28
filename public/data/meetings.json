@@ -1,25 +1,45 @@
 {
- "updated": "2026-09-21T09:46:42.633Z",
+ "updated": "2026-09-28T10:42:56.407Z",
  "counts": {
-  "AA": 403,
-  "NA": 274,
+  "AA": 404,
+  "NA": 272,
   "CA": 40,
-  "total": 717
+  "total": 716
  },
  "meetings": [
+  {
+   "id": "aa-2563",
+   "fellowship": "AA",
+   "name": "Robertson A.A. Group",
+   "day": 1,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "34 Van Reenen St, Robertson, 6705, South Africa",
+   "region": "Western Cape",
+   "lat": -33.8032548,
+   "lng": 19.8823692,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/robertson-a-a-group"
+  },
   {
    "id": "aa-2556",
    "fellowship": "AA",
    "name": "Maun - Botswana",
    "day": 2,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "4VH9+HX9 Ramotswa Library, Ramotswa, Botswana",
-   "region": "KZN",
-   "lat": -24.8710896,
-   "lng": 25.8700133,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "22159 Disaneng Rd, Maun, Botswana",
+   "region": "Botswana",
+   "lat": -19.9709235,
+   "lng": 23.4648272,
    "types": [
-    "Open"
+    "Open",
+    "ONL"
    ],
    "notes": null,
    "online": false,
@@ -182,9 +202,9 @@
    "id": "aa-2503",
    "fellowship": "AA",
    "name": "Waves of Change",
-   "day": 5,
-   "time": "12:00",
-   "endTime": "13:00",
+   "day": 1,
+   "time": "18:00",
+   "endTime": "19:00",
    "address": "Newport Rd, Salmon Bay, Port Edward, 4295, South Africa",
    "region": "KZN",
    "lat": -31.0558059,
@@ -1927,8 +1947,8 @@
    "fellowship": "AA",
    "name": "Greenfields",
    "day": 5,
-   "time": "20:00",
-   "endTime": "21:00",
+   "time": "19:30",
+   "endTime": "20:30",
    "address": "10 Bankgreen Pl, Greenbury, Phoenix, 4068, South Africa",
    "region": "KZN",
    "lat": -29.7236368,
@@ -3790,13 +3810,15 @@
    "fellowship": "AA",
    "name": "Grove End",
    "day": 3,
-   "time": "20:00",
-   "endTime": "21:00",
-   "address": "4 Grandmore Rd, Grove End, Phoenix, 4068, South Africa",
-   "region": "KZN",
-   "lat": -29.6984722,
-   "lng": 31.025119,
-   "types": [],
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "64 Grandmore Rd, Stanmore, Phoenix, 4068, South Africa",
+   "region": "Johannesburg ＆ West Rand Area",
+   "lat": -29.6968318,
+   "lng": 31.0286834,
+   "types": [
+    "Open"
+   ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
@@ -7888,16 +7910,16 @@
   {
    "id": "na-wc-5195",
    "fellowship": "NA",
-   "name": "Paarl Thursday",
+   "name": "Paarl Thursday (**** N.B LOCATION CHANGE - 24/06/2026)",
    "day": 4,
    "time": "19:00",
    "endTime": "20:30",
-   "address": "Malherbe Street & Pastorie Avenue, Esterville, Paarl, 7646, South Africa",
+   "address": "7X68+V49 Paarl",
    "region": "Western Cape",
-   "lat": -33.7339087,
-   "lng": 18.9633592,
+   "lat": -33.7378375,
+   "lng": 18.9653594,
    "types": [],
-   "notes": "Meeting is open to non-addicts every last Thursday of the month. Meeting is wheel-chair friendly and accessible.",
+   "notes": "**\nN.B Paarl NA meeting will NOT be at its usual venue this week (wk39) Thursday at 19:00.\nMeeting at the PUBLIC PARK across the road from La Rochelle Girls school in Faure street Paarl central\n**\n\nMeeting is open to non-addicts every last Thursday of the month. Meeting is wheel-chair friendly and accessible.",
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/paarl/"
@@ -9259,26 +9281,6 @@
    "sourceUrl": "https://na.org.za/jhb/meetings/midrand-thursday-1930/"
   },
   {
-   "id": "na-jhb-5160",
-   "fellowship": "NA",
-   "name": "Bosmont - Thursday - 18:30 - Temp Closed",
-   "day": 4,
-   "time": "18:30",
-   "endTime": "19:30",
-   "address": "Albertina Sisulu Rd, Bosmont, Randburg, South Africa",
-   "region": "Johannesburg",
-   "lat": -26.1883629,
-   "lng": 27.9540195,
-   "types": [
-    "English",
-    "TC"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/jhb/meetings/bosmont-thursday-1830/"
-  },
-  {
    "id": "na-jhb-5158",
    "fellowship": "NA",
    "name": "Alberton - Thursday - 19:30",
@@ -9872,25 +9874,6 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/jhb/meetings/randburg-tuesday-1930/"
-  },
-  {
-   "id": "na-jhb-5096",
-   "fellowship": "NA",
-   "name": "Newclare – Tuesday – 19:30 - Temp Closed",
-   "day": 2,
-   "time": "19:30",
-   "endTime": "20:30",
-   "address": "4 Hoy St, Newclare, Randburg, 2093, South Africa",
-   "region": "Johannesburg",
-   "lat": -26.1859872,
-   "lng": 27.9636393,
-   "types": [
-    "TC"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/jhb/meetings/newclare-tuesday-1930/"
   },
   {
    "id": "na-jhb-5094",
@@ -11921,7 +11904,8 @@
    "lng": 28.1229915,
    "types": [
     "Open",
-    "TOP"
+    "TOP",
+    "TC"
    ],
    "notes": null,
    "online": false,
