@@ -1,12 +1,69 @@
 {
- "updated": "2026-09-28T10:42:56.407Z",
+ "updated": "2026-10-05T11:17:30.634Z",
  "counts": {
-  "AA": 404,
+  "AA": 407,
   "NA": 272,
-  "CA": 40,
-  "total": 716
+  "CA": 41,
+  "total": 720
  },
  "meetings": [
+  {
+   "id": "aa-2574",
+   "fellowship": "AA",
+   "name": "Serenity Saturday",
+   "day": 6,
+   "time": "15:00",
+   "endTime": "16:00",
+   "address": "26 Old Main Rd, Botha's Hill, Durban, 3650, South Africa",
+   "region": "KZN",
+   "lat": -29.766992,
+   "lng": 30.755853,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/serenity-saturday"
+  },
+  {
+   "id": "aa-2572",
+   "fellowship": "AA",
+   "name": "We Agnostics",
+   "day": 3,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "16 Stiemens St, Braamfontein, Johannesburg, 2017, South Africa",
+   "region": "Johannesburg ＆ West Rand Area",
+   "lat": -26.19244,
+   "lng": 28.0329101,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/we-agnostics"
+  },
+  {
+   "id": "aa-2566",
+   "fellowship": "AA",
+   "name": "Cambridge",
+   "day": 2,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "23 Hebbes St, Cambridge, KuGompo City, 5206, South Africa",
+   "region": "Eastern Cape",
+   "lat": -32.978123,
+   "lng": 27.888309,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/cambridge"
+  },
   {
    "id": "aa-2563",
    "fellowship": "AA",
@@ -345,14 +402,14 @@
    "fellowship": "AA",
    "name": "Howick Thursday Night AA Group",
    "day": 4,
-   "time": "18:30",
-   "endTime": "19:30",
+   "time": "18:00",
+   "endTime": "19:00",
    "address": "23 Mare St, Howick, 3290, South Africa",
    "region": "KZN",
    "lat": -29.4794994,
    "lng": 30.2306745,
    "types": [
-    "Closed"
+    "Open"
    ],
    "notes": "Open meeting every 1st Thursday of the month.",
    "online": false,
@@ -6696,10 +6753,10 @@
    "day": 1,
    "time": "19:30",
    "endTime": null,
-   "address": "65 Moore St, Quigney, East London, 5201, South Africa",
+   "address": "9 Cecil Lloyd St, Stirling, KuGompo City, 5241, South Africa",
    "region": "Eastern Cape",
-   "lat": -33.0133243,
-   "lng": 27.9150233,
+   "lat": -32.9888777,
+   "lng": 27.9216414,
    "types": [
     "Open"
    ],
@@ -7959,6 +8016,23 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/living-queer-lit/"
+  },
+  {
+   "id": "na-wc-5190",
+   "fellowship": "NA",
+   "name": "George Shelter Meeting",
+   "day": 4,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "123 Memorium St, Eastern Ext, George, 6529, South Africa",
+   "region": "Western Cape",
+   "lat": -33.9628176,
+   "lng": 22.4687498,
+   "types": [],
+   "notes": "1st meeting of month open and beginners topic, 2nd week step, 3rd week topic, 4th week share and if 5th then traditions.",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/wc/meetings/george/"
   },
   {
    "id": "na-wc-5188",
@@ -10474,26 +10548,6 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/toti-sunday-steps-meeting/"
   },
   {
-   "id": "na-kzn-8989",
-   "fellowship": "NA",
-   "name": "Salt Rock Wednesday",
-   "day": 3,
-   "time": "18:00",
-   "endTime": "19:00",
-   "address": "14 Garden Rd, Umhlali Beach, Ballito, 4420, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.5039982,
-   "lng": 31.2330596,
-   "types": [
-    "Closed",
-    "TC"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/salt-rock-wednesday/"
-  },
-  {
    "id": "na-kzn-8969",
    "fellowship": "NA",
    "name": "Park Rynie Sunday",
@@ -12492,6 +12546,23 @@
   },
   {
    "fellowship": "CA",
+   "name": "Deep South Recovery Vibes",
+   "day": 1,
+   "time": "17:00",
+   "endTime": "18:00",
+   "address": "8 First Avenue, Fishhoek, Cape Town, South Africa",
+   "region": "Western Cape",
+   "types": [],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
+   "id": "ca-2",
+   "lat": -34.14033,
+   "lng": 18.429471
+  },
+  {
+   "fellowship": "CA",
    "name": "Starting Line (Speaker Meeting)",
    "day": 2,
    "time": "18:30",
@@ -12503,7 +12574,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-2",
+   "id": "ca-3",
    "lat": -33.9196108,
    "lng": 18.417569
   },
@@ -12520,7 +12591,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-3",
+   "id": "ca-4",
    "lat": -33.9855801,
    "lng": 18.4645374
   },
@@ -12537,7 +12608,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-4",
+   "id": "ca-5",
    "lat": -34.4106474,
    "lng": 19.2402929
   },
@@ -12554,7 +12625,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-5",
+   "id": "ca-6",
    "lat": -33.8207754,
    "lng": 18.4924954
   },
@@ -12571,7 +12642,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-6",
+   "id": "ca-7",
    "lat": -33.9316239,
    "lng": 18.4063405
   },
@@ -12588,7 +12659,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-7",
+   "id": "ca-8",
    "lat": -33.9545074,
    "lng": 18.476776
   },
@@ -12605,7 +12676,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-8",
+   "id": "ca-9",
    "lat": -34.0845936,
    "lng": 18.4541014
   },
@@ -12622,7 +12693,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-9",
+   "id": "ca-10",
    "lat": -34.0786048,
    "lng": 18.8688395
   },
@@ -12639,7 +12710,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-10",
+   "id": "ca-11",
    "lat": -26.0878076,
    "lng": 27.9919777
   },
@@ -12656,7 +12727,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-11",
+   "id": "ca-12",
    "lat": -26.1454928,
    "lng": 27.9819868
   },
@@ -12673,7 +12744,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-12",
+   "id": "ca-13",
    "lat": -26.2033337,
    "lng": 28.2422662
   },
@@ -12690,7 +12761,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-13",
+   "id": "ca-14",
    "lat": -26.1048319,
    "lng": 27.977629
   },
@@ -12707,7 +12778,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-14",
+   "id": "ca-15",
    "lat": -26.1314412,
    "lng": 27.9656869
   },
@@ -12724,7 +12795,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-15",
+   "id": "ca-16",
    "lat": -26.1544951,
    "lng": 28.3193565
   },
@@ -12741,7 +12812,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-16",
+   "id": "ca-17",
    "lat": -26.047626,
    "lng": 28.0309387
   },
@@ -12758,7 +12829,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-17",
+   "id": "ca-18",
    "lat": -26.1162843,
    "lng": 28.0038122
   },
@@ -12775,7 +12846,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-18",
+   "id": "ca-19",
    "lat": -26.1893623,
    "lng": 28.2517368
   },
@@ -12792,7 +12863,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-19",
+   "id": "ca-20",
    "lat": -26.1145895,
    "lng": 27.971875
   },
@@ -12809,7 +12880,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-20",
+   "id": "ca-21",
    "lat": -26.1823999,
    "lng": 28.0300462
   },
@@ -12826,7 +12897,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-21",
+   "id": "ca-22",
    "lat": -26.164724,
    "lng": 28.2938818
   },
@@ -12843,7 +12914,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-22",
+   "id": "ca-23",
    "lat": -26.1048319,
    "lng": 27.977629
   },
@@ -12860,7 +12931,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-23",
+   "id": "ca-24",
    "lat": -26.0473815,
    "lng": 28.0318823
   },
@@ -12877,7 +12948,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-24",
+   "id": "ca-25",
    "lat": -26.1893623,
    "lng": 28.2517368
   },
@@ -12894,7 +12965,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-25",
+   "id": "ca-26",
    "lat": -26.11366,
    "lng": 27.9690933
   },
@@ -12911,7 +12982,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-26",
+   "id": "ca-27",
    "lat": -26.136848,
    "lng": 28.0159504
   },
@@ -12928,7 +12999,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-27",
+   "id": "ca-28",
    "lat": -26.1454928,
    "lng": 27.9819868
   },
@@ -12945,7 +13016,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-28",
+   "id": "ca-29",
    "lat": -26.1039277,
    "lng": 28.0018863
   },
@@ -12962,7 +13033,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-29",
+   "id": "ca-30",
    "lat": -26.1627402,
    "lng": 28.2626894
   },
@@ -12979,7 +13050,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-30",
+   "id": "ca-31",
    "lat": -26.1155512,
    "lng": 28.0132863
   },
@@ -12996,7 +13067,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-31",
+   "id": "ca-32",
    "lat": -25.9917406,
    "lng": 28.0296786
   },
@@ -13013,7 +13084,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-32",
+   "id": "ca-33",
    "lat": -26.1382392,
    "lng": 28.0151207
   },
@@ -13030,7 +13101,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-33",
+   "id": "ca-34",
    "lat": -25.8801444,
    "lng": 28.1147909
   },
@@ -13047,7 +13118,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-34",
+   "id": "ca-35",
    "lat": -25.79136,
    "lng": 28.2860074
   },
@@ -13064,7 +13135,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-35",
+   "id": "ca-36",
    "lat": -25.8523303,
    "lng": 28.2053361
   },
@@ -13081,7 +13152,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-36",
+   "id": "ca-37",
    "lat": -25.7961862,
    "lng": 28.2956857
   },
@@ -13098,7 +13169,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-37",
+   "id": "ca-38",
    "lat": -25.9916944,
    "lng": 28.0301389
   },
@@ -13115,7 +13186,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-greater-sa/",
-   "id": "ca-38",
+   "id": "ca-39",
    "lat": -32.947125,
    "lng": 27.962554
   },
@@ -13132,7 +13203,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-greater-sa/",
-   "id": "ca-39",
+   "id": "ca-40",
    "lat": -30.2889192,
    "lng": 30.7549371
   }
