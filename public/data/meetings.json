@@ -1,12 +1,31 @@
 {
- "updated": "2026-10-05T11:17:30.634Z",
+ "updated": "2026-10-12T11:46:10.627Z",
  "counts": {
-  "AA": 407,
+  "AA": 408,
   "NA": 272,
   "CA": 41,
-  "total": 720
+  "total": 721
  },
  "meetings": [
+  {
+   "id": "aa-2591",
+   "fellowship": "AA",
+   "name": "Sunnyside",
+   "day": 0,
+   "time": "17:00",
+   "endTime": "18:00",
+   "address": "98 Bourke St, Sunnyside, Pretoria, 0001, South Africa",
+   "region": "Northern",
+   "lat": -25.7562192,
+   "lng": 28.2080529,
+   "types": [
+    "Closed"
+   ],
+   "notes": "Open meetings every last Sunday of the month",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sunnyside"
+  },
   {
    "id": "aa-2574",
    "fellowship": "AA",
@@ -437,9 +456,9 @@
    "id": "aa-2401",
    "fellowship": "AA",
    "name": "The Soshanguve Group",
-   "day": 5,
-   "time": "14:00",
-   "endTime": "15:00",
+   "day": 0,
+   "time": "15:00",
+   "endTime": "16:00",
    "address": "1631 Block H, Soshanguve - H, Soshanguve, 0164, South Africa",
    "region": "Northern",
    "lat": -25.523495,
@@ -3012,10 +3031,10 @@
    "day": 4,
    "time": "19:30",
    "endTime": null,
-   "address": "4 Daffodil St, KwaDukuza Ext 19, KwaDukuza, 4449, South Africa",
+   "address": "1 School Rd, KwaDukuza Ext 19, KwaDukuza, 4449, South Africa",
    "region": "KZN",
-   "lat": -29.3182495,
-   "lng": 31.2769534,
+   "lat": -29.3230543,
+   "lng": 31.2785803,
    "types": [
     "Open"
    ],
@@ -3996,10 +4015,10 @@
    "day": 4,
    "time": "12:00",
    "endTime": "13:00",
-   "address": "15 Fairview Centre Caledon Street Fairview Centre, Somerset West, Cape Town, 7130, South Africa",
+   "address": "45 Andries Pretorius St, Audas Estate, Cape Town, 7130, South Africa",
    "region": "Western Cape",
-   "lat": -34.0838093,
-   "lng": 18.852665,
+   "lat": -34.0867709,
+   "lng": 18.8502028,
    "types": [],
    "notes": null,
    "online": false,
@@ -6256,14 +6275,14 @@
   {
    "id": "aa-1408",
    "fellowship": "AA",
-   "name": "Helderberg 12&amp;12AT12",
+   "name": "Somerset West - Ex(s)Press(o)",
    "day": 2,
    "time": "12:00",
    "endTime": "13:00",
-   "address": "15 Fairview Centre Caledon Street Fairview Centre, Somerset West, Cape Town, 7130, South Africa",
+   "address": "45 Andries Pretorius St, Audas Estate, Cape Town, 7130, South Africa",
    "region": "Western Cape",
-   "lat": -34.0838093,
-   "lng": 18.852665,
+   "lat": -34.0867709,
+   "lng": 18.8502028,
    "types": [],
    "notes": null,
    "online": false,
@@ -7967,16 +7986,16 @@
   {
    "id": "na-wc-5195",
    "fellowship": "NA",
-   "name": "Paarl Thursday (**** N.B LOCATION CHANGE - 24/06/2026)",
+   "name": "Paarl Thursday",
    "day": 4,
    "time": "19:00",
    "endTime": "20:30",
-   "address": "7X68+V49 Paarl",
+   "address": "Malherbe Street & Pastorie Avenue, Esterville, Paarl, 7646, South Africa",
    "region": "Western Cape",
-   "lat": -33.7378375,
-   "lng": 18.9653594,
+   "lat": -33.7339087,
+   "lng": 18.9633592,
    "types": [],
-   "notes": "**\nN.B Paarl NA meeting will NOT be at its usual venue this week (wk39) Thursday at 19:00.\nMeeting at the PUBLIC PARK across the road from La Rochelle Girls school in Faure street Paarl central\n**\n\nMeeting is open to non-addicts every last Thursday of the month. Meeting is wheel-chair friendly and accessible.",
+   "notes": "Meeting is open to non-addicts every last Thursday of the month. Meeting is wheel-chair friendly and accessible.",
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/paarl/"
@@ -8029,7 +8048,7 @@
    "lat": -33.9628176,
    "lng": 22.4687498,
    "types": [],
-   "notes": "1st meeting of month open and beginners topic, 2nd week step, 3rd week topic, 4th week share and if 5th then traditions.",
+   "notes": "Format\n1st meeting of month= Open beginners topic\n2nd meeting of month= Step\n3rd meeting of month= Topic\n4th meeting of month = Share\n5th meeting of month = Traditions",
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/george/"
@@ -8162,10 +8181,10 @@
    "endTime": "20:30",
    "address": "82 Firmount Road, Goede Hoop, Cape Town, 7130, South Africa",
    "region": "Western Cape",
-   "lat": -34.0654499,
-   "lng": 18.8365601,
+   "lat": -34.065298478486,
+   "lng": 18.83594035785,
    "types": [],
-   "notes": "Please note that there will be no meeting on 24 December 2025 as the venue will be unavailable.",
+   "notes": null,
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/somerset-west/"
@@ -8515,8 +8534,7 @@
    "lat": -34.0503996,
    "lng": 18.4578814,
    "types": [
-    "BEG",
-    "Open"
+    "BEG"
    ],
    "notes": "The meeting is open to non-addicts every first Monday of the month.\nNewcomer friendly, one and a half hour meeting with a break, tea and coffee.\n\n(Open: For addicts and non-addicts. Friends, family, and visitors are welcome.\nClosed: For addicts or those who think they may have a drug problem.)",
    "online": false,
@@ -8619,7 +8637,10 @@
    "region": "Western Cape",
    "lat": -33.9163857,
    "lng": 18.419354,
-   "types": [],
+   "types": [
+    "JFT",
+    "SPK"
+   ],
    "notes": "This is a closed meeting except for the first Monday of each month.\nPlease note that the in-person meeting venue is closed on public holidays.",
    "online": false,
    "conferenceUrl": null,
@@ -12170,17 +12191,17 @@
    "fellowship": "NA",
    "name": "Wednesday New Life Meeting",
    "day": 3,
-   "time": "18:45",
-   "endTime": "20:45",
+   "time": "19:00",
+   "endTime": "20:00",
    "address": "442 Koedoesnek Ave, Waterkloof Ridge, Pretoria, 0181, South Africa",
    "region": "Pretoria",
    "lat": -25.8164162,
    "lng": 28.2473089,
    "types": [
     "BEG",
+    "Open",
     "SPK",
-    "TOP",
-    "Open"
+    "TOP"
    ],
    "notes": null,
    "online": false,
