@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-12T11:46:10.627Z",
+ "updated": "2026-10-19T09:43:40.364Z",
  "counts": {
-  "AA": 408,
-  "NA": 272,
+  "AA": 407,
+  "NA": 271,
   "CA": 41,
-  "total": 721
+  "total": 719
  },
  "meetings": [
   {
@@ -1518,8 +1518,8 @@
    "fellowship": "AA",
    "name": "Plettenberg Bay",
    "day": 6,
-   "time": "18:00",
-   "endTime": "19:00",
+   "time": "08:00",
+   "endTime": "09:00",
    "address": "11 Green Point Ave, Plettenberg Bay, 6600, South Africa",
    "region": "Garden Route",
    "lat": -34.0623416,
@@ -5433,15 +5433,15 @@
    "id": "aa-1500",
    "fellowship": "AA",
    "name": "Queensburgh Group of Alcoholics Anonymous",
-   "day": 2,
-   "time": "19:00",
-   "endTime": "20:00",
+   "day": 3,
+   "time": "19:30",
+   "endTime": "20:30",
    "address": "134 Vausedale Rd, Northdene, Queensburgh, 4064, South Africa",
    "region": "KZN",
    "lat": -29.8643911,
    "lng": 30.8878637,
    "types": [
-    "Closed"
+    "Open"
    ],
    "notes": null,
    "online": false,
@@ -7027,25 +7027,6 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/george"
-  },
-  {
-   "id": "aa-1330",
-   "fellowship": "AA",
-   "name": "Heuweloord AA Group",
-   "day": 1,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "13 Theron St, Heuweloord, Centurion, 0157, South Africa",
-   "region": "Northern",
-   "lat": -25.8883325,
-   "lng": 28.1069333,
-   "types": [
-    "Open"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/heuweloord-aa-group"
   },
   {
    "id": "aa-1282",
@@ -10623,8 +10604,7 @@
    "lng": 31.0940125,
    "types": [
     "Open",
-    "TOP",
-    "TC"
+    "TOP"
    ],
    "notes": null,
    "online": false,
@@ -10926,10 +10906,10 @@
    "day": 5,
    "time": "19:30",
    "endTime": "20:30",
-   "address": "40 Gaysingh Rd, Northdale, Pietermaritzburg, 3201, South Africa",
+   "address": "79 Larkspur Road, Belfort Estate, Pietermaritzburg, 3201, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.5662035,
-   "lng": 30.3911176,
+   "lat": -29.5569633,
+   "lng": 30.3854551,
    "types": [
     "JFT",
     "Open",
@@ -10987,10 +10967,10 @@
    "day": 5,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "225 Musgrave Rd, Musgrave, Durban, 4000, South Africa",
+   "address": "210 Musgrave Rd, Musgrave, Berea, 4001, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.8459211,
-   "lng": 31.0008705,
+   "lat": -29.8460033,
+   "lng": 31.0014738,
    "types": [
     "Open",
     "SPK",
@@ -11140,27 +11120,6 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/kzn/meetings/umhlali-tuesday-2/"
-  },
-  {
-   "id": "na-kzn-8920",
-   "fellowship": "NA",
-   "name": "Richards Bay Thursday",
-   "day": 4,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "20 Brake Fern, Brackenham, Richards Bay, 3900, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -28.7243605,
-   "lng": 32.0392194,
-   "types": [
-    "Open",
-    "TOP",
-    "TC"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/richards-bay-thursday/"
   },
   {
    "id": "na-kzn-8922",
@@ -11497,10 +11456,10 @@
    "day": 2,
    "time": "19:30",
    "endTime": "20:30",
-   "address": "40 Gaysingh Rd, Northdale, Pietermaritzburg, 3201, South Africa",
+   "address": "79 Larkspur Road, Belfort Estate, Pietermaritzburg, 3201, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.5662035,
-   "lng": 30.3911176,
+   "lat": -29.5569633,
+   "lng": 30.3854551,
    "types": [
     "Open",
     "TOP"
@@ -11517,10 +11476,10 @@
    "day": 2,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "G6C8+MR oThongathi",
+   "address": "Old Main Rd, Umhlali, oThongathi, 4390, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.4783125,
-   "lng": 31.2170625,
+   "lat": -29.478277,
+   "lng": 31.2170702,
    "types": [
     "JFT",
     "Open"
@@ -11644,8 +11603,7 @@
    "lng": 30.8765551,
    "types": [
     "JFT",
-    "Open",
-    "TC"
+    "Open"
    ],
    "notes": null,
    "online": false,
@@ -12911,7 +12869,7 @@
    "day": 4,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "12 Chauser Road, Farrarmere, BENONI, South Africa",
+   "address": "4 Umtata Road, Norton Home Estate, BENONI, South Africa",
    "region": "Johannesburg",
    "types": [],
    "notes": null,
@@ -12919,8 +12877,8 @@
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
    "id": "ca-22",
-   "lat": -26.164724,
-   "lng": 28.2938818
+   "lat": -26.1303096,
+   "lng": 28.2905629
   },
   {
    "fellowship": "CA",
@@ -13111,7 +13069,7 @@
   },
   {
    "fellowship": "CA",
-   "name": "Rooted in Hope",
+   "name": "Rooted in Hope (TEMPORARILY CLOSED)",
    "day": 2,
    "time": "19:00",
    "endTime": "20:00",
