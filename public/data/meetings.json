@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-19T09:43:40.364Z",
+ "updated": "2026-10-26T09:55:32.979Z",
  "counts": {
   "AA": 407,
-  "NA": 271,
+  "NA": 270,
   "CA": 41,
-  "total": 719
+  "total": 718
  },
  "meetings": [
   {
@@ -10528,26 +10528,6 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/kzn/meetings/buffelsdale-wednesday-meeting/"
-  },
-  {
-   "id": "na-kzn-8990",
-   "fellowship": "NA",
-   "name": "Toti Sunday Steps Meeting",
-   "day": 0,
-   "time": "16:30",
-   "endTime": "17:30",
-   "address": "157 Kingsway Rd, eManzimtoti, 4126, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -30.0656018,
-   "lng": 30.8765551,
-   "types": [
-    "STEP",
-    "English"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/toti-sunday-steps-meeting/"
   },
   {
    "id": "na-kzn-8969",
