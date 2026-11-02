@@ -1,12 +1,31 @@
 {
- "updated": "2026-10-26T09:55:32.979Z",
+ "updated": "2026-11-02T12:07:52.566Z",
  "counts": {
-  "AA": 407,
+  "AA": 408,
   "NA": 270,
   "CA": 41,
-  "total": 718
+  "total": 719
  },
  "meetings": [
+  {
+   "id": "aa-2597",
+   "fellowship": "AA",
+   "name": "Ladysmith",
+   "day": 3,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "69 Queen St, uMnambithi, 3370, South Africa",
+   "region": "KZN",
+   "lat": -28.5586109,
+   "lng": 29.7785541,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ladysmith"
+  },
   {
    "id": "aa-2591",
    "fellowship": "AA",
@@ -88,8 +107,8 @@
    "fellowship": "AA",
    "name": "Robertson A.A. Group",
    "day": 1,
-   "time": "18:00",
-   "endTime": "19:00",
+   "time": "18:30",
+   "endTime": "19:30",
    "address": "34 Van Reenen St, Robertson, 6705, South Africa",
    "region": "Western Cape",
    "lat": -33.8032548,
@@ -7723,7 +7742,7 @@
    "lat": -34.0807001,
    "lng": 18.8452615,
    "types": [],
-   "notes": null,
+   "notes": "Our primary meeting venue is unavailable on Friday, 30 October 2026, so that meeting will be held at our alternative venue as follows:\n\nNG Helderberg Gemeente Church, 82 Firmount Road, Somerset West, Cape Town, 7130\n\nPlease use the gate on the north-west side of the church on Schoongezicht Street",
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/helderberg/"
@@ -8090,8 +8109,8 @@
    "fellowship": "NA",
    "name": "Wednesday Grow and Change",
    "day": 3,
-   "time": "20:00",
-   "endTime": "21:30",
+   "time": "19:30",
+   "endTime": "21:00",
    "address": "55 Kreupelhout St, Lentegeur, Cape Town, 7786, South Africa",
    "region": "Western Cape",
    "lat": -34.03357,
@@ -8305,7 +8324,7 @@
    "types": [
     "Closed"
    ],
-   "notes": "Kalk Bay Changing Tides is a closed meeting for addicts or those who think they may have a drug problem.\nJoin us to celebrate in the gift of recovery in this beautiful meeting that has been running for over 25 years.\n\nThis meeting will be held at the Sunday Serenity venue from 17th December to 7th January.\n\nWill resume at the regular venue from 14th January.",
+   "notes": "Kalk Bay Changing Tides is a closed meeting for addicts or those who think they may have a drug problem.\nJoin us to celebrate in the gift of recovery in this beautiful meeting that has been running for over 25 years.\n\nWe will be making use of the Mountain View Baptist Church venue on Tuesday 3rd November. Starting 15min later than usual and will be returning to our usual time and venue the following week. Hope to see you there.",
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/kalk-bay/"
@@ -8458,7 +8477,7 @@
    "name": "Gordon's Bay Monday Night",
    "day": 1,
    "time": "19:15",
-   "endTime": "20:15",
+   "endTime": "20:45",
    "address": "87 Beach Rd, Gordons Bay Central, Cape Town, 7151, South Africa",
    "region": "Western Cape",
    "lat": -34.1614874,
@@ -10530,24 +10549,45 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/buffelsdale-wednesday-meeting/"
   },
   {
-   "id": "na-kzn-8969",
+   "id": "na-kzn-8974",
    "fellowship": "NA",
-   "name": "Park Rynie Sunday",
+   "name": "Morningside Sunday",
    "day": 0,
-   "time": "16:30",
-   "endTime": "17:30",
-   "address": "512 2nd St, Park Rynie, 4182, South Africa",
+   "time": "18:30",
+   "endTime": "19:30",
+   "address": "3 Lumsden Cres, Morningside, Berea, 4001, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -30.3094934,
-   "lng": 30.7422101,
+   "lat": -29.8220348,
+   "lng": 31.0105328,
    "types": [
-    "JFT",
-    "Open"
+    "LC",
+    "Open",
+    "TRAD"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/park-rynie-sunday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/overport-sunday/"
+  },
+  {
+   "id": "na-kzn-8972",
+   "fellowship": "NA",
+   "name": "Tongaat Sunday",
+   "day": 0,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "2 Canary Cres, Buffelsdale, oThongathi, 4401, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.5816766,
+   "lng": 31.0940125,
+   "types": [
+    "Open",
+    "TOP"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/tongaat-sunday/"
   },
   {
    "id": "na-kzn-8971",
@@ -10572,78 +10612,16 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/merebank-sunday/"
   },
   {
-   "id": "na-kzn-8972",
+   "id": "na-kzn-8969",
    "fellowship": "NA",
-   "name": "Tongaat Sunday",
+   "name": "Park Rynie Sunday",
    "day": 0,
-   "time": "18:00",
-   "endTime": "19:00",
-   "address": "2 Canary Cres, Buffelsdale, oThongathi, 4401, South Africa",
+   "time": "16:30",
+   "endTime": "17:30",
+   "address": "512 2nd St, Park Rynie, 4182, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.5816766,
-   "lng": 31.0940125,
-   "types": [
-    "Open",
-    "TOP"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/tongaat-sunday/"
-  },
-  {
-   "id": "na-kzn-8974",
-   "fellowship": "NA",
-   "name": "Morningside Sunday",
-   "day": 0,
-   "time": "18:30",
-   "endTime": "19:30",
-   "address": "3 Lumsden Cres, Morningside, Berea, 4001, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.8220348,
-   "lng": 31.0105328,
-   "types": [
-    "LC",
-    "Open",
-    "TRAD"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/overport-sunday/"
-  },
-  {
-   "id": "na-kzn-8962",
-   "fellowship": "NA",
-   "name": "Pinetown Saturday",
-   "day": 6,
-   "time": "19:00",
-   "endTime": "20:15",
-   "address": "2 Maurice Nichols Rd, Hatton Estate, Pinetown, 3610, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.8247912,
-   "lng": 30.8658715,
-   "types": [
-    "Open",
-    "SPK",
-    "TOP"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/pinetown-saturday/"
-  },
-  {
-   "id": "na-kzn-8964",
-   "fellowship": "NA",
-   "name": "Durban Beach Sunday",
-   "day": 0,
-   "time": "08:00",
-   "endTime": "09:00",
-   "address": "114 Snell Parade, North Beach, Durban, 4001, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.8446648,
-   "lng": 31.0355797,
+   "lat": -30.3094934,
+   "lng": 30.7422101,
    "types": [
     "JFT",
     "Open"
@@ -10651,7 +10629,27 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/durban-beach-sunday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/park-rynie-sunday/"
+  },
+  {
+   "id": "na-kzn-8967",
+   "fellowship": "NA",
+   "name": "Hillcrest Sunday",
+   "day": 0,
+   "time": "16:00",
+   "endTime": "17:00",
+   "address": "1A Old Main Rd, Hilldene, Hillcrest, 3610, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.7890833,
+   "lng": 30.7743453,
+   "types": [
+    "Open",
+    "TOP"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/hillcrest-sunday/"
   },
   {
    "id": "na-kzn-8966",
@@ -10674,24 +10672,45 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/phoenix-sunday/"
   },
   {
-   "id": "na-kzn-8967",
+   "id": "na-kzn-8964",
    "fellowship": "NA",
-   "name": "Hillcrest Sunday",
+   "name": "Durban Beach Sunday",
    "day": 0,
-   "time": "16:00",
-   "endTime": "17:00",
-   "address": "1A Old Main Rd, Hilldene, Hillcrest, 3610, South Africa",
+   "time": "08:00",
+   "endTime": "09:00",
+   "address": "114 Snell Parade, North Beach, Durban, 4001, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.7890833,
-   "lng": 30.7743453,
+   "lat": -29.8446648,
+   "lng": 31.0355797,
+   "types": [
+    "JFT",
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/durban-beach-sunday/"
+  },
+  {
+   "id": "na-kzn-8962",
+   "fellowship": "NA",
+   "name": "Pinetown Saturday",
+   "day": 6,
+   "time": "19:00",
+   "endTime": "20:15",
+   "address": "2 Maurice Nichols Rd, Hatton Estate, Pinetown, 3610, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.8247912,
+   "lng": 30.8658715,
    "types": [
     "Open",
+    "SPK",
     "TOP"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/hillcrest-sunday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/pinetown-saturday/"
   },
   {
    "id": "na-kzn-8960",
@@ -10735,6 +10754,26 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/ballito-saturday/"
   },
   {
+   "id": "na-kzn-8957",
+   "fellowship": "NA",
+   "name": "Tongaat Saturday",
+   "day": 6,
+   "time": "16:00",
+   "endTime": "17:00",
+   "address": "1 Victoria Ave, Gandhi`s Hill, oThongathi, 4400, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.5708341,
+   "lng": 31.1198791,
+   "types": [
+    "Closed",
+    "TOP"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/tongaat-saturday/"
+  },
+  {
    "id": "na-kzn-8955",
    "fellowship": "NA",
    "name": "Redhill Saturday",
@@ -10755,24 +10794,25 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/redhill-friday/"
   },
   {
-   "id": "na-kzn-8957",
+   "id": "na-kzn-8954",
    "fellowship": "NA",
-   "name": "Tongaat Saturday",
+   "name": "Umzinto Saturday",
    "day": 6,
-   "time": "16:00",
-   "endTime": "17:00",
-   "address": "1 Victoria Ave, Gandhi`s Hill, oThongathi, 4400, South Africa",
+   "time": "15:00",
+   "endTime": "16:00",
+   "address": "Ocean View Rd, Hazelwood, eMuziwezinto, 4200, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.5708341,
-   "lng": 31.1198791,
+   "lat": -30.3008269,
+   "lng": 30.6732368,
    "types": [
-    "Closed",
+    "Open",
+    "SPK",
     "TOP"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/tongaat-saturday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/umzinto-saturday/"
   },
   {
    "id": "na-kzn-8952",
@@ -10796,16 +10836,16 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/phoenix-saturday/"
   },
   {
-   "id": "na-kzn-8954",
+   "id": "na-kzn-8950",
    "fellowship": "NA",
-   "name": "Umzinto Saturday",
+   "name": "IsiZulu Saturday",
    "day": 6,
-   "time": "15:00",
-   "endTime": "16:00",
-   "address": "Ocean View Rd, Hazelwood, eMuziwezinto, 4200, South Africa",
+   "time": "14:00",
+   "endTime": "15:00",
+   "address": "2 Cathedral Rd, Durban Central, Durban, 4001, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -30.3008269,
-   "lng": 30.6732368,
+   "lat": -29.8572211,
+   "lng": 31.015922,
    "types": [
     "Open",
     "SPK",
@@ -10814,7 +10854,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/umzinto-saturday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/isizulu-saturday/"
   },
   {
    "id": "na-kzn-8948",
@@ -10839,27 +10879,6 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/sydenham-saturday/"
   },
   {
-   "id": "na-kzn-8950",
-   "fellowship": "NA",
-   "name": "IsiZulu Saturday",
-   "day": 6,
-   "time": "14:00",
-   "endTime": "15:00",
-   "address": "2 Cathedral Rd, Durban Central, Durban, 4001, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.8572211,
-   "lng": 31.015922,
-   "types": [
-    "Open",
-    "SPK",
-    "TOP"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/isizulu-saturday/"
-  },
-  {
    "id": "na-kzn-8946",
    "fellowship": "NA",
    "name": "Scottburgh Saturday",
@@ -10878,6 +10897,26 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/kzn/meetings/scottburgh-saturday/"
+  },
+  {
+   "id": "na-kzn-8942",
+   "fellowship": "NA",
+   "name": "Sydenham Friday",
+   "day": 5,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "Thekwini TVET College, 262 Daintree Ave, Asherville, Berea, 4091, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.8252369,
+   "lng": 30.9865979,
+   "types": [
+    "Open",
+    "TOP"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/sydenham-friday/"
   },
   {
    "id": "na-kzn-8940",
@@ -10901,16 +10940,16 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/pmb-midlands-friday/"
   },
   {
-   "id": "na-kzn-8942",
+   "id": "na-kzn-8939",
    "fellowship": "NA",
-   "name": "Sydenham Friday",
+   "name": "Austerville Friday",
    "day": 5,
-   "time": "19:30",
-   "endTime": "20:30",
-   "address": "Thekwini TVET College, 262 Daintree Ave, Asherville, Berea, 4091, South Africa",
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "2 Petingo Grove, Austerville, Bluff, 4052, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.8252369,
-   "lng": 30.9865979,
+   "lat": -29.9409252,
+   "lng": 30.9809018,
    "types": [
     "Open",
     "TOP"
@@ -10918,27 +10957,27 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/sydenham-friday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/austerville-friday/"
   },
   {
-   "id": "na-kzn-8935",
+   "id": "na-kzn-8938",
    "fellowship": "NA",
-   "name": "Howick Friday",
+   "name": "Phoenix Friday",
    "day": 5,
-   "time": "18:00",
-   "endTime": "19:00",
-   "address": "21 Buchanan St, Howick, 3290, South Africa",
+   "time": "19:00",
+   "endTime": "20:30",
+   "address": "205 Canehaven Dr, Foresthaven, Phoenix, 4068, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.4772844,
-   "lng": 30.2192894,
+   "lat": -29.6862367,
+   "lng": 31.017549,
    "types": [
     "Closed",
-    "JFT"
+    "Step"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/howick-friday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/phoenix-friday/"
   },
   {
    "id": "na-kzn-8937",
@@ -10962,56 +11001,56 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/musgrave-friday/"
   },
   {
-   "id": "na-kzn-8938",
+   "id": "na-kzn-8935",
    "fellowship": "NA",
-   "name": "Phoenix Friday",
+   "name": "Howick Friday",
    "day": 5,
-   "time": "19:00",
-   "endTime": "20:30",
-   "address": "205 Canehaven Dr, Foresthaven, Phoenix, 4068, South Africa",
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "21 Buchanan St, Howick, 3290, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.6862367,
-   "lng": 31.017549,
+   "lat": -29.4772844,
+   "lng": 30.2192894,
    "types": [
     "Closed",
-    "Step"
+    "JFT"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/phoenix-friday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/howick-friday/"
   },
   {
-   "id": "na-kzn-8939",
+   "id": "na-kzn-8934",
    "fellowship": "NA",
-   "name": "Austerville Friday",
+   "name": "Salt Rock Friday Beach Meeting",
    "day": 5,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "2 Petingo Grove, Austerville, Bluff, 4052, South Africa",
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "Garden Rd, Umhlali Beach, Ballito, 4420, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.9409252,
-   "lng": 30.9809018,
+   "lat": -29.506328,
+   "lng": 31.2346767,
    "types": [
     "Open",
-    "TOP"
+    "SPAD"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/austerville-friday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/friday-ballito-beach-meeting/"
   },
   {
-   "id": "na-kzn-8928",
+   "id": "na-kzn-8932",
    "fellowship": "NA",
-   "name": "Together We Can - Fynnlands Group",
-   "day": 4,
-   "time": "19:30",
-   "endTime": "20:30",
-   "address": "400 Lighthouse Rd, Fynnlands, Durban, 4052, South Africa",
+   "name": "Scottburgh Friday",
+   "day": 5,
+   "time": "16:30",
+   "endTime": "17:30",
+   "address": "Ann Arbor Rd, Scottburgh South, Scottburgh, 4180, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.9039724,
-   "lng": 31.0279707,
+   "lat": -30.299018,
+   "lng": 30.746164,
    "types": [
     "Open",
     "TOP"
@@ -11019,7 +11058,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/fynnlands-thursday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/scottburgh-friday/"
   },
   {
    "id": "na-kzn-8930",
@@ -11043,16 +11082,16 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/pmb-friday/"
   },
   {
-   "id": "na-kzn-8932",
+   "id": "na-kzn-8928",
    "fellowship": "NA",
-   "name": "Scottburgh Friday",
-   "day": 5,
-   "time": "16:30",
-   "endTime": "17:30",
-   "address": "Ann Arbor Rd, Scottburgh South, Scottburgh, 4180, South Africa",
+   "name": "Together We Can - Fynnlands Group",
+   "day": 4,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "400 Lighthouse Rd, Fynnlands, Durban, 4052, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -30.299018,
-   "lng": 30.746164,
+   "lat": -29.9039724,
+   "lng": 31.0279707,
    "types": [
     "Open",
     "TOP"
@@ -11060,68 +11099,27 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/scottburgh-friday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/fynnlands-thursday/"
   },
   {
-   "id": "na-kzn-8934",
+   "id": "na-kzn-8926",
    "fellowship": "NA",
-   "name": "Salt Rock Friday Beach Meeting",
-   "day": 5,
-   "time": "18:00",
-   "endTime": "19:00",
-   "address": "14 Garden Rd, Umhlali Beach, Ballito, 4420, South Africa",
+   "name": "Newlands West Thursday",
+   "day": 4,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "Hilldale Dr & Jackscastle Ave, Steelcastle, Newlands West, 4037, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.5039982,
-   "lng": 31.2330596,
+   "lat": -29.772492,
+   "lng": 30.952176,
    "types": [
     "Open",
-    "SPAD"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/friday-ballito-beach-meeting/"
-  },
-  {
-   "id": "na-kzn-8918",
-   "fellowship": "NA",
-   "name": "Umhlali Thursday",
-   "day": 4,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "Old Main Rd, Umhlali, oThongathi, 4390, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.478277,
-   "lng": 31.2170702,
-   "types": [
-    "Closed"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/umhlali-tuesday-2/"
-  },
-  {
-   "id": "na-kzn-8922",
-   "fellowship": "NA",
-   "name": "Phoenix Thursday",
-   "day": 4,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "70 Strandbrook Cres, Brookdale, Phoenix, 4068, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.6815596,
-   "lng": 31.0036641,
-   "types": [
-    "JFT",
-    "Open",
-    "SPK",
     "TOP"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/phoenix-thursday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/newlands-west-thursday/"
   },
   {
    "id": "na-kzn-8924",
@@ -11146,24 +11144,45 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/thursday-queensburgh/"
   },
   {
-   "id": "na-kzn-8926",
+   "id": "na-kzn-8922",
    "fellowship": "NA",
-   "name": "Newlands West Thursday",
+   "name": "Phoenix Thursday",
    "day": 4,
-   "time": "19:30",
-   "endTime": "20:30",
-   "address": "Hilldale Dr & Jackscastle Ave, Steelcastle, Newlands West, 4037, South Africa",
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "70 Strandbrook Cres, Brookdale, Phoenix, 4068, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.772492,
-   "lng": 30.952176,
+   "lat": -29.6815596,
+   "lng": 31.0036641,
    "types": [
+    "JFT",
     "Open",
+    "SPK",
     "TOP"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/newlands-west-thursday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/phoenix-thursday/"
+  },
+  {
+   "id": "na-kzn-8918",
+   "fellowship": "NA",
+   "name": "Umhlali Thursday",
+   "day": 4,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "Old Main Rd, Umhlali, oThongathi, 4390, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.478277,
+   "lng": 31.2170702,
+   "types": [
+    "Closed"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/umhlali-tuesday-2/"
   },
   {
    "id": "na-kzn-8917",
@@ -11206,25 +11225,6 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/margate-thursday/"
   },
   {
-   "id": "na-kzn-8911",
-   "fellowship": "NA",
-   "name": "Hillcrest Thursday",
-   "day": 4,
-   "time": "18:30",
-   "endTime": "19:30",
-   "address": "1A Old Main Rd, Hilldene, Hillcrest, 3610, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.7890833,
-   "lng": 30.7743453,
-   "types": [
-    "Open"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/hillcrest-thursday/"
-  },
-  {
    "id": "na-kzn-8913",
    "fellowship": "NA",
    "name": "Umhlanga Thursday",
@@ -11244,6 +11244,25 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/kzn/meetings/umhlanga-thursday/"
+  },
+  {
+   "id": "na-kzn-8911",
+   "fellowship": "NA",
+   "name": "Hillcrest Thursday",
+   "day": 4,
+   "time": "18:30",
+   "endTime": "19:30",
+   "address": "1A Old Main Rd, Hilldene, Hillcrest, 3610, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.7890833,
+   "lng": 30.7743453,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/hillcrest-thursday/"
   },
   {
    "id": "na-kzn-8909",
@@ -11266,26 +11285,6 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/pmb-wednesday/"
   },
   {
-   "id": "na-kzn-8905",
-   "fellowship": "NA",
-   "name": "Austerville Wednesday",
-   "day": 3,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "2 Petingo Grove, Austerville, Bluff, 4052, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.9409252,
-   "lng": 30.9809018,
-   "types": [
-    "Closed",
-    "Step"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/austerville-wednesday/"
-  },
-  {
    "id": "na-kzn-8907",
    "fellowship": "NA",
    "name": "Chatsworth Wednesday - Step Work",
@@ -11305,25 +11304,24 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/chatsworth-wednesday-step-work/"
   },
   {
-   "id": "na-kzn-8902",
+   "id": "na-kzn-8905",
    "fellowship": "NA",
-   "name": "City Group, Musgrave Wednesday",
+   "name": "Austerville Wednesday",
    "day": 3,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "190 Saint Thomaslaan, Musgrave, Durban, 4001, South Africa",
+   "address": "2 Petingo Grove, Austerville, Bluff, 4052, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.8465841,
-   "lng": 31.0005759,
+   "lat": -29.9409252,
+   "lng": 30.9809018,
    "types": [
-    "Open",
-    "SPK",
-    "TOP"
+    "Closed",
+    "Step"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/city-group-wednesday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/austerville-wednesday/"
   },
   {
    "id": "na-kzn-8904",
@@ -11347,16 +11345,16 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/westville-wednesday/"
   },
   {
-   "id": "na-kzn-8896",
+   "id": "na-kzn-8902",
    "fellowship": "NA",
-   "name": "Redhill Tuesday",
-   "day": 2,
-   "time": "19:30",
-   "endTime": "20:30",
-   "address": "8 Firwood Rd, Greenwood Park, Durban North, 4051, South Africa",
+   "name": "City Group, Musgrave Wednesday",
+   "day": 3,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "190 Saint Thomaslaan, Musgrave, Durban, 4001, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.7778036,
-   "lng": 31.0205178,
+   "lat": -29.8465841,
+   "lng": 31.0005759,
    "types": [
     "Open",
     "SPK",
@@ -11365,28 +11363,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/redhill-tuesday/"
-  },
-  {
-   "id": "na-kzn-8898",
-   "fellowship": "NA",
-   "name": "Vision of Hope Bluff Group",
-   "day": 2,
-   "time": "19:30",
-   "endTime": "20:45",
-   "address": "936 Bluff Rd, Bluff, Durban, 4052, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.9103546,
-   "lng": 31.0146652,
-   "types": [
-    "Open",
-    "Step",
-    "TOP"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/bluff-tuesday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/city-group-wednesday/"
   },
   {
    "id": "na-kzn-8900",
@@ -11410,24 +11387,46 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/howick-wednesday-mens-meeting/"
   },
   {
-   "id": "na-kzn-8892",
+   "id": "na-kzn-8898",
    "fellowship": "NA",
-   "name": "Flamingo Heights Tongaat Tuesday",
+   "name": "Vision of Hope Bluff Group",
    "day": 2,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "Flamingo Heights, Buffelsdale, oThongathi, 4399, South Africa",
+   "time": "19:30",
+   "endTime": "20:45",
+   "address": "936 Bluff Rd, Bluff, Durban, 4052, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.5836788,
-   "lng": 31.0934812,
+   "lat": -29.9103546,
+   "lng": 31.0146652,
    "types": [
     "Open",
+    "Step",
     "TOP"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/tongaat-tuesday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/bluff-tuesday/"
+  },
+  {
+   "id": "na-kzn-8896",
+   "fellowship": "NA",
+   "name": "Redhill Tuesday",
+   "day": 2,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "8 Firwood Rd, Greenwood Park, Durban North, 4051, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.7778036,
+   "lng": 31.0205178,
+   "types": [
+    "Open",
+    "SPK",
+    "TOP"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/redhill-tuesday/"
   },
   {
    "id": "na-kzn-8894",
@@ -11450,16 +11449,36 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/pmb-tuesday/"
   },
   {
-   "id": "na-kzn-8886",
+   "id": "na-kzn-8892",
    "fellowship": "NA",
-   "name": "Umhlali Tuesday",
+   "name": "Flamingo Heights Tongaat Tuesday",
    "day": 2,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "Old Main Rd, Umhlali, oThongathi, 4390, South Africa",
+   "address": "Flamingo Heights, Buffelsdale, oThongathi, 4399, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.478277,
-   "lng": 31.2170702,
+   "lat": -29.5836788,
+   "lng": 31.0934812,
+   "types": [
+    "Open",
+    "TOP"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/tongaat-tuesday/"
+  },
+  {
+   "id": "na-kzn-8890",
+   "fellowship": "NA",
+   "name": "Pennington Tuesday",
+   "day": 2,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "Gumtree Rd & Pennington Dr, Pennington, 4184, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -30.385178,
+   "lng": 30.694181,
    "types": [
     "JFT",
     "Open"
@@ -11467,7 +11486,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/umhlali-tuesday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/pennington-tuesday/"
   },
   {
    "id": "na-kzn-8888",
@@ -11491,16 +11510,16 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/phoenix-tuesday/"
   },
   {
-   "id": "na-kzn-8890",
+   "id": "na-kzn-8886",
    "fellowship": "NA",
-   "name": "Pennington Tuesday",
+   "name": "Umhlali Tuesday",
    "day": 2,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "Gumtree Rd & Pennington Dr, Pennington, 4184, South Africa",
+   "address": "Old Main Rd, Umhlali, oThongathi, 4390, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -30.385178,
-   "lng": 30.694181,
+   "lat": -29.478277,
+   "lng": 31.2170702,
    "types": [
     "JFT",
     "Open"
@@ -11508,67 +11527,7 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/pennington-tuesday/"
-  },
-  {
-   "id": "na-kzn-8878",
-   "fellowship": "NA",
-   "name": "Austerville Monday",
-   "day": 1,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "2 Petingo Grove, Austerville, Bluff, 4052, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.9409252,
-   "lng": 30.9809018,
-   "types": [
-    "Literature",
-    "Open"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/austerville-monday/"
-  },
-  {
-   "id": "na-kzn-8880",
-   "fellowship": "NA",
-   "name": "Chatsworth Monday",
-   "day": 1,
-   "time": "19:30",
-   "endTime": "20:30",
-   "address": "14 Joyhurst St, Westcliff, Chatsworth, 4092, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.9146577,
-   "lng": 30.8792426,
-   "types": [
-    "Open",
-    "TOP"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/chatsworth-monday/"
-  },
-  {
-   "id": "na-kzn-8882",
-   "fellowship": "NA",
-   "name": "Newlands East Monday",
-   "day": 1,
-   "time": "19:30",
-   "endTime": "20:30",
-   "address": "Garrick Cres, Newlands East, 4037, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.7697848,
-   "lng": 30.983018,
-   "types": [
-    "Open",
-    "TOP"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/newlands-east-monday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/umhlali-tuesday/"
   },
   {
    "id": "na-kzn-8884",
@@ -11591,16 +11550,56 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/amanzimtoti-tuesday/"
   },
   {
-   "id": "na-kzn-8872",
+   "id": "na-kzn-8882",
    "fellowship": "NA",
-   "name": "Durban North Monday",
+   "name": "Newlands East Monday",
    "day": 1,
-   "time": "18:30",
-   "endTime": "19:30",
-   "address": "3 Swapo Rd, Durban North, 4051, South Africa",
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "Garrick Cres, Newlands East, 4037, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.7842701,
-   "lng": 31.0385933,
+   "lat": -29.7697848,
+   "lng": 30.983018,
+   "types": [
+    "Open",
+    "TOP"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/newlands-east-monday/"
+  },
+  {
+   "id": "na-kzn-8880",
+   "fellowship": "NA",
+   "name": "Chatsworth Monday",
+   "day": 1,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "14 Joyhurst St, Westcliff, Chatsworth, 4092, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.9146577,
+   "lng": 30.8792426,
+   "types": [
+    "Open",
+    "TOP"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/chatsworth-monday/"
+  },
+  {
+   "id": "na-kzn-8878",
+   "fellowship": "NA",
+   "name": "Austerville Monday",
+   "day": 1,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "2 Petingo Grove, Austerville, Bluff, 4052, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.9409252,
+   "lng": 30.9809018,
    "types": [
     "Literature",
     "Open"
@@ -11608,7 +11607,28 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/durban-north-monday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/austerville-monday/"
+  },
+  {
+   "id": "na-kzn-8876",
+   "fellowship": "NA",
+   "name": "Umbilo Monday",
+   "day": 1,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "55 Bartle Rd, Umbilo, Berea, 4075, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.8794501,
+   "lng": 30.9864428,
+   "types": [
+    "Open",
+    "SPK",
+    "TOP"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/umbilo-monday/"
   },
   {
    "id": "na-kzn-8874",
@@ -11631,25 +11651,24 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/phoenix-monday/"
   },
   {
-   "id": "na-kzn-8876",
+   "id": "na-kzn-8872",
    "fellowship": "NA",
-   "name": "Umbilo Monday",
+   "name": "Durban North Monday",
    "day": 1,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "55 Bartle Rd, Umbilo, Berea, 4075, South Africa",
+   "time": "18:30",
+   "endTime": "19:30",
+   "address": "3 Swapo Rd, Durban North, 4051, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.8794501,
-   "lng": 30.9864428,
+   "lat": -29.7842701,
+   "lng": 31.0385933,
    "types": [
-    "Open",
-    "SPK",
-    "TOP"
+    "Literature",
+    "Open"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/umbilo-monday/"
+   "sourceUrl": "https://na.org.za/kzn/meetings/durban-north-monday/"
   },
   {
    "id": "na-pta-5845",
