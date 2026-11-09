@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-02T12:07:52.566Z",
+ "updated": "2026-11-09T12:39:34.708Z",
  "counts": {
   "AA": 408,
   "NA": 270,
-  "CA": 41,
-  "total": 719
+  "CA": 42,
+  "total": 720
  },
  "meetings": [
   {
@@ -7489,15 +7489,15 @@
    "id": "na-wc-5276",
    "fellowship": "NA",
    "name": "CT Women’s Meeting 2026",
-   "day": 0,
-   "time": "16:00",
-   "endTime": "17:00",
-   "address": "56 Campground Rd, Rondebosch, Cape Town, 7700, South Africa",
+   "day": 5,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "Observatory Community Center, Rawson St, Observatory, Cape Town, 7925, South Africa",
    "region": "",
-   "lat": -33.9590996,
-   "lng": 18.4785253,
+   "lat": -33.9371703,
+   "lng": 18.4686021,
    "types": [],
-   "notes": "The focus of this meeting is the nuanced and different experiences of women in active addiction and recovery, providing a forum to share those experiences.\n\nFellowshipping on the last Sunday of every month.\n\nIn line with NA’s 7th Tradition, cash-only donations are requested until a SnapScan account is set up.\n\nParking available on site",
+   "notes": "The focus of this meeting is the nuanced and different experiences of women in active addiction and recovery, providing a forum to share those experiences.\n\nFellowshipping is always encouraged!\n\nIn line with NA’s 7th Tradition, cash-only donations are requested until a SnapScan account is set up.\n\nParking available on site",
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/ct-womens-meeting/"
@@ -7742,7 +7742,7 @@
    "lat": -34.0807001,
    "lng": 18.8452615,
    "types": [],
-   "notes": "Our primary meeting venue is unavailable on Friday, 30 October 2026, so that meeting will be held at our alternative venue as follows:\n\nNG Helderberg Gemeente Church, 82 Firmount Road, Somerset West, Cape Town, 7130\n\nPlease use the gate on the north-west side of the church on Schoongezicht Street",
+   "notes": null,
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/helderberg/"
@@ -8324,7 +8324,7 @@
    "types": [
     "Closed"
    ],
-   "notes": "Kalk Bay Changing Tides is a closed meeting for addicts or those who think they may have a drug problem.\nJoin us to celebrate in the gift of recovery in this beautiful meeting that has been running for over 25 years.\n\nWe will be making use of the Mountain View Baptist Church venue on Tuesday 3rd November. Starting 15min later than usual and will be returning to our usual time and venue the following week. Hope to see you there.",
+   "notes": "Kalk Bay Changing Tides is a closed meeting for addicts or those who think they may have a drug problem.\nJoin us to celebrate in the gift of recovery in this beautiful meeting that has been running for over 25 years.",
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/wc/meetings/kalk-bay/"
@@ -10509,6 +10509,26 @@
    "sourceUrl": "https://na.org.za/jhb/meetings/senaone-soweto-monday-1800/"
   },
   {
+   "id": "na-kzn-9062",
+   "fellowship": "NA",
+   "name": "Chatsworth Friday",
+   "day": 5,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "1 Witteklip St, Croftdene, Chatsworth, 4092, South Africa",
+   "region": "Kwazulu-Natal",
+   "lat": -29.9220518,
+   "lng": 30.8909633,
+   "types": [
+    "Closed",
+    "English"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/kzn/meetings/chatsworth-friday/"
+  },
+  {
    "id": "na-kzn-9003",
    "fellowship": "NA",
    "name": "Kloof Tuesday",
@@ -11183,26 +11203,6 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://na.org.za/kzn/meetings/umhlali-tuesday-2/"
-  },
-  {
-   "id": "na-kzn-8917",
-   "fellowship": "NA",
-   "name": "Belvedere, Tongaat Thursday",
-   "day": 4,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "176 Belvedere Dr, Belvedere, oThongathi, 4399, South Africa",
-   "region": "Kwazulu-Natal",
-   "lat": -29.5801463,
-   "lng": 31.0833556,
-   "types": [
-    "Closed",
-    "TOP"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/kzn/meetings/tongaat-thursday/"
   },
   {
    "id": "na-kzn-8915",
@@ -12813,6 +12813,23 @@
   },
   {
    "fellowship": "CA",
+   "name": "The Higher Road",
+   "day": 3,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "18 High Road, Orchards, JOHANNESBURG, South Africa",
+   "region": "Johannesburg",
+   "types": [],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
+   "id": "ca-19",
+   "lat": -26.1534196,
+   "lng": 28.0746821
+  },
+  {
+   "fellowship": "CA",
    "name": "There is a Solution",
    "day": 3,
    "time": "19:30",
@@ -12824,7 +12841,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-19",
+   "id": "ca-20",
    "lat": -26.1893623,
    "lng": 28.2517368
   },
@@ -12841,7 +12858,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-20",
+   "id": "ca-21",
    "lat": -26.1145895,
    "lng": 27.971875
   },
@@ -12858,7 +12875,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-21",
+   "id": "ca-22",
    "lat": -26.1823999,
    "lng": 28.0300462
   },
@@ -12875,7 +12892,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-22",
+   "id": "ca-23",
    "lat": -26.1303096,
    "lng": 28.2905629
   },
@@ -12892,7 +12909,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-23",
+   "id": "ca-24",
    "lat": -26.1048319,
    "lng": 27.977629
   },
@@ -12909,7 +12926,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-24",
+   "id": "ca-25",
    "lat": -26.0473815,
    "lng": 28.0318823
   },
@@ -12926,7 +12943,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-25",
+   "id": "ca-26",
    "lat": -26.1893623,
    "lng": 28.2517368
   },
@@ -12943,7 +12960,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-26",
+   "id": "ca-27",
    "lat": -26.11366,
    "lng": 27.9690933
   },
@@ -12960,7 +12977,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-27",
+   "id": "ca-28",
    "lat": -26.136848,
    "lng": 28.0159504
   },
@@ -12977,7 +12994,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-28",
+   "id": "ca-29",
    "lat": -26.1454928,
    "lng": 27.9819868
   },
@@ -12994,7 +13011,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-29",
+   "id": "ca-30",
    "lat": -26.1039277,
    "lng": 28.0018863
   },
@@ -13011,7 +13028,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-30",
+   "id": "ca-31",
    "lat": -26.1627402,
    "lng": 28.2626894
   },
@@ -13028,7 +13045,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-31",
+   "id": "ca-32",
    "lat": -26.1155512,
    "lng": 28.0132863
   },
@@ -13045,7 +13062,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-32",
+   "id": "ca-33",
    "lat": -25.9917406,
    "lng": 28.0296786
   },
@@ -13062,7 +13079,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-33",
+   "id": "ca-34",
    "lat": -26.1382392,
    "lng": 28.0151207
   },
@@ -13079,7 +13096,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-34",
+   "id": "ca-35",
    "lat": -25.8801444,
    "lng": 28.1147909
   },
@@ -13096,7 +13113,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-35",
+   "id": "ca-36",
    "lat": -25.79136,
    "lng": 28.2860074
   },
@@ -13113,7 +13130,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-36",
+   "id": "ca-37",
    "lat": -25.8523303,
    "lng": 28.2053361
   },
@@ -13130,7 +13147,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-37",
+   "id": "ca-38",
    "lat": -25.7961862,
    "lng": 28.2956857
   },
@@ -13147,7 +13164,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-38",
+   "id": "ca-39",
    "lat": -25.9916944,
    "lng": 28.0301389
   },
@@ -13164,7 +13181,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-greater-sa/",
-   "id": "ca-39",
+   "id": "ca-40",
    "lat": -32.947125,
    "lng": 27.962554
   },
@@ -13181,7 +13198,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-greater-sa/",
-   "id": "ca-40",
+   "id": "ca-41",
    "lat": -30.2889192,
    "lng": 30.7549371
   }
