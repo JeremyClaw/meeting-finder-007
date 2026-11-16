@@ -1,12 +1,31 @@
 {
- "updated": "2026-11-09T12:39:34.708Z",
+ "updated": "2026-11-16T12:31:47.367Z",
  "counts": {
   "AA": 408,
   "NA": 270,
-  "CA": 42,
-  "total": 720
+  "CA": 43,
+  "total": 721
  },
  "meetings": [
+  {
+   "id": "aa-2609",
+   "fellowship": "AA",
+   "name": "Rydalvale",
+   "day": 2,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "96 Southvale Ave, Rydalvale, Durban, 4068, South Africa",
+   "region": "KZN",
+   "lat": -29.7066256,
+   "lng": 30.9984159,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/rydalvale"
+  },
   {
    "id": "aa-2597",
    "fellowship": "AA",
@@ -52,10 +71,10 @@
    "day": 6,
    "time": "15:00",
    "endTime": "16:00",
-   "address": "26 Old Main Rd, Botha's Hill, Durban, 3650, South Africa",
+   "address": "5 Nqutu Rd, Hillcrest, 3650, South Africa",
    "region": "KZN",
-   "lat": -29.766992,
-   "lng": 30.755853,
+   "lat": -29.776534,
+   "lng": 30.7637655,
    "types": [
     "Open"
    ],
@@ -1219,10 +1238,10 @@
    "day": 6,
    "time": "19:30",
    "endTime": "20:30",
-   "address": "Glensands Ave, Johannesburg South, 2197, South Africa",
+   "address": "45 East Rd, Rewlatch, Johannesburg South, 2197, South Africa",
    "region": "Johannesburg ＆ West Rand Area",
-   "lat": -26.2442692,
-   "lng": 28.0706102,
+   "lat": -26.2447909,
+   "lng": 28.0719853,
    "types": [],
    "notes": null,
    "online": false,
@@ -4936,23 +4955,6 @@
    "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/moreesburg"
   },
   {
-   "id": "aa-1560",
-   "fellowship": "AA",
-   "name": "Ryledale",
-   "day": 2,
-   "time": "20:00",
-   "endTime": "21:00",
-   "address": "160 Abervale Rd, Rydalvale, Phoenix, 4068, South Africa",
-   "region": "KZN",
-   "lat": -29.709619,
-   "lng": 31.001798,
-   "types": [],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/ryledale"
-  },
-  {
    "id": "aa-1563",
    "fellowship": "AA",
    "name": "Express 1 Hour",
@@ -8181,8 +8183,8 @@
    "endTime": "20:30",
    "address": "82 Firmount Road, Goede Hoop, Cape Town, 7130, South Africa",
    "region": "Western Cape",
-   "lat": -34.065298478486,
-   "lng": 18.83594035785,
+   "lat": -34.065341,
+   "lng": 18.8359657,
    "types": [],
    "notes": null,
    "online": false,
@@ -8480,8 +8482,8 @@
    "endTime": "20:45",
    "address": "87 Beach Rd, Gordons Bay Central, Cape Town, 7151, South Africa",
    "region": "Western Cape",
-   "lat": -34.1614874,
-   "lng": 18.8674013,
+   "lat": -34.1613943,
+   "lng": 18.8675433,
    "types": [],
    "notes": "Topic Meeting\nMeeting is open to non-addicts every first Monday of the month.",
    "online": false,
@@ -11671,67 +11673,44 @@
    "sourceUrl": "https://na.org.za/kzn/meetings/durban-north-monday/"
   },
   {
-   "id": "na-pta-5845",
+   "id": "na-pta-5838",
    "fellowship": "NA",
-   "name": "Sunday Afrikaans Meeting",
-   "day": 0,
-   "time": "16:00",
-   "endTime": "17:00",
-   "address": "449 Ridgeview Rd, Waterkloof Ridge, Pretoria, 0181, South Africa",
+   "name": "Friday Eersterus",
+   "day": 5,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "Eersterust, Pretoria, 0021, South Africa",
    "region": "Pretoria",
-   "lat": -25.8140315,
-   "lng": 28.2435817,
-   "types": [
-    "CW",
-    "DISC",
-    "Open",
-    "TOP"
-   ],
-   "notes": "English speakers are welcome!",
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/afrikaans/"
-  },
-  {
-   "id": "na-pta-5843",
-   "fellowship": "NA",
-   "name": "Soshanguve Meeting - Sunday",
-   "day": 0,
-   "time": "10:00",
-   "endTime": "11:00",
-   "address": "0152, Soshanguve - AA, Soshanguve, 0152, South Africa",
-   "region": "Soshanguve",
-   "lat": -25.5027166,
-   "lng": 28.0941318,
-   "types": [
-    "Open",
-    "TOP"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/soshanguve-meeting-sunday-open/"
-  },
-  {
-   "id": "na-pta-5842",
-   "fellowship": "NA",
-   "name": "Saturday Hillcrest Meeting (Afternoon)",
-   "day": 6,
-   "time": "17:00",
-   "endTime": "18:00",
-   "address": "St Wilfrid's Anglican Church, 96 Duxbury Rd, Hillcrest, Pretoria, 0083, South Africa",
-   "region": "Pretoria",
-   "lat": -25.7546412,
-   "lng": 28.2368688,
+   "lat": -25.705664,
+   "lng": 28.3140488,
    "types": [
     "BEG",
+    "TC"
+   ],
+   "notes": "St George's Methodist Church",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/pta/meetings/eersterus-2/"
+  },
+  {
+   "id": "na-pta-5840",
+   "fellowship": "NA",
+   "name": "Friday Lyttleton",
+   "day": 5,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "146 Union Ave, Lyttelton Manor, Centurion, 0157, South Africa",
+   "region": "Pretoria",
+   "lat": -25.8298077,
+   "lng": 28.2058227,
+   "types": [
     "Open",
-    "SPK"
+    "TOP"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/speaker-meeting/"
+   "sourceUrl": "https://na.org.za/pta/meetings/speaker/"
   },
   {
    "id": "na-pta-5841",
@@ -11759,16 +11738,37 @@
    "sourceUrl": "https://na.org.za/pta/meetings/welcome-to-the-newcomer/"
   },
   {
-   "id": "na-pta-5840",
+   "id": "na-pta-5842",
    "fellowship": "NA",
-   "name": "Friday Lyttleton",
-   "day": 5,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "146 Union Ave, Lyttelton Manor, Centurion, 0157, South Africa",
+   "name": "Saturday Hillcrest Meeting (Afternoon)",
+   "day": 6,
+   "time": "17:00",
+   "endTime": "18:00",
+   "address": "St Wilfrid's Anglican Church, 96 Duxbury Rd, Hillcrest, Pretoria, 0083, South Africa",
    "region": "Pretoria",
-   "lat": -25.8298077,
-   "lng": 28.2058227,
+   "lat": -25.7546412,
+   "lng": 28.2368688,
+   "types": [
+    "BEG",
+    "Open",
+    "SPK"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/pta/meetings/speaker-meeting/"
+  },
+  {
+   "id": "na-pta-5843",
+   "fellowship": "NA",
+   "name": "Soshanguve Meeting - Sunday",
+   "day": 0,
+   "time": "10:00",
+   "endTime": "11:00",
+   "address": "0152, Soshanguve - AA, Soshanguve, 0152, South Africa",
+   "region": "Soshanguve",
+   "lat": -25.5027166,
+   "lng": 28.0941318,
    "types": [
     "Open",
     "TOP"
@@ -11776,87 +11776,92 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/speaker/"
+   "sourceUrl": "https://na.org.za/pta/meetings/soshanguve-meeting-sunday-open/"
   },
   {
-   "id": "na-pta-5838",
+   "id": "na-pta-5845",
    "fellowship": "NA",
-   "name": "Friday Eersterus",
-   "day": 5,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "Eersterust, Pretoria, 0021, South Africa",
+   "name": "Sunday Afrikaans Meeting",
+   "day": 0,
+   "time": "16:00",
+   "endTime": "17:00",
+   "address": "449 Ridgeview Rd, Waterkloof Ridge, Pretoria, 0181, South Africa",
    "region": "Pretoria",
-   "lat": -25.705664,
-   "lng": 28.3140488,
+   "lat": -25.8140315,
+   "lng": 28.2435817,
    "types": [
-    "BEG",
-    "TC"
+    "CW",
+    "DISC",
+    "Open",
+    "TOP"
    ],
-   "notes": "St George's Methodist Church",
+   "notes": "English speakers are welcome!",
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/eersterus-2/"
+   "sourceUrl": "https://na.org.za/pta/meetings/afrikaans/"
   },
   {
-   "id": "na-pta-5836",
+   "id": "na-pta-5825",
    "fellowship": "NA",
-   "name": "Friday Constantia Meeting",
-   "day": 5,
+   "name": "Booysens Meeting - Thursday",
+   "day": 4,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "Lea St & Judith St, Waterkloof Glen, Pretoria, 0010, South Africa",
+   "address": "1249 Beacon St, Booysens, Pretoria, 0082, South Africa",
    "region": "Pretoria",
-   "lat": -25.8044349,
-   "lng": 28.280266,
+   "lat": -25.7061819,
+   "lng": 28.1229915,
    "types": [
-    "Literature",
     "Open",
-    "SPK"
+    "TOP",
+    "TC"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/group-living-clean-format-literature-study/"
+   "sourceUrl": "https://na.org.za/pta/meetings/booysens-meeting-thursday-open/"
   },
   {
-   "id": "na-pta-5834",
+   "id": "na-pta-5827",
    "fellowship": "NA",
-   "name": "Friday Mamelodi West",
-   "day": 5,
-   "time": "18:00",
-   "endTime": "19:00",
-   "address": "19 Sweba St, Mamelodi - CA3, Pretoria, 0122, South Africa",
+   "name": "Men's Meeting",
+   "day": 4,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "17 Midas Ave, Olympus, Pretoria, 0081, South Africa",
    "region": "Pretoria",
-   "lat": -25.7086463,
-   "lng": 28.3369821,
+   "lat": -25.8059801,
+   "lng": 28.3394547,
    "types": [
-    "English",
+    "BT",
+    "TC",
     "Open"
    ],
-   "notes": "Open Meeting",
+   "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/mamelodi-west-open2/"
+   "sourceUrl": "https://na.org.za/pta/meetings/mens-meeting/"
   },
   {
-   "id": "na-pta-5832",
+   "id": "na-pta-5829",
    "fellowship": "NA",
-   "name": "Friday Second Chance Meeting",
-   "day": 5,
-   "time": "17:00",
-   "endTime": "18:00",
-   "address": "Dr Ribane Cres, Mamelodi - MD1, Pretoria, 0122, South Africa",
+   "name": "Thursday Queenswood Meeting",
+   "day": 4,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "239 Stead Ave, Queenswood, Pretoria, 0186, South Africa",
    "region": "Pretoria",
-   "lat": -25.705918,
-   "lng": 28.357379,
+   "lat": -25.7267404,
+   "lng": 28.2456123,
    "types": [
-    "TC"
+    "VAR",
+    "Young People",
+    "Open"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/friday-second-chance-meeting/"
+   "sourceUrl": "https://na.org.za/pta/meetings/topic/"
   },
   {
    "id": "na-pta-5831",
@@ -11882,87 +11887,83 @@
    "sourceUrl": "https://na.org.za/pta/meetings/topic-4/"
   },
   {
-   "id": "na-pta-5829",
+   "id": "na-pta-5832",
    "fellowship": "NA",
-   "name": "Thursday Queenswood Meeting",
-   "day": 4,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "239 Stead Ave, Queenswood, Pretoria, 0186, South Africa",
+   "name": "Friday Second Chance Meeting",
+   "day": 5,
+   "time": "17:00",
+   "endTime": "18:00",
+   "address": "Dr Ribane Cres, Mamelodi - MD1, Pretoria, 0122, South Africa",
    "region": "Pretoria",
-   "lat": -25.7267404,
-   "lng": 28.2456123,
+   "lat": -25.705918,
+   "lng": 28.357379,
    "types": [
-    "VAR",
-    "Young People",
-    "Open"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/topic/"
-  },
-  {
-   "id": "na-pta-5827",
-   "fellowship": "NA",
-   "name": "Men's Meeting",
-   "day": 4,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "17 Midas Ave, Olympus, Pretoria, 0081, South Africa",
-   "region": "Pretoria",
-   "lat": -25.8059801,
-   "lng": 28.3394547,
-   "types": [
-    "BT",
-    "TC",
-    "Open"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/mens-meeting/"
-  },
-  {
-   "id": "na-pta-5825",
-   "fellowship": "NA",
-   "name": "Booysens Meeting - Thursday",
-   "day": 4,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "1249 Beacon St, Booysens, Pretoria, 0082, South Africa",
-   "region": "Pretoria",
-   "lat": -25.7061819,
-   "lng": 28.1229915,
-   "types": [
-    "Open",
-    "TOP",
     "TC"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/booysens-meeting-thursday-open/"
+   "sourceUrl": "https://na.org.za/pta/meetings/friday-second-chance-meeting/"
   },
   {
-   "id": "na-pta-5823",
+   "id": "na-pta-5834",
    "fellowship": "NA",
-   "name": "Thursday Bonfire",
-   "day": 4,
+   "name": "Friday Mamelodi West",
+   "day": 5,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "19 Sweba St, Mamelodi - CA3, Pretoria, 0122, South Africa",
+   "region": "Pretoria",
+   "lat": -25.7086463,
+   "lng": 28.3369821,
+   "types": [
+    "English",
+    "Open"
+   ],
+   "notes": "Open Meeting",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/pta/meetings/mamelodi-west-open2/"
+  },
+  {
+   "id": "na-pta-5836",
+   "fellowship": "NA",
+   "name": "Friday Constantia Meeting",
+   "day": 5,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "446 Zita St, Garsfontein, Pretoria, 0081, South Africa",
+   "address": "Lea St & Judith St, Waterkloof Glen, Pretoria, 0010, South Africa",
    "region": "Pretoria",
-   "lat": -25.790382,
-   "lng": 28.2971342,
+   "lat": -25.8044349,
+   "lng": 28.280266,
    "types": [
-    "BEG",
-    "Open"
+    "Literature",
+    "Open",
+    "SPK"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/new-meeting-thursday-700-pm/"
+   "sourceUrl": "https://na.org.za/pta/meetings/group-living-clean-format-literature-study/"
+  },
+  {
+   "id": "na-pta-5819",
+   "fellowship": "NA",
+   "name": "Thursday Thabazimbi Meeting",
+   "day": 4,
+   "time": "18:30",
+   "endTime": "19:30",
+   "address": "Judith St & Van Der Bijl St, Thabazimbi, 0387, South Africa",
+   "region": "Thabazimbi",
+   "lat": -24.5896733,
+   "lng": 27.4085297,
+   "types": [
+    "TC"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/pta/meetings/thursday-thabazimbi-meeting-open/"
   },
   {
    "id": "na-pta-5821",
@@ -11985,82 +11986,24 @@
    "sourceUrl": "https://na.org.za/pta/meetings/womens-meeting/"
   },
   {
-   "id": "na-pta-5819",
+   "id": "na-pta-5823",
    "fellowship": "NA",
-   "name": "Thursday Thabazimbi Meeting",
+   "name": "Thursday Bonfire",
    "day": 4,
-   "time": "18:30",
-   "endTime": "19:30",
-   "address": "Judith St & Van Der Bijl St, Thabazimbi, 0387, South Africa",
-   "region": "Thabazimbi",
-   "lat": -24.5896733,
-   "lng": 27.4085297,
-   "types": [
-    "TC"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/thursday-thabazimbi-meeting-open/"
-  },
-  {
-   "id": "na-pta-5817",
-   "fellowship": "NA",
-   "name": "Thursday Rustenburg Meeting",
-   "day": 4,
-   "time": "18:30",
-   "endTime": "19:30",
-   "address": "Cuckoo Ave, Rustenburg, South Africa",
-   "region": "Rustenburg",
-   "lat": -25.6992531,
-   "lng": 27.2467375,
-   "types": [
-    "Open"
-   ],
-   "notes": "Every last meeting is an open meeting where non-addicts are welcome to join.",
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/thursday-rustenburg-meeting-open/"
-  },
-  {
-   "id": "na-pta-5815",
-   "fellowship": "NA",
-   "name": "Thursday Second Chance Meeting",
-   "day": 4,
-   "time": "17:00",
-   "endTime": "18:00",
-   "address": "Dr Ribane Cres, Mamelodi - MD1, Pretoria, 0122, South Africa",
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "446 Zita St, Garsfontein, Pretoria, 0081, South Africa",
    "region": "Pretoria",
-   "lat": -25.705918,
-   "lng": 28.357379,
-   "types": [
-    "TC"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/thursday-second-chance-meeting/"
-  },
-  {
-   "id": "na-pta-5814",
-   "fellowship": "NA",
-   "name": "Laudium Serenity Group Meeting",
-   "day": 3,
-   "time": "19:30",
-   "endTime": "20:30",
-   "address": "229 Pearl St, Laudium, Centurion, 0037, South Africa",
-   "region": "Pretoria",
-   "lat": -25.7863207,
-   "lng": 28.107015,
+   "lat": -25.790382,
+   "lng": 28.2971342,
    "types": [
     "BEG",
-    "VAR",
     "Open"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/open-meeting/"
+   "sourceUrl": "https://na.org.za/pta/meetings/new-meeting-thursday-700-pm/"
   },
   {
    "id": "na-pta-5812",
@@ -12085,63 +12028,63 @@
    "sourceUrl": "https://na.org.za/pta/meetings/proteapark-wednesday-meeting-open/"
   },
   {
-   "id": "na-pta-5810",
+   "id": "na-pta-5814",
    "fellowship": "NA",
-   "name": "Wednesday Pride Meeting",
+   "name": "Laudium Serenity Group Meeting",
    "day": 3,
-   "time": "19:00",
-   "endTime": "19:45",
-   "address": "113 Monument Ave, Lyttelton Manor, Centurion, 0157, South Africa",
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "229 Pearl St, Laudium, Centurion, 0037, South Africa",
    "region": "Pretoria",
-   "lat": -25.8326962,
-   "lng": 28.204478,
+   "lat": -25.7863207,
+   "lng": 28.107015,
    "types": [
-    "GL",
+    "BEG",
+    "VAR",
     "Open"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/lgbt/"
+   "sourceUrl": "https://na.org.za/pta/meetings/open-meeting/"
   },
   {
-   "id": "na-pta-5809",
+   "id": "na-pta-5815",
    "fellowship": "NA",
-   "name": "I can't, we can - Wednesday",
-   "day": 3,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "296 Lancia St, Lynnwood Ridge, Pretoria, 0040, South Africa",
+   "name": "Thursday Second Chance Meeting",
+   "day": 4,
+   "time": "17:00",
+   "endTime": "18:00",
+   "address": "Dr Ribane Cres, Mamelodi - MD1, Pretoria, 0122, South Africa",
    "region": "Pretoria",
-   "lat": -25.7633375,
-   "lng": 28.2978082,
-   "types": [
-    "BEG",
-    "Closed"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/i-cant-we-can-wednesday/"
-  },
-  {
-   "id": "na-pta-5807",
-   "fellowship": "NA",
-   "name": "Wednesday Hillcrest Meeting",
-   "day": 3,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "St Wilfrid's Anglican Church, 96 Duxbury Rd, Hillcrest, Pretoria, 0083, South Africa",
-   "region": "Pretoria",
-   "lat": -25.7546412,
-   "lng": 28.2368688,
+   "lat": -25.705918,
+   "lng": 28.357379,
    "types": [
     "TC"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/topic-2/"
+   "sourceUrl": "https://na.org.za/pta/meetings/thursday-second-chance-meeting/"
+  },
+  {
+   "id": "na-pta-5817",
+   "fellowship": "NA",
+   "name": "Thursday Rustenburg Meeting",
+   "day": 4,
+   "time": "18:30",
+   "endTime": "19:30",
+   "address": "Cuckoo Ave, Rustenburg, South Africa",
+   "region": "Rustenburg",
+   "lat": -25.6992531,
+   "lng": 27.2467375,
+   "types": [
+    "Open"
+   ],
+   "notes": "Every last meeting is an open meeting where non-addicts are welcome to join.",
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/pta/meetings/thursday-rustenburg-meeting-open/"
   },
   {
    "id": "na-pta-5806",
@@ -12166,83 +12109,63 @@
    "sourceUrl": "https://na.org.za/pta/meetings/wednesday-new-life-meeting-open/"
   },
   {
-   "id": "na-pta-5804",
+   "id": "na-pta-5807",
    "fellowship": "NA",
-   "name": "Wednesday Second Chance Meeting",
+   "name": "Wednesday Hillcrest Meeting",
    "day": 3,
-   "time": "17:00",
-   "endTime": "18:00",
-   "address": "Dr Ribane Cres, Mamelodi - MD1, Pretoria, 0122, South Africa",
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "St Wilfrid's Anglican Church, 96 Duxbury Rd, Hillcrest, Pretoria, 0083, South Africa",
    "region": "Pretoria",
-   "lat": -25.705918,
-   "lng": 28.357379,
+   "lat": -25.7546412,
+   "lng": 28.2368688,
    "types": [
     "TC"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/wednesday-second-chance-meeting/"
+   "sourceUrl": "https://na.org.za/pta/meetings/topic-2/"
   },
   {
-   "id": "na-pta-5803",
+   "id": "na-pta-5809",
    "fellowship": "NA",
-   "name": "Soshanguve Meeting - Wednesday",
+   "name": "I can't, we can - Wednesday",
    "day": 3,
-   "time": "13:00",
-   "endTime": "14:00",
-   "address": "0152, Soshanguve - AA, Soshanguve, 0152, South Africa",
-   "region": "Soshanguve",
-   "lat": -25.5027166,
-   "lng": 28.0941318,
-   "types": [
-    "Open"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/soshanguve-meeting-wednesday-open/"
-  },
-  {
-   "id": "na-pta-5801",
-   "fellowship": "NA",
-   "name": "Besileia Tuesday Meeting",
-   "day": 2,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "66 Marais St, Rustenburg, 2999, South Africa",
+   "address": "459 Lovers Walk, Lynnwood, Pretoria, 0081, South Africa",
    "region": "Pretoria",
-   "lat": -25.6769633,
-   "lng": 27.236415,
+   "lat": -25.7602749,
+   "lng": 28.2695243,
    "types": [
     "BEG",
-    "JFT",
-    "Open",
-    "ONL"
+    "Closed"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/besileia-tuesday-meeting-open/"
+   "sourceUrl": "https://na.org.za/pta/meetings/i-cant-we-can-wednesday/"
   },
   {
-   "id": "na-pta-5799",
+   "id": "na-pta-5810",
    "fellowship": "NA",
-   "name": "Tuesday Lyttleton",
-   "day": 2,
+   "name": "Wednesday Pride Meeting",
+   "day": 3,
    "time": "19:00",
-   "endTime": "20:00",
+   "endTime": "19:45",
    "address": "113 Monument Ave, Lyttelton Manor, Centurion, 0157, South Africa",
    "region": "Pretoria",
    "lat": -25.8326962,
    "lng": 28.204478,
    "types": [
+    "GL",
     "Open"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/topic-tag-meeting/"
+   "sourceUrl": "https://na.org.za/pta/meetings/lgbt/"
   },
   {
    "id": "na-pta-5798",
@@ -12272,49 +12195,70 @@
    "sourceUrl": "https://na.org.za/pta/meetings/step-up-newcomer-group/"
   },
   {
-   "id": "na-pta-5796",
+   "id": "na-pta-5799",
    "fellowship": "NA",
-   "name": "Mamelodi Meeting",
+   "name": "Tuesday Lyttleton",
    "day": 2,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "Tlou St & Thibela St, Eastwood (Mamelodi), Pretoria, 0083, South Africa",
+   "address": "113 Monument Ave, Lyttelton Manor, Centurion, 0157, South Africa",
    "region": "Pretoria",
-   "lat": -25.7049259,
-   "lng": 28.3759588,
+   "lat": -25.8326962,
+   "lng": 28.204478,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/pta/meetings/topic-tag-meeting/"
+  },
+  {
+   "id": "na-pta-5801",
+   "fellowship": "NA",
+   "name": "Besileia Tuesday Meeting",
+   "day": 2,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "66 Marais St, Rustenburg, 2999, South Africa",
+   "region": "Pretoria",
+   "lat": -25.6769633,
+   "lng": 27.236415,
    "types": [
     "BEG",
-    "TC"
+    "JFT",
+    "Open",
+    "ONL"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/mamelodi/"
+   "sourceUrl": "https://na.org.za/pta/meetings/besileia-tuesday-meeting-open/"
   },
   {
-   "id": "na-pta-5794",
+   "id": "na-pta-5803",
    "fellowship": "NA",
-   "name": "Tuesday Mamelodi",
-   "day": 2,
-   "time": "18:00",
-   "endTime": "19:00",
-   "address": "19027 Somo St, Mamelodi - S&S, Pretoria, 0122, South Africa",
-   "region": "Pretoria",
-   "lat": -25.7041528,
-   "lng": 28.3749915,
+   "name": "Soshanguve Meeting - Wednesday",
+   "day": 3,
+   "time": "13:00",
+   "endTime": "14:00",
+   "address": "0152, Soshanguve - AA, Soshanguve, 0152, South Africa",
+   "region": "Soshanguve",
+   "lat": -25.5027166,
+   "lng": 28.0941318,
    "types": [
-    "TOP"
+    "Open"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/thandanani-walk-in-centre-tuesday-600-pm/"
+   "sourceUrl": "https://na.org.za/pta/meetings/soshanguve-meeting-wednesday-open/"
   },
   {
-   "id": "na-pta-5792",
+   "id": "na-pta-5804",
    "fellowship": "NA",
-   "name": "Tuesday Second Chance Meeting",
-   "day": 2,
+   "name": "Wednesday Second Chance Meeting",
+   "day": 3,
    "time": "17:00",
    "endTime": "18:00",
    "address": "Dr Ribane Cres, Mamelodi - MD1, Pretoria, 0122, South Africa",
@@ -12327,26 +12271,26 @@
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/tuesday-second-chance-meeting/"
+   "sourceUrl": "https://na.org.za/pta/meetings/wednesday-second-chance-meeting/"
   },
   {
-   "id": "na-pta-5791",
+   "id": "na-pta-5787",
    "fellowship": "NA",
-   "name": "Tuesday Mabupane Recovery Meeting",
-   "day": 2,
-   "time": "11:00",
-   "endTime": "12:00",
-   "address": "Mabopane Rd, 0190, South Africa",
-   "region": "Pretoria",
-   "lat": -25.5067725,
-   "lng": 28.0787171,
+   "name": "Monday Rustenburg Meeting",
+   "day": 1,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "Unnamed Rd, Malebitsa, South Africa",
+   "region": "Malebitsa",
+   "lat": -24.8987379,
+   "lng": 28.9329028,
    "types": [
-    "TOP"
+    "Open"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/tuesday-mabupane-recovery-meeting/"
+   "sourceUrl": "https://na.org.za/pta/meetings/monday-rustenburg-meeting-open/"
   },
   {
    "id": "na-pta-5789",
@@ -12369,62 +12313,120 @@
    "sourceUrl": "https://na.org.za/pta/meetings/hammanskraal-tuesday-meeting-open/"
   },
   {
-   "id": "na-pta-5787",
+   "id": "na-pta-5791",
    "fellowship": "NA",
-   "name": "Monday Rustenburg Meeting",
-   "day": 1,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "Unnamed Rd, Malebitsa, South Africa",
-   "region": "Malebitsa",
-   "lat": -24.8987379,
-   "lng": 28.9329028,
+   "name": "Tuesday Mabupane Recovery Meeting",
+   "day": 2,
+   "time": "11:00",
+   "endTime": "12:00",
+   "address": "Mabopane Rd, 0190, South Africa",
+   "region": "Pretoria",
+   "lat": -25.5067725,
+   "lng": 28.0787171,
    "types": [
-    "Open"
+    "TOP"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/monday-rustenburg-meeting-open/"
+   "sourceUrl": "https://na.org.za/pta/meetings/tuesday-mabupane-recovery-meeting/"
   },
   {
-   "id": "na-pta-5783",
+   "id": "na-pta-5792",
    "fellowship": "NA",
-   "name": "Monday Montana Meeting",
-   "day": 1,
-   "time": "19:00",
-   "endTime": "20:00",
-   "address": "435 3rd Rd, Montana, Pretoria, 0187, South Africa",
+   "name": "Tuesday Second Chance Meeting",
+   "day": 2,
+   "time": "17:00",
+   "endTime": "18:00",
+   "address": "Dr Ribane Cres, Mamelodi - MD1, Pretoria, 0122, South Africa",
    "region": "Pretoria",
-   "lat": -25.6677021,
-   "lng": 28.2347045,
+   "lat": -25.705918,
+   "lng": 28.357379,
    "types": [
-    "SPK",
-    "Open"
+    "TC"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/back-to-basics/"
+   "sourceUrl": "https://na.org.za/pta/meetings/tuesday-second-chance-meeting/"
   },
   {
-   "id": "na-pta-5781",
+   "id": "na-pta-5794",
    "fellowship": "NA",
-   "name": "Monday Lyttleton",
-   "day": 1,
+   "name": "Tuesday Mamelodi",
+   "day": 2,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "19027 Somo St, Mamelodi - S&S, Pretoria, 0122, South Africa",
+   "region": "Pretoria",
+   "lat": -25.7041528,
+   "lng": 28.3749915,
+   "types": [
+    "TOP"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/pta/meetings/thandanani-walk-in-centre-tuesday-600-pm/"
+  },
+  {
+   "id": "na-pta-5796",
+   "fellowship": "NA",
+   "name": "Mamelodi Meeting",
+   "day": 2,
    "time": "19:00",
    "endTime": "20:00",
-   "address": "113 Monument Ave, Lyttelton Manor, Centurion, 0157, South Africa",
+   "address": "Tlou St & Thibela St, Eastwood (Mamelodi), Pretoria, 0083, South Africa",
    "region": "Pretoria",
-   "lat": -25.8326962,
-   "lng": 28.204478,
+   "lat": -25.7049259,
+   "lng": 28.3759588,
    "types": [
+    "BEG",
+    "TC"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/pta/meetings/mamelodi/"
+  },
+  {
+   "id": "na-pta-5775",
+   "fellowship": "NA",
+   "name": "Hammanskraal Meeting - Monday",
+   "day": 1,
+   "time": "10:00",
+   "endTime": "11:30",
+   "address": "2875 Molefe Makinta Rd, Kudube Unit 2, Temba, 0400, South Africa",
+   "region": "Pretoria",
+   "lat": -25.3698049,
+   "lng": 28.2520853,
+   "types": [
+    "TOP",
     "Open"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/topic-3/"
+   "sourceUrl": "https://na.org.za/pta/meetings/hammanskraal-meeting-monday-open/"
+  },
+  {
+   "id": "na-pta-5777",
+   "fellowship": "NA",
+   "name": "Monday Second Chance Meeting",
+   "day": 1,
+   "time": "17:00",
+   "endTime": "18:00",
+   "address": "Dr Ribane Cres, Mamelodi - MD1, Pretoria, 0122, South Africa",
+   "region": "Pretoria",
+   "lat": -25.705918,
+   "lng": 28.357379,
+   "types": [
+    "TC"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/pta/meetings/monday-second-chance-meeting/"
   },
   {
    "id": "na-pta-5779",
@@ -12450,43 +12452,43 @@
    "sourceUrl": "https://na.org.za/pta/meetings/spiritual-principles/"
   },
   {
-   "id": "na-pta-5777",
+   "id": "na-pta-5781",
    "fellowship": "NA",
-   "name": "Monday Second Chance Meeting",
+   "name": "Monday Lyttleton",
    "day": 1,
-   "time": "17:00",
-   "endTime": "18:00",
-   "address": "Dr Ribane Cres, Mamelodi - MD1, Pretoria, 0122, South Africa",
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "113 Monument Ave, Lyttelton Manor, Centurion, 0157, South Africa",
    "region": "Pretoria",
-   "lat": -25.705918,
-   "lng": 28.357379,
+   "lat": -25.8326962,
+   "lng": 28.204478,
    "types": [
-    "TC"
-   ],
-   "notes": null,
-   "online": false,
-   "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/monday-second-chance-meeting/"
-  },
-  {
-   "id": "na-pta-5775",
-   "fellowship": "NA",
-   "name": "Hammanskraal Meeting - Monday",
-   "day": 1,
-   "time": "10:00",
-   "endTime": "11:30",
-   "address": "2875 Molefe Makinta Rd, Kudube Unit 2, Temba, 0400, South Africa",
-   "region": "Pretoria",
-   "lat": -25.3698049,
-   "lng": 28.2520853,
-   "types": [
-    "TOP",
     "Open"
    ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
-   "sourceUrl": "https://na.org.za/pta/meetings/hammanskraal-meeting-monday-open/"
+   "sourceUrl": "https://na.org.za/pta/meetings/topic-3/"
+  },
+  {
+   "id": "na-pta-5783",
+   "fellowship": "NA",
+   "name": "Monday Montana Meeting",
+   "day": 1,
+   "time": "19:00",
+   "endTime": "20:00",
+   "address": "435 3rd Rd, Montana, Pretoria, 0187, South Africa",
+   "region": "Pretoria",
+   "lat": -25.6677021,
+   "lng": 28.2347045,
+   "types": [
+    "SPK",
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://na.org.za/pta/meetings/back-to-basics/"
   },
   {
    "fellowship": "CA",
@@ -12543,7 +12545,7 @@
    "fellowship": "CA",
    "name": "Starting Line (Speaker Meeting)",
    "day": 2,
-   "time": "18:30",
+   "time": "19:00",
    "endTime": "20:00",
    "address": "64 Hout St, City Centre, Cape Town, South Africa",
    "region": "Western Cape",
@@ -12552,7 +12554,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-3",
+   "id": "ca-4",
    "lat": -33.9196108,
    "lng": 18.417569
   },
@@ -12569,7 +12571,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-4",
+   "id": "ca-5",
    "lat": -33.9855801,
    "lng": 18.4645374
   },
@@ -12586,7 +12588,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-5",
+   "id": "ca-6",
    "lat": -34.4106474,
    "lng": 19.2402929
   },
@@ -12603,9 +12605,26 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-6",
+   "id": "ca-7",
    "lat": -33.8207754,
    "lng": 18.4924954
+  },
+  {
+   "fellowship": "CA",
+   "name": "CA Muizenberg: “Whose Line is it Anyways”?",
+   "day": 4,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "24 Service Road, Lakeside, South Africa",
+   "region": "Western Cape",
+   "types": [],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
+   "id": "ca-8",
+   "lat": -34.0841507,
+   "lng": 18.4552389
   },
   {
    "fellowship": "CA",
@@ -12620,7 +12639,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-7",
+   "id": "ca-9",
    "lat": -33.9316239,
    "lng": 18.4063405
   },
@@ -12637,7 +12656,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-8",
+   "id": "ca-10",
    "lat": -33.9545074,
    "lng": 18.476776
   },
@@ -12654,7 +12673,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-9",
+   "id": "ca-11",
    "lat": -34.0845936,
    "lng": 18.4541014
   },
@@ -12671,7 +12690,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-westerncape/",
-   "id": "ca-10",
+   "id": "ca-12",
    "lat": -34.0786048,
    "lng": 18.8688395
   },
@@ -12688,7 +12707,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-11",
+   "id": "ca-13",
    "lat": -26.0878076,
    "lng": 27.9919777
   },
@@ -12705,7 +12724,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-12",
+   "id": "ca-14",
    "lat": -26.1454928,
    "lng": 27.9819868
   },
@@ -12722,7 +12741,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-13",
+   "id": "ca-15",
    "lat": -26.2033337,
    "lng": 28.2422662
   },
@@ -12739,7 +12758,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-14",
+   "id": "ca-16",
    "lat": -26.1048319,
    "lng": 27.977629
   },
@@ -12756,7 +12775,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-15",
+   "id": "ca-17",
    "lat": -26.1314412,
    "lng": 27.9656869
   },
@@ -12773,7 +12792,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-16",
+   "id": "ca-18",
    "lat": -26.1544951,
    "lng": 28.3193565
   },
@@ -12790,7 +12809,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-17",
+   "id": "ca-19",
    "lat": -26.047626,
    "lng": 28.0309387
   },
@@ -12807,7 +12826,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-18",
+   "id": "ca-20",
    "lat": -26.1162843,
    "lng": 28.0038122
   },
@@ -12824,7 +12843,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-19",
+   "id": "ca-21",
    "lat": -26.1534196,
    "lng": 28.0746821
   },
@@ -12841,7 +12860,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-20",
+   "id": "ca-22",
    "lat": -26.1893623,
    "lng": 28.2517368
   },
@@ -12858,7 +12877,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-21",
+   "id": "ca-23",
    "lat": -26.1145895,
    "lng": 27.971875
   },
@@ -12875,7 +12894,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-22",
+   "id": "ca-24",
    "lat": -26.1823999,
    "lng": 28.0300462
   },
@@ -12892,7 +12911,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-23",
+   "id": "ca-25",
    "lat": -26.1303096,
    "lng": 28.2905629
   },
@@ -12909,7 +12928,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-24",
+   "id": "ca-26",
    "lat": -26.1048319,
    "lng": 27.977629
   },
@@ -12926,7 +12945,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-25",
+   "id": "ca-27",
    "lat": -26.0473815,
    "lng": 28.0318823
   },
@@ -12943,7 +12962,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-26",
+   "id": "ca-28",
    "lat": -26.1893623,
    "lng": 28.2517368
   },
@@ -12960,7 +12979,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-27",
+   "id": "ca-29",
    "lat": -26.11366,
    "lng": 27.9690933
   },
@@ -12977,7 +12996,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-28",
+   "id": "ca-30",
    "lat": -26.136848,
    "lng": 28.0159504
   },
@@ -12994,7 +13013,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-29",
+   "id": "ca-31",
    "lat": -26.1454928,
    "lng": 27.9819868
   },
@@ -13011,7 +13030,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-30",
+   "id": "ca-32",
    "lat": -26.1039277,
    "lng": 28.0018863
   },
@@ -13028,7 +13047,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-31",
+   "id": "ca-33",
    "lat": -26.1627402,
    "lng": 28.2626894
   },
@@ -13045,7 +13064,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-32",
+   "id": "ca-34",
    "lat": -26.1155512,
    "lng": 28.0132863
   },
@@ -13062,7 +13081,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-33",
+   "id": "ca-35",
    "lat": -25.9917406,
    "lng": 28.0296786
   },
@@ -13079,7 +13098,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-johannesburg/",
-   "id": "ca-34",
+   "id": "ca-36",
    "lat": -26.1382392,
    "lng": 28.0151207
   },
@@ -13096,7 +13115,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-35",
+   "id": "ca-37",
    "lat": -25.8801444,
    "lng": 28.1147909
   },
@@ -13113,7 +13132,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-36",
+   "id": "ca-38",
    "lat": -25.79136,
    "lng": 28.2860074
   },
@@ -13130,7 +13149,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-37",
+   "id": "ca-39",
    "lat": -25.8523303,
    "lng": 28.2053361
   },
@@ -13147,7 +13166,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-38",
+   "id": "ca-40",
    "lat": -25.7961862,
    "lng": 28.2956857
   },
@@ -13164,7 +13183,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-pretoria/",
-   "id": "ca-39",
+   "id": "ca-41",
    "lat": -25.9916944,
    "lng": 28.0301389
   },
@@ -13181,7 +13200,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-greater-sa/",
-   "id": "ca-40",
+   "id": "ca-42",
    "lat": -32.947125,
    "lng": 27.962554
   },
@@ -13198,7 +13217,7 @@
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://ca.org.za/casa/meetings-greater-sa/",
-   "id": "ca-41",
+   "id": "ca-43",
    "lat": -30.2889192,
    "lng": 30.7549371
   }
