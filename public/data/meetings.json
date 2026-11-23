@@ -1,12 +1,126 @@
 {
- "updated": "2026-11-16T12:31:47.367Z",
+ "updated": "2026-11-23T14:12:45.317Z",
  "counts": {
-  "AA": 408,
+  "AA": 414,
   "NA": 270,
   "CA": 43,
-  "total": 721
+  "total": 727
  },
  "meetings": [
+  {
+   "id": "aa-2632",
+   "fellowship": "AA",
+   "name": "Unit 3",
+   "day": 0,
+   "time": "15:00",
+   "endTime": "16:00",
+   "address": "11 701 Rd, Montford, Chatsworth, 4092, South Africa",
+   "region": "KZN",
+   "lat": -29.9215457,
+   "lng": 30.8783143,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/unit-3"
+  },
+  {
+   "id": "aa-2630",
+   "fellowship": "AA",
+   "name": "Unit 9",
+   "day": 0,
+   "time": "22:00",
+   "endTime": "23:00",
+   "address": "182 Crimby Ave, Westcliff, Chatsworth, 4092, South Africa",
+   "region": "KZN",
+   "lat": -29.9118518,
+   "lng": 30.89286,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/unit-9"
+  },
+  {
+   "id": "aa-2628",
+   "fellowship": "AA",
+   "name": "Glenridge Workshop",
+   "day": 5,
+   "time": "19:30",
+   "endTime": "20:30",
+   "address": "18 Alpine Dr, Shallcross, Queensburgh, 4079, South Africa",
+   "region": "KZN",
+   "lat": -29.8870491,
+   "lng": 30.877184,
+   "types": [
+    "Closed"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/glenridge-workshop"
+  },
+  {
+   "id": "aa-2626",
+   "fellowship": "AA",
+   "name": "Feelings Meeting",
+   "day": 5,
+   "time": "18:00",
+   "endTime": "19:00",
+   "address": "180 Lemuria Grove, Arena Park, Chatsworth, 4092, South Africa",
+   "region": "KZN",
+   "lat": -29.9086739,
+   "lng": 30.8711592,
+   "types": [
+    "Closed"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/feelings-meeting"
+  },
+  {
+   "id": "aa-2622",
+   "fellowship": "AA",
+   "name": "Sobriety Unlimited",
+   "day": 2,
+   "time": "20:00",
+   "endTime": "21:00",
+   "address": "72 Golden Poppy Cres, Crossmoor, Chatsworth, 4092, South Africa",
+   "region": "KZN",
+   "lat": -29.8935256,
+   "lng": 30.858257,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/sobriety-unlimited"
+  },
+  {
+   "id": "aa-2617",
+   "fellowship": "AA",
+   "name": "Kings Kloof Krugersdorp Meeting",
+   "day": 0,
+   "time": "10:00",
+   "endTime": "12:00",
+   "address": "1 Wolf St, Paardeplaats 177 IQ, Krugersdorp, 1739, South Africa",
+   "region": "Johannesburg ＆ West Rand Area",
+   "lat": -26.0697044,
+   "lng": 27.7691724,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
+   "online": false,
+   "conferenceUrl": null,
+   "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/kings-kloof-krugersdorp-meeting"
+  },
   {
    "id": "aa-2609",
    "fellowship": "AA",
@@ -1043,8 +1157,10 @@
    "region": "KZN",
    "lat": -29.9215457,
    "lng": 30.8783143,
-   "types": [],
-   "notes": "The theme for 2022 is LIVING SOBER, covering a wide range of topics that enhance the quality of sobriety.",
+   "types": [
+    "Closed"
+   ],
+   "notes": null,
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/haven-workshop"
@@ -1807,11 +1923,13 @@
    "day": 6,
    "time": "07:30",
    "endTime": "08:30",
-   "address": "55 Moorton Dr, Risecliff, Chatsworth, 4092, South Africa",
+   "address": "14 Joyhurst Street, Center Dr, Westcliff, Chatsworth, 4092, South Africa",
    "region": "KZN",
-   "lat": -29.9132199,
-   "lng": 30.8645898,
-   "types": [],
+   "lat": -29.9145199,
+   "lng": 30.8791346,
+   "types": [
+    "Open"
+   ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
@@ -2297,11 +2415,11 @@
    "name": "Durban South Unit 6",
    "day": 5,
    "time": "19:30",
-   "endTime": null,
-   "address": "Lemuria Grove, Arena Park, Chatsworth, 4092, South Africa",
+   "endTime": "20:30",
+   "address": "180 Lemuria Grove, Arena Park, Chatsworth, 4092, South Africa",
    "region": "KZN",
-   "lat": -29.9089917,
-   "lng": 30.8743476,
+   "lat": -29.9086739,
+   "lng": 30.8711592,
    "types": [
     "Open"
    ],
@@ -2906,11 +3024,13 @@
    "day": 4,
    "time": "19:30",
    "endTime": "20:30",
-   "address": "719 Rd & 701 Rd, Montford, Chatsworth, 4092, South Africa",
+   "address": "723 Rd, Montford, Chatsworth, 4092, South Africa",
    "region": "KZN",
-   "lat": -29.9219986,
-   "lng": 30.8712796,
-   "types": [],
+   "lat": -29.9202371,
+   "lng": 30.8721238,
+   "types": [
+    "Open"
+   ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
@@ -2999,7 +3119,9 @@
    "region": "KZN",
    "lat": -29.8870491,
    "lng": 30.877184,
-   "types": [],
+   "types": [
+    "Open"
+   ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
@@ -4379,11 +4501,13 @@
    "day": 3,
    "time": "19:30",
    "endTime": "20:30",
-   "address": "4 Rose Heights Road, Arena Park, Chatsworth, 4092, South Africa",
+   "address": "14 Joyhurst St, Westcliff, Chatsworth, 4092, South Africa",
    "region": "KZN",
-   "lat": -29.9171089,
-   "lng": 30.8856299,
-   "types": [],
+   "lat": -29.9146577,
+   "lng": 30.8792426,
+   "types": [
+    "Open"
+   ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
@@ -5345,12 +5469,14 @@
    "day": 2,
    "time": "19:30",
    "endTime": "20:30",
-   "address": "President Rd & Lenny Naidu Dr, Havenside, Chatsworth, 4092, South Africa",
+   "address": "35 Topham Rd, Havenside, Chatsworth, 4092, South Africa",
    "region": "KZN",
-   "lat": -29.917772,
-   "lng": 30.920158,
-   "types": [],
-   "notes": "Kindly note that the Bayview Group will be closed on Tuesday, 16 December 2025 due to the unavailability of the Havenside Community Hall, which is a municipal facility.\n\nThe meeting will resume on Tuesday, 23 December and will also be open on Tuesday, 30 December.",
+   "lat": -29.926957,
+   "lng": 30.924966,
+   "types": [
+    "Open"
+   ],
+   "notes": null,
    "online": false,
    "conferenceUrl": null,
    "sourceUrl": "https://aasouthafrica.org.za/meetings-list/#/bayview-kzn"
@@ -5453,7 +5579,7 @@
   {
    "id": "aa-1500",
    "fellowship": "AA",
-   "name": "Queensburgh Group of Alcoholics Anonymous",
+   "name": "Queensburgh",
    "day": 3,
    "time": "19:30",
    "endTime": "20:30",
@@ -6430,7 +6556,9 @@
    "region": "KZN",
    "lat": -29.9051266,
    "lng": 30.9183039,
-   "types": [],
+   "types": [
+    "Open"
+   ],
    "notes": null,
    "online": false,
    "conferenceUrl": null,
@@ -6751,10 +6879,10 @@
   {
    "id": "aa-1361",
    "fellowship": "AA",
-   "name": "Chatsworth Workshop - KZN",
+   "name": "Chatsworth Big Book Workshop",
    "day": 1,
-   "time": "19:30",
-   "endTime": "20:30",
+   "time": "19:00",
+   "endTime": "20:00",
    "address": "131 Moorton Dr, Risecliff, Chatsworth, 0027, South Africa",
    "region": "KZN",
    "lat": -29.908452,
@@ -10662,8 +10790,8 @@
    "endTime": "17:00",
    "address": "1A Old Main Rd, Hilldene, Hillcrest, 3610, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.7890833,
-   "lng": 30.7743453,
+   "lat": -29.7889828,
+   "lng": 30.7746791,
    "types": [
     "Open",
     "TOP"
@@ -10887,8 +11015,8 @@
    "endTime": "20:00",
    "address": "14 College Rd, Overport, Berea, 4067, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.8337898,
-   "lng": 30.9911451,
+   "lat": -29.8334056,
+   "lng": 30.9905061,
    "types": [
     "Closed",
     "Men",
@@ -11110,10 +11238,10 @@
    "day": 4,
    "time": "19:30",
    "endTime": "20:30",
-   "address": "400 Lighthouse Rd, Fynnlands, Durban, 4052, South Africa",
+   "address": "Lighthouse Rd, Fynnlands, Bluff, 4052, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.9039724,
-   "lng": 31.0279707,
+   "lat": -29.903972,
+   "lng": 31.0267478,
    "types": [
     "Open",
     "TOP"
@@ -11132,8 +11260,8 @@
    "endTime": "20:30",
    "address": "Hilldale Dr & Jackscastle Ave, Steelcastle, Newlands West, 4037, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.772492,
-   "lng": 30.952176,
+   "lat": -29.7720071,
+   "lng": 30.9523272,
    "types": [
     "Open",
     "TOP"
@@ -11179,7 +11307,6 @@
    "types": [
     "JFT",
     "Open",
-    "SPK",
     "TOP"
    ],
    "notes": null,
@@ -11196,10 +11323,11 @@
    "endTime": "20:00",
    "address": "Old Main Rd, Umhlali, oThongathi, 4390, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.478277,
-   "lng": 31.2170702,
+   "lat": -29.4781671,
+   "lng": 31.2174232,
    "types": [
-    "Closed"
+    "Closed",
+    "Literature"
    ],
    "notes": null,
    "online": false,
@@ -11213,10 +11341,10 @@
    "day": 4,
    "time": "18:30",
    "endTime": "19:30",
-   "address": "Valley Rd, Uvongo, Margate, 4270, South Africa",
+   "address": "16 Valley Rd, Margate, 4275, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -30.8388475,
-   "lng": 30.3797288,
+   "lat": -30.8561937,
+   "lng": 30.3705025,
    "types": [
     "Closed",
     "TOP"
@@ -11235,8 +11363,8 @@
    "endTime": "19:30",
    "address": "6 Bruton Cl, Somerset Park, uMhlanga, 4319, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.7309956,
-   "lng": 31.0577894,
+   "lat": -29.7309226,
+   "lng": 31.0573413,
    "types": [
     "JFT",
     "Literature",
@@ -11256,9 +11384,10 @@
    "endTime": "19:30",
    "address": "1A Old Main Rd, Hilldene, Hillcrest, 3610, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.7890833,
-   "lng": 30.7743453,
+   "lat": -29.7889828,
+   "lng": 30.7746791,
    "types": [
+    "Literature",
     "Open"
    ],
    "notes": null,
@@ -11273,10 +11402,10 @@
    "day": 3,
    "time": "19:30",
    "endTime": "21:00",
-   "address": "Swallow Rd, Belfort Estate, Pietermaritzburg, 3201, South Africa",
+   "address": "8 Swallow Rd, Belfort Estate, Pietermaritzburg, 3201, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.5585297,
-   "lng": 30.3839953,
+   "lat": -29.5593082,
+   "lng": 30.3844005,
    "types": [
     "Open",
     "TOP"
@@ -11298,7 +11427,8 @@
    "lat": -29.9176092,
    "lng": 30.9119898,
    "types": [
-    "Closed"
+    "Closed",
+    "STEP"
    ],
    "notes": null,
    "online": false,
@@ -11318,7 +11448,7 @@
    "lng": 30.9809018,
    "types": [
     "Closed",
-    "Step"
+    "STEP"
    ],
    "notes": null,
    "online": false,
@@ -11379,9 +11509,8 @@
    "lat": -29.4772844,
    "lng": 30.2192894,
    "types": [
-    "JFT",
     "Open",
-    "SPAD"
+    "TOP"
    ],
    "notes": "Please note that this meeting is now open to all.",
    "online": false,
@@ -11520,8 +11649,8 @@
    "endTime": "20:00",
    "address": "Old Main Rd, Umhlali, oThongathi, 4390, South Africa",
    "region": "Kwazulu-Natal",
-   "lat": -29.478277,
-   "lng": 31.2170702,
+   "lat": -29.4781671,
+   "lng": 31.2174232,
    "types": [
     "JFT",
     "Open"
